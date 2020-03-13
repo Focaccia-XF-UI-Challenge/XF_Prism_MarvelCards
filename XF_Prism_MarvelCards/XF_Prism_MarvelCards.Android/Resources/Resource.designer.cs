@@ -26,6 +26,2907 @@ namespace XF_Prism_MarvelCards.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::PanCardView.Droid.Resource.Animation.abc_fade_in = global::XF_Prism_MarvelCards.Droid.Resource.Animation.abc_fade_in;
+			global::PanCardView.Droid.Resource.Animation.abc_fade_out = global::XF_Prism_MarvelCards.Droid.Resource.Animation.abc_fade_out;
+			global::PanCardView.Droid.Resource.Animation.abc_grow_fade_in_from_bottom = global::XF_Prism_MarvelCards.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::PanCardView.Droid.Resource.Animation.abc_popup_enter = global::XF_Prism_MarvelCards.Droid.Resource.Animation.abc_popup_enter;
+			global::PanCardView.Droid.Resource.Animation.abc_popup_exit = global::XF_Prism_MarvelCards.Droid.Resource.Animation.abc_popup_exit;
+			global::PanCardView.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom = global::XF_Prism_MarvelCards.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::PanCardView.Droid.Resource.Animation.abc_slide_in_bottom = global::XF_Prism_MarvelCards.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::PanCardView.Droid.Resource.Animation.abc_slide_in_top = global::XF_Prism_MarvelCards.Droid.Resource.Animation.abc_slide_in_top;
+			global::PanCardView.Droid.Resource.Animation.abc_slide_out_bottom = global::XF_Prism_MarvelCards.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::PanCardView.Droid.Resource.Animation.abc_slide_out_top = global::XF_Prism_MarvelCards.Droid.Resource.Animation.abc_slide_out_top;
+			global::PanCardView.Droid.Resource.Animation.abc_tooltip_enter = global::XF_Prism_MarvelCards.Droid.Resource.Animation.abc_tooltip_enter;
+			global::PanCardView.Droid.Resource.Animation.abc_tooltip_exit = global::XF_Prism_MarvelCards.Droid.Resource.Animation.abc_tooltip_exit;
+			global::PanCardView.Droid.Resource.Animation.design_bottom_sheet_slide_in = global::XF_Prism_MarvelCards.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::PanCardView.Droid.Resource.Animation.design_bottom_sheet_slide_out = global::XF_Prism_MarvelCards.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::PanCardView.Droid.Resource.Animation.design_snackbar_in = global::XF_Prism_MarvelCards.Droid.Resource.Animation.design_snackbar_in;
+			global::PanCardView.Droid.Resource.Animation.design_snackbar_out = global::XF_Prism_MarvelCards.Droid.Resource.Animation.design_snackbar_out;
+			global::PanCardView.Droid.Resource.Animation.EnterFromLeft = global::XF_Prism_MarvelCards.Droid.Resource.Animation.EnterFromLeft;
+			global::PanCardView.Droid.Resource.Animation.EnterFromRight = global::XF_Prism_MarvelCards.Droid.Resource.Animation.EnterFromRight;
+			global::PanCardView.Droid.Resource.Animation.ExitToLeft = global::XF_Prism_MarvelCards.Droid.Resource.Animation.ExitToLeft;
+			global::PanCardView.Droid.Resource.Animation.ExitToRight = global::XF_Prism_MarvelCards.Droid.Resource.Animation.ExitToRight;
+			global::PanCardView.Droid.Resource.Animator.design_appbar_state_list_animator = global::XF_Prism_MarvelCards.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::PanCardView.Droid.Resource.Animator.design_fab_hide_motion_spec = global::XF_Prism_MarvelCards.Droid.Resource.Animator.design_fab_hide_motion_spec;
+			global::PanCardView.Droid.Resource.Animator.design_fab_show_motion_spec = global::XF_Prism_MarvelCards.Droid.Resource.Animator.design_fab_show_motion_spec;
+			global::PanCardView.Droid.Resource.Animator.mtrl_btn_state_list_anim = global::XF_Prism_MarvelCards.Droid.Resource.Animator.mtrl_btn_state_list_anim;
+			global::PanCardView.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::XF_Prism_MarvelCards.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::PanCardView.Droid.Resource.Animator.mtrl_chip_state_list_anim = global::XF_Prism_MarvelCards.Droid.Resource.Animator.mtrl_chip_state_list_anim;
+			global::PanCardView.Droid.Resource.Animator.mtrl_fab_hide_motion_spec = global::XF_Prism_MarvelCards.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::PanCardView.Droid.Resource.Animator.mtrl_fab_show_motion_spec = global::XF_Prism_MarvelCards.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::PanCardView.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::XF_Prism_MarvelCards.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::PanCardView.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::XF_Prism_MarvelCards.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::PanCardView.Droid.Resource.Attribute.actionBarDivider = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionBarDivider;
+			global::PanCardView.Droid.Resource.Attribute.actionBarItemBackground = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionBarItemBackground;
+			global::PanCardView.Droid.Resource.Attribute.actionBarPopupTheme = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::PanCardView.Droid.Resource.Attribute.actionBarSize = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionBarSize;
+			global::PanCardView.Droid.Resource.Attribute.actionBarSplitStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionBarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionBarStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionBarTabBarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionBarTabStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionBarTabStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionBarTabTextStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionBarTheme = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionBarTheme;
+			global::PanCardView.Droid.Resource.Attribute.actionBarWidgetTheme = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::PanCardView.Droid.Resource.Attribute.actionButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionDropDownStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionDropDownStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionLayout = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionLayout;
+			global::PanCardView.Droid.Resource.Attribute.actionMenuTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.actionMenuTextColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionMenuTextColor;
+			global::PanCardView.Droid.Resource.Attribute.actionModeBackground = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionModeBackground;
+			global::PanCardView.Droid.Resource.Attribute.actionModeCloseButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionModeCloseDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::PanCardView.Droid.Resource.Attribute.actionModeCopyDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::PanCardView.Droid.Resource.Attribute.actionModeCutDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::PanCardView.Droid.Resource.Attribute.actionModeFindDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::PanCardView.Droid.Resource.Attribute.actionModePasteDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::PanCardView.Droid.Resource.Attribute.actionModePopupWindowStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionModeSelectAllDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::PanCardView.Droid.Resource.Attribute.actionModeShareDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::PanCardView.Droid.Resource.Attribute.actionModeSplitBackground = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::PanCardView.Droid.Resource.Attribute.actionModeStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionModeStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionModeWebSearchDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::PanCardView.Droid.Resource.Attribute.actionOverflowButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionOverflowMenuStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionProviderClass = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionProviderClass;
+			global::PanCardView.Droid.Resource.Attribute.actionViewClass = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.actionViewClass;
+			global::PanCardView.Droid.Resource.Attribute.activityChooserViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.alertDialogButtonGroupStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::PanCardView.Droid.Resource.Attribute.alertDialogCenterButtons = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::PanCardView.Droid.Resource.Attribute.alertDialogStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.alertDialogStyle;
+			global::PanCardView.Droid.Resource.Attribute.alertDialogTheme = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.alertDialogTheme;
+			global::PanCardView.Droid.Resource.Attribute.allowStacking = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.allowStacking;
+			global::PanCardView.Droid.Resource.Attribute.alpha = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.alpha;
+			global::PanCardView.Droid.Resource.Attribute.alphabeticModifiers = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.alphabeticModifiers;
+			global::PanCardView.Droid.Resource.Attribute.arrowHeadLength = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.arrowHeadLength;
+			global::PanCardView.Droid.Resource.Attribute.arrowShaftLength = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.arrowShaftLength;
+			global::PanCardView.Droid.Resource.Attribute.autoCompleteTextViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.autoSizeMaxTextSize = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::PanCardView.Droid.Resource.Attribute.autoSizeMinTextSize = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::PanCardView.Droid.Resource.Attribute.autoSizePresetSizes = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::PanCardView.Droid.Resource.Attribute.autoSizeStepGranularity = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::PanCardView.Droid.Resource.Attribute.autoSizeTextType = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.autoSizeTextType;
+			global::PanCardView.Droid.Resource.Attribute.background = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.background;
+			global::PanCardView.Droid.Resource.Attribute.backgroundSplit = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.backgroundSplit;
+			global::PanCardView.Droid.Resource.Attribute.backgroundStacked = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.backgroundStacked;
+			global::PanCardView.Droid.Resource.Attribute.backgroundTint = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.backgroundTint;
+			global::PanCardView.Droid.Resource.Attribute.backgroundTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.backgroundTintMode;
+			global::PanCardView.Droid.Resource.Attribute.barLength = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.barLength;
+			global::PanCardView.Droid.Resource.Attribute.behavior_autoHide = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.behavior_autoHide;
+			global::PanCardView.Droid.Resource.Attribute.behavior_fitToContents = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.behavior_fitToContents;
+			global::PanCardView.Droid.Resource.Attribute.behavior_hideable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.behavior_hideable;
+			global::PanCardView.Droid.Resource.Attribute.behavior_overlapTop = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.behavior_overlapTop;
+			global::PanCardView.Droid.Resource.Attribute.behavior_peekHeight = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.behavior_peekHeight;
+			global::PanCardView.Droid.Resource.Attribute.behavior_skipCollapsed = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::PanCardView.Droid.Resource.Attribute.borderlessButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.borderWidth = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.borderWidth;
+			global::PanCardView.Droid.Resource.Attribute.bottomAppBarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.bottomAppBarStyle;
+			global::PanCardView.Droid.Resource.Attribute.bottomNavigationStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.bottomNavigationStyle;
+			global::PanCardView.Droid.Resource.Attribute.bottomSheetDialogTheme = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::PanCardView.Droid.Resource.Attribute.bottomSheetStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.bottomSheetStyle;
+			global::PanCardView.Droid.Resource.Attribute.boxBackgroundColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.boxBackgroundColor;
+			global::PanCardView.Droid.Resource.Attribute.boxBackgroundMode = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.boxBackgroundMode;
+			global::PanCardView.Droid.Resource.Attribute.boxCollapsedPaddingTop = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.boxCollapsedPaddingTop;
+			global::PanCardView.Droid.Resource.Attribute.boxCornerRadiusBottomEnd = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::PanCardView.Droid.Resource.Attribute.boxCornerRadiusBottomStart = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::PanCardView.Droid.Resource.Attribute.boxCornerRadiusTopEnd = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::PanCardView.Droid.Resource.Attribute.boxCornerRadiusTopStart = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.boxCornerRadiusTopStart;
+			global::PanCardView.Droid.Resource.Attribute.boxStrokeColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.boxStrokeColor;
+			global::PanCardView.Droid.Resource.Attribute.boxStrokeWidth = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.boxStrokeWidth;
+			global::PanCardView.Droid.Resource.Attribute.buttonBarButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.buttonBarNegativeButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.buttonBarNeutralButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.buttonBarPositiveButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.buttonBarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.buttonBarStyle;
+			global::PanCardView.Droid.Resource.Attribute.buttonGravity = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.buttonGravity;
+			global::PanCardView.Droid.Resource.Attribute.buttonIconDimen = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.buttonIconDimen;
+			global::PanCardView.Droid.Resource.Attribute.buttonPanelSideLayout = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::PanCardView.Droid.Resource.Attribute.buttonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.buttonStyle;
+			global::PanCardView.Droid.Resource.Attribute.buttonStyleSmall = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.buttonStyleSmall;
+			global::PanCardView.Droid.Resource.Attribute.buttonTint = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.buttonTint;
+			global::PanCardView.Droid.Resource.Attribute.buttonTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.buttonTintMode;
+			global::PanCardView.Droid.Resource.Attribute.cardBackgroundColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.cardBackgroundColor;
+			global::PanCardView.Droid.Resource.Attribute.cardCornerRadius = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.cardCornerRadius;
+			global::PanCardView.Droid.Resource.Attribute.cardElevation = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.cardElevation;
+			global::PanCardView.Droid.Resource.Attribute.cardMaxElevation = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.cardMaxElevation;
+			global::PanCardView.Droid.Resource.Attribute.cardPreventCornerOverlap = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::PanCardView.Droid.Resource.Attribute.cardUseCompatPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::PanCardView.Droid.Resource.Attribute.cardViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.cardViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.checkboxStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.checkboxStyle;
+			global::PanCardView.Droid.Resource.Attribute.checkedChip = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.checkedChip;
+			global::PanCardView.Droid.Resource.Attribute.checkedIcon = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.checkedIcon;
+			global::PanCardView.Droid.Resource.Attribute.checkedIconEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.checkedIconEnabled;
+			global::PanCardView.Droid.Resource.Attribute.checkedIconVisible = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.checkedIconVisible;
+			global::PanCardView.Droid.Resource.Attribute.checkedTextViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.chipBackgroundColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipBackgroundColor;
+			global::PanCardView.Droid.Resource.Attribute.chipCornerRadius = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipCornerRadius;
+			global::PanCardView.Droid.Resource.Attribute.chipEndPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipEndPadding;
+			global::PanCardView.Droid.Resource.Attribute.chipGroupStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipGroupStyle;
+			global::PanCardView.Droid.Resource.Attribute.chipIcon = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipIcon;
+			global::PanCardView.Droid.Resource.Attribute.chipIconEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipIconEnabled;
+			global::PanCardView.Droid.Resource.Attribute.chipIconSize = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipIconSize;
+			global::PanCardView.Droid.Resource.Attribute.chipIconTint = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipIconTint;
+			global::PanCardView.Droid.Resource.Attribute.chipIconVisible = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipIconVisible;
+			global::PanCardView.Droid.Resource.Attribute.chipMinHeight = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipMinHeight;
+			global::PanCardView.Droid.Resource.Attribute.chipSpacing = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipSpacing;
+			global::PanCardView.Droid.Resource.Attribute.chipSpacingHorizontal = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipSpacingHorizontal;
+			global::PanCardView.Droid.Resource.Attribute.chipSpacingVertical = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipSpacingVertical;
+			global::PanCardView.Droid.Resource.Attribute.chipStandaloneStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipStandaloneStyle;
+			global::PanCardView.Droid.Resource.Attribute.chipStartPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipStartPadding;
+			global::PanCardView.Droid.Resource.Attribute.chipStrokeColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipStrokeColor;
+			global::PanCardView.Droid.Resource.Attribute.chipStrokeWidth = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipStrokeWidth;
+			global::PanCardView.Droid.Resource.Attribute.chipStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.chipStyle;
+			global::PanCardView.Droid.Resource.Attribute.closeIcon = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.closeIcon;
+			global::PanCardView.Droid.Resource.Attribute.closeIconEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.closeIconEnabled;
+			global::PanCardView.Droid.Resource.Attribute.closeIconEndPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.closeIconEndPadding;
+			global::PanCardView.Droid.Resource.Attribute.closeIconSize = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.closeIconSize;
+			global::PanCardView.Droid.Resource.Attribute.closeIconStartPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.closeIconStartPadding;
+			global::PanCardView.Droid.Resource.Attribute.closeIconTint = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.closeIconTint;
+			global::PanCardView.Droid.Resource.Attribute.closeIconVisible = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.closeIconVisible;
+			global::PanCardView.Droid.Resource.Attribute.closeItemLayout = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.closeItemLayout;
+			global::PanCardView.Droid.Resource.Attribute.collapseContentDescription = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.collapseContentDescription;
+			global::PanCardView.Droid.Resource.Attribute.collapsedTitleGravity = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::PanCardView.Droid.Resource.Attribute.collapsedTitleTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.collapseIcon = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.collapseIcon;
+			global::PanCardView.Droid.Resource.Attribute.color = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.color;
+			global::PanCardView.Droid.Resource.Attribute.colorAccent = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.colorAccent;
+			global::PanCardView.Droid.Resource.Attribute.colorBackgroundFloating = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::PanCardView.Droid.Resource.Attribute.colorButtonNormal = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.colorButtonNormal;
+			global::PanCardView.Droid.Resource.Attribute.colorControlActivated = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.colorControlActivated;
+			global::PanCardView.Droid.Resource.Attribute.colorControlHighlight = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.colorControlHighlight;
+			global::PanCardView.Droid.Resource.Attribute.colorControlNormal = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.colorControlNormal;
+			global::PanCardView.Droid.Resource.Attribute.colorError = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.colorError;
+			global::PanCardView.Droid.Resource.Attribute.colorPrimary = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.colorPrimary;
+			global::PanCardView.Droid.Resource.Attribute.colorPrimaryDark = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.colorPrimaryDark;
+			global::PanCardView.Droid.Resource.Attribute.colorSecondary = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.colorSecondary;
+			global::PanCardView.Droid.Resource.Attribute.colorSwitchThumbNormal = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::PanCardView.Droid.Resource.Attribute.commitIcon = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.commitIcon;
+			global::PanCardView.Droid.Resource.Attribute.contentDescription = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.contentDescription;
+			global::PanCardView.Droid.Resource.Attribute.contentInsetEnd = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.contentInsetEnd;
+			global::PanCardView.Droid.Resource.Attribute.contentInsetEndWithActions = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::PanCardView.Droid.Resource.Attribute.contentInsetLeft = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.contentInsetLeft;
+			global::PanCardView.Droid.Resource.Attribute.contentInsetRight = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.contentInsetRight;
+			global::PanCardView.Droid.Resource.Attribute.contentInsetStart = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.contentInsetStart;
+			global::PanCardView.Droid.Resource.Attribute.contentInsetStartWithNavigation = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::PanCardView.Droid.Resource.Attribute.contentPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.contentPadding;
+			global::PanCardView.Droid.Resource.Attribute.contentPaddingBottom = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.contentPaddingBottom;
+			global::PanCardView.Droid.Resource.Attribute.contentPaddingLeft = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.contentPaddingLeft;
+			global::PanCardView.Droid.Resource.Attribute.contentPaddingRight = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.contentPaddingRight;
+			global::PanCardView.Droid.Resource.Attribute.contentPaddingTop = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.contentPaddingTop;
+			global::PanCardView.Droid.Resource.Attribute.contentScrim = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.contentScrim;
+			global::PanCardView.Droid.Resource.Attribute.controlBackground = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.controlBackground;
+			global::PanCardView.Droid.Resource.Attribute.coordinatorLayoutStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::PanCardView.Droid.Resource.Attribute.cornerRadius = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.cornerRadius;
+			global::PanCardView.Droid.Resource.Attribute.counterEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.counterEnabled;
+			global::PanCardView.Droid.Resource.Attribute.counterMaxLength = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.counterMaxLength;
+			global::PanCardView.Droid.Resource.Attribute.counterOverflowTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.counterTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.counterTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.customNavigationLayout = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.customNavigationLayout;
+			global::PanCardView.Droid.Resource.Attribute.defaultQueryHint = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.defaultQueryHint;
+			global::PanCardView.Droid.Resource.Attribute.dialogCornerRadius = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.dialogCornerRadius;
+			global::PanCardView.Droid.Resource.Attribute.dialogPreferredPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::PanCardView.Droid.Resource.Attribute.dialogTheme = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.dialogTheme;
+			global::PanCardView.Droid.Resource.Attribute.displayOptions = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.displayOptions;
+			global::PanCardView.Droid.Resource.Attribute.divider = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.divider;
+			global::PanCardView.Droid.Resource.Attribute.dividerHorizontal = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.dividerHorizontal;
+			global::PanCardView.Droid.Resource.Attribute.dividerPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.dividerPadding;
+			global::PanCardView.Droid.Resource.Attribute.dividerVertical = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.dividerVertical;
+			global::PanCardView.Droid.Resource.Attribute.drawableSize = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.drawableSize;
+			global::PanCardView.Droid.Resource.Attribute.drawerArrowStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.drawerArrowStyle;
+			global::PanCardView.Droid.Resource.Attribute.dropdownListPreferredItemHeight = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::PanCardView.Droid.Resource.Attribute.dropDownListViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.editTextBackground = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.editTextBackground;
+			global::PanCardView.Droid.Resource.Attribute.editTextColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.editTextColor;
+			global::PanCardView.Droid.Resource.Attribute.editTextStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.editTextStyle;
+			global::PanCardView.Droid.Resource.Attribute.elevation = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.elevation;
+			global::PanCardView.Droid.Resource.Attribute.enforceMaterialTheme = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.enforceMaterialTheme;
+			global::PanCardView.Droid.Resource.Attribute.enforceTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.enforceTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.errorEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.errorEnabled;
+			global::PanCardView.Droid.Resource.Attribute.errorTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.errorTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::PanCardView.Droid.Resource.Attribute.expanded = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.expanded;
+			global::PanCardView.Droid.Resource.Attribute.expandedTitleGravity = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.expandedTitleGravity;
+			global::PanCardView.Droid.Resource.Attribute.expandedTitleMargin = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.expandedTitleMargin;
+			global::PanCardView.Droid.Resource.Attribute.expandedTitleMarginBottom = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::PanCardView.Droid.Resource.Attribute.expandedTitleMarginEnd = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::PanCardView.Droid.Resource.Attribute.expandedTitleMarginStart = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::PanCardView.Droid.Resource.Attribute.expandedTitleMarginTop = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::PanCardView.Droid.Resource.Attribute.expandedTitleTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.externalRouteEnabledDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.externalRouteEnabledDrawable;
+			global::PanCardView.Droid.Resource.Attribute.fabAlignmentMode = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fabAlignmentMode;
+			global::PanCardView.Droid.Resource.Attribute.fabCradleMargin = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fabCradleMargin;
+			global::PanCardView.Droid.Resource.Attribute.fabCradleRoundedCornerRadius = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::PanCardView.Droid.Resource.Attribute.fabCradleVerticalOffset = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fabCradleVerticalOffset;
+			global::PanCardView.Droid.Resource.Attribute.fabCustomSize = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fabCustomSize;
+			global::PanCardView.Droid.Resource.Attribute.fabSize = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fabSize;
+			global::PanCardView.Droid.Resource.Attribute.fastScrollEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fastScrollEnabled;
+			global::PanCardView.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::PanCardView.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::PanCardView.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::PanCardView.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::PanCardView.Droid.Resource.Attribute.firstBaselineToTopHeight = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.firstBaselineToTopHeight;
+			global::PanCardView.Droid.Resource.Attribute.floatingActionButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.floatingActionButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.font = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.font;
+			global::PanCardView.Droid.Resource.Attribute.fontFamily = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fontFamily;
+			global::PanCardView.Droid.Resource.Attribute.fontProviderAuthority = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fontProviderAuthority;
+			global::PanCardView.Droid.Resource.Attribute.fontProviderCerts = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fontProviderCerts;
+			global::PanCardView.Droid.Resource.Attribute.fontProviderFetchStrategy = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::PanCardView.Droid.Resource.Attribute.fontProviderFetchTimeout = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::PanCardView.Droid.Resource.Attribute.fontProviderPackage = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fontProviderPackage;
+			global::PanCardView.Droid.Resource.Attribute.fontProviderQuery = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fontProviderQuery;
+			global::PanCardView.Droid.Resource.Attribute.fontStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fontStyle;
+			global::PanCardView.Droid.Resource.Attribute.fontVariationSettings = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fontVariationSettings;
+			global::PanCardView.Droid.Resource.Attribute.fontWeight = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.fontWeight;
+			global::PanCardView.Droid.Resource.Attribute.foregroundInsidePadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::PanCardView.Droid.Resource.Attribute.gapBetweenBars = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.gapBetweenBars;
+			global::PanCardView.Droid.Resource.Attribute.goIcon = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.goIcon;
+			global::PanCardView.Droid.Resource.Attribute.headerLayout = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.headerLayout;
+			global::PanCardView.Droid.Resource.Attribute.height = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.height;
+			global::PanCardView.Droid.Resource.Attribute.helperText = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.helperText;
+			global::PanCardView.Droid.Resource.Attribute.helperTextEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.helperTextEnabled;
+			global::PanCardView.Droid.Resource.Attribute.helperTextTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.helperTextTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.hideMotionSpec = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.hideMotionSpec;
+			global::PanCardView.Droid.Resource.Attribute.hideOnContentScroll = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.hideOnContentScroll;
+			global::PanCardView.Droid.Resource.Attribute.hideOnScroll = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.hideOnScroll;
+			global::PanCardView.Droid.Resource.Attribute.hintAnimationEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::PanCardView.Droid.Resource.Attribute.hintEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.hintEnabled;
+			global::PanCardView.Droid.Resource.Attribute.hintTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.hintTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.homeAsUpIndicator = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::PanCardView.Droid.Resource.Attribute.homeLayout = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.homeLayout;
+			global::PanCardView.Droid.Resource.Attribute.hoveredFocusedTranslationZ = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::PanCardView.Droid.Resource.Attribute.icon = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.icon;
+			global::PanCardView.Droid.Resource.Attribute.iconEndPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.iconEndPadding;
+			global::PanCardView.Droid.Resource.Attribute.iconGravity = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.iconGravity;
+			global::PanCardView.Droid.Resource.Attribute.iconifiedByDefault = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.iconifiedByDefault;
+			global::PanCardView.Droid.Resource.Attribute.iconPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.iconPadding;
+			global::PanCardView.Droid.Resource.Attribute.iconSize = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.iconSize;
+			global::PanCardView.Droid.Resource.Attribute.iconStartPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.iconStartPadding;
+			global::PanCardView.Droid.Resource.Attribute.iconTint = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.iconTint;
+			global::PanCardView.Droid.Resource.Attribute.iconTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.iconTintMode;
+			global::PanCardView.Droid.Resource.Attribute.imageButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.imageButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.indeterminateProgressStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::PanCardView.Droid.Resource.Attribute.initialActivityCount = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.initialActivityCount;
+			global::PanCardView.Droid.Resource.Attribute.insetForeground = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.insetForeground;
+			global::PanCardView.Droid.Resource.Attribute.isLightTheme = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.isLightTheme;
+			global::PanCardView.Droid.Resource.Attribute.itemBackground = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.itemBackground;
+			global::PanCardView.Droid.Resource.Attribute.itemHorizontalPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.itemHorizontalPadding;
+			global::PanCardView.Droid.Resource.Attribute.itemHorizontalTranslationEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::PanCardView.Droid.Resource.Attribute.itemIconPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.itemIconPadding;
+			global::PanCardView.Droid.Resource.Attribute.itemIconSize = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.itemIconSize;
+			global::PanCardView.Droid.Resource.Attribute.itemIconTint = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.itemIconTint;
+			global::PanCardView.Droid.Resource.Attribute.itemPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.itemPadding;
+			global::PanCardView.Droid.Resource.Attribute.itemSpacing = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.itemSpacing;
+			global::PanCardView.Droid.Resource.Attribute.itemTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.itemTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.itemTextAppearanceActive = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.itemTextAppearanceActive;
+			global::PanCardView.Droid.Resource.Attribute.itemTextAppearanceInactive = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.itemTextAppearanceInactive;
+			global::PanCardView.Droid.Resource.Attribute.itemTextColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.itemTextColor;
+			global::PanCardView.Droid.Resource.Attribute.keylines = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.keylines;
+			global::PanCardView.Droid.Resource.Attribute.labelVisibilityMode = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.labelVisibilityMode;
+			global::PanCardView.Droid.Resource.Attribute.lastBaselineToBottomHeight = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+			global::PanCardView.Droid.Resource.Attribute.layout = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.layout;
+			global::PanCardView.Droid.Resource.Attribute.layoutManager = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.layoutManager;
+			global::PanCardView.Droid.Resource.Attribute.layout_anchor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.layout_anchor;
+			global::PanCardView.Droid.Resource.Attribute.layout_anchorGravity = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.layout_anchorGravity;
+			global::PanCardView.Droid.Resource.Attribute.layout_behavior = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.layout_behavior;
+			global::PanCardView.Droid.Resource.Attribute.layout_collapseMode = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.layout_collapseMode;
+			global::PanCardView.Droid.Resource.Attribute.layout_collapseParallaxMultiplier = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::PanCardView.Droid.Resource.Attribute.layout_dodgeInsetEdges = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::PanCardView.Droid.Resource.Attribute.layout_insetEdge = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.layout_insetEdge;
+			global::PanCardView.Droid.Resource.Attribute.layout_keyline = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.layout_keyline;
+			global::PanCardView.Droid.Resource.Attribute.layout_scrollFlags = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.layout_scrollFlags;
+			global::PanCardView.Droid.Resource.Attribute.layout_scrollInterpolator = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::PanCardView.Droid.Resource.Attribute.liftOnScroll = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.liftOnScroll;
+			global::PanCardView.Droid.Resource.Attribute.lineHeight = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.lineHeight;
+			global::PanCardView.Droid.Resource.Attribute.lineSpacing = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.lineSpacing;
+			global::PanCardView.Droid.Resource.Attribute.listChoiceBackgroundIndicator = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::PanCardView.Droid.Resource.Attribute.listDividerAlertDialog = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::PanCardView.Droid.Resource.Attribute.listItemLayout = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.listItemLayout;
+			global::PanCardView.Droid.Resource.Attribute.listLayout = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.listLayout;
+			global::PanCardView.Droid.Resource.Attribute.listMenuViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.listMenuViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.listPopupWindowStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::PanCardView.Droid.Resource.Attribute.listPreferredItemHeight = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::PanCardView.Droid.Resource.Attribute.listPreferredItemHeightLarge = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::PanCardView.Droid.Resource.Attribute.listPreferredItemHeightSmall = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::PanCardView.Droid.Resource.Attribute.listPreferredItemPaddingLeft = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::PanCardView.Droid.Resource.Attribute.listPreferredItemPaddingRight = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::PanCardView.Droid.Resource.Attribute.logo = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.logo;
+			global::PanCardView.Droid.Resource.Attribute.logoDescription = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.logoDescription;
+			global::PanCardView.Droid.Resource.Attribute.materialButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.materialButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.materialCardViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.materialCardViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.maxActionInlineWidth = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::PanCardView.Droid.Resource.Attribute.maxButtonHeight = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.maxButtonHeight;
+			global::PanCardView.Droid.Resource.Attribute.maxImageSize = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.maxImageSize;
+			global::PanCardView.Droid.Resource.Attribute.measureWithLargestChild = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.measureWithLargestChild;
+			global::PanCardView.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable;
+			global::PanCardView.Droid.Resource.Attribute.mediaRouteButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.mediaRouteButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.mediaRouteButtonTint = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.mediaRouteButtonTint;
+			global::PanCardView.Droid.Resource.Attribute.mediaRouteCloseDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.mediaRouteCloseDrawable;
+			global::PanCardView.Droid.Resource.Attribute.mediaRouteControlPanelThemeOverlay = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.mediaRouteControlPanelThemeOverlay;
+			global::PanCardView.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable;
+			global::PanCardView.Droid.Resource.Attribute.mediaRoutePauseDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.mediaRoutePauseDrawable;
+			global::PanCardView.Droid.Resource.Attribute.mediaRoutePlayDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.mediaRoutePlayDrawable;
+			global::PanCardView.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
+			global::PanCardView.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable;
+			global::PanCardView.Droid.Resource.Attribute.mediaRouteStopDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.mediaRouteStopDrawable;
+			global::PanCardView.Droid.Resource.Attribute.mediaRouteTheme = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.mediaRouteTheme;
+			global::PanCardView.Droid.Resource.Attribute.mediaRouteTvIconDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.mediaRouteTvIconDrawable;
+			global::PanCardView.Droid.Resource.Attribute.menu = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.menu;
+			global::PanCardView.Droid.Resource.Attribute.multiChoiceItemLayout = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::PanCardView.Droid.Resource.Attribute.navigationContentDescription = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.navigationContentDescription;
+			global::PanCardView.Droid.Resource.Attribute.navigationIcon = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.navigationIcon;
+			global::PanCardView.Droid.Resource.Attribute.navigationMode = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.navigationMode;
+			global::PanCardView.Droid.Resource.Attribute.navigationViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.navigationViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.numericModifiers = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.numericModifiers;
+			global::PanCardView.Droid.Resource.Attribute.overlapAnchor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.overlapAnchor;
+			global::PanCardView.Droid.Resource.Attribute.paddingBottomNoButtons = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::PanCardView.Droid.Resource.Attribute.paddingEnd = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.paddingEnd;
+			global::PanCardView.Droid.Resource.Attribute.paddingStart = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.paddingStart;
+			global::PanCardView.Droid.Resource.Attribute.paddingTopNoTitle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::PanCardView.Droid.Resource.Attribute.panelBackground = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.panelBackground;
+			global::PanCardView.Droid.Resource.Attribute.panelMenuListTheme = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.panelMenuListTheme;
+			global::PanCardView.Droid.Resource.Attribute.panelMenuListWidth = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.panelMenuListWidth;
+			global::PanCardView.Droid.Resource.Attribute.passwordToggleContentDescription = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::PanCardView.Droid.Resource.Attribute.passwordToggleDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::PanCardView.Droid.Resource.Attribute.passwordToggleEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::PanCardView.Droid.Resource.Attribute.passwordToggleTint = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.passwordToggleTint;
+			global::PanCardView.Droid.Resource.Attribute.passwordToggleTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::PanCardView.Droid.Resource.Attribute.popupMenuStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.popupMenuStyle;
+			global::PanCardView.Droid.Resource.Attribute.popupTheme = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.popupTheme;
+			global::PanCardView.Droid.Resource.Attribute.popupWindowStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.popupWindowStyle;
+			global::PanCardView.Droid.Resource.Attribute.preserveIconSpacing = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.preserveIconSpacing;
+			global::PanCardView.Droid.Resource.Attribute.pressedTranslationZ = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.pressedTranslationZ;
+			global::PanCardView.Droid.Resource.Attribute.progressBarPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.progressBarPadding;
+			global::PanCardView.Droid.Resource.Attribute.progressBarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.progressBarStyle;
+			global::PanCardView.Droid.Resource.Attribute.queryBackground = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.queryBackground;
+			global::PanCardView.Droid.Resource.Attribute.queryHint = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.queryHint;
+			global::PanCardView.Droid.Resource.Attribute.radioButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.radioButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.ratingBarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.ratingBarStyle;
+			global::PanCardView.Droid.Resource.Attribute.ratingBarStyleIndicator = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::PanCardView.Droid.Resource.Attribute.ratingBarStyleSmall = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::PanCardView.Droid.Resource.Attribute.reverseLayout = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.reverseLayout;
+			global::PanCardView.Droid.Resource.Attribute.rippleColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.rippleColor;
+			global::PanCardView.Droid.Resource.Attribute.scrimAnimationDuration = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::PanCardView.Droid.Resource.Attribute.scrimBackground = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.scrimBackground;
+			global::PanCardView.Droid.Resource.Attribute.scrimVisibleHeightTrigger = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::PanCardView.Droid.Resource.Attribute.searchHintIcon = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.searchHintIcon;
+			global::PanCardView.Droid.Resource.Attribute.searchIcon = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.searchIcon;
+			global::PanCardView.Droid.Resource.Attribute.searchViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.searchViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.seekBarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.seekBarStyle;
+			global::PanCardView.Droid.Resource.Attribute.selectableItemBackground = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.selectableItemBackground;
+			global::PanCardView.Droid.Resource.Attribute.selectableItemBackgroundBorderless = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::PanCardView.Droid.Resource.Attribute.showAsAction = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.showAsAction;
+			global::PanCardView.Droid.Resource.Attribute.showDividers = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.showDividers;
+			global::PanCardView.Droid.Resource.Attribute.showMotionSpec = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.showMotionSpec;
+			global::PanCardView.Droid.Resource.Attribute.showText = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.showText;
+			global::PanCardView.Droid.Resource.Attribute.showTitle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.showTitle;
+			global::PanCardView.Droid.Resource.Attribute.singleChoiceItemLayout = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::PanCardView.Droid.Resource.Attribute.singleLine = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.singleLine;
+			global::PanCardView.Droid.Resource.Attribute.singleSelection = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.singleSelection;
+			global::PanCardView.Droid.Resource.Attribute.snackbarButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.snackbarButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.snackbarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.snackbarStyle;
+			global::PanCardView.Droid.Resource.Attribute.spanCount = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.spanCount;
+			global::PanCardView.Droid.Resource.Attribute.spinBars = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.spinBars;
+			global::PanCardView.Droid.Resource.Attribute.spinnerDropDownItemStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::PanCardView.Droid.Resource.Attribute.spinnerStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.spinnerStyle;
+			global::PanCardView.Droid.Resource.Attribute.splitTrack = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.splitTrack;
+			global::PanCardView.Droid.Resource.Attribute.srcCompat = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.srcCompat;
+			global::PanCardView.Droid.Resource.Attribute.stackFromEnd = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.stackFromEnd;
+			global::PanCardView.Droid.Resource.Attribute.state_above_anchor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.state_above_anchor;
+			global::PanCardView.Droid.Resource.Attribute.state_collapsed = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.state_collapsed;
+			global::PanCardView.Droid.Resource.Attribute.state_collapsible = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.state_collapsible;
+			global::PanCardView.Droid.Resource.Attribute.state_liftable = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.state_liftable;
+			global::PanCardView.Droid.Resource.Attribute.state_lifted = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.state_lifted;
+			global::PanCardView.Droid.Resource.Attribute.statusBarBackground = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.statusBarBackground;
+			global::PanCardView.Droid.Resource.Attribute.statusBarScrim = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.statusBarScrim;
+			global::PanCardView.Droid.Resource.Attribute.strokeColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.strokeColor;
+			global::PanCardView.Droid.Resource.Attribute.strokeWidth = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.strokeWidth;
+			global::PanCardView.Droid.Resource.Attribute.subMenuArrow = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.subMenuArrow;
+			global::PanCardView.Droid.Resource.Attribute.submitBackground = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.submitBackground;
+			global::PanCardView.Droid.Resource.Attribute.subtitle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.subtitle;
+			global::PanCardView.Droid.Resource.Attribute.subtitleTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.subtitleTextColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.subtitleTextColor;
+			global::PanCardView.Droid.Resource.Attribute.subtitleTextStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.subtitleTextStyle;
+			global::PanCardView.Droid.Resource.Attribute.suggestionRowLayout = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.suggestionRowLayout;
+			global::PanCardView.Droid.Resource.Attribute.switchMinWidth = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.switchMinWidth;
+			global::PanCardView.Droid.Resource.Attribute.switchPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.switchPadding;
+			global::PanCardView.Droid.Resource.Attribute.switchStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.switchStyle;
+			global::PanCardView.Droid.Resource.Attribute.switchTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.switchTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.tabBackground = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabBackground;
+			global::PanCardView.Droid.Resource.Attribute.tabContentStart = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabContentStart;
+			global::PanCardView.Droid.Resource.Attribute.tabGravity = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabGravity;
+			global::PanCardView.Droid.Resource.Attribute.tabIconTint = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabIconTint;
+			global::PanCardView.Droid.Resource.Attribute.tabIconTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabIconTintMode;
+			global::PanCardView.Droid.Resource.Attribute.tabIndicator = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabIndicator;
+			global::PanCardView.Droid.Resource.Attribute.tabIndicatorAnimationDuration = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::PanCardView.Droid.Resource.Attribute.tabIndicatorColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabIndicatorColor;
+			global::PanCardView.Droid.Resource.Attribute.tabIndicatorFullWidth = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabIndicatorFullWidth;
+			global::PanCardView.Droid.Resource.Attribute.tabIndicatorGravity = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabIndicatorGravity;
+			global::PanCardView.Droid.Resource.Attribute.tabIndicatorHeight = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::PanCardView.Droid.Resource.Attribute.tabInlineLabel = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabInlineLabel;
+			global::PanCardView.Droid.Resource.Attribute.tabMaxWidth = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabMaxWidth;
+			global::PanCardView.Droid.Resource.Attribute.tabMinWidth = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabMinWidth;
+			global::PanCardView.Droid.Resource.Attribute.tabMode = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabMode;
+			global::PanCardView.Droid.Resource.Attribute.tabPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabPadding;
+			global::PanCardView.Droid.Resource.Attribute.tabPaddingBottom = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabPaddingBottom;
+			global::PanCardView.Droid.Resource.Attribute.tabPaddingEnd = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabPaddingEnd;
+			global::PanCardView.Droid.Resource.Attribute.tabPaddingStart = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabPaddingStart;
+			global::PanCardView.Droid.Resource.Attribute.tabPaddingTop = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabPaddingTop;
+			global::PanCardView.Droid.Resource.Attribute.tabRippleColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabRippleColor;
+			global::PanCardView.Droid.Resource.Attribute.tabSelectedTextColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::PanCardView.Droid.Resource.Attribute.tabStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabStyle;
+			global::PanCardView.Droid.Resource.Attribute.tabTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.tabTextColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabTextColor;
+			global::PanCardView.Droid.Resource.Attribute.tabUnboundedRipple = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tabUnboundedRipple;
+			global::PanCardView.Droid.Resource.Attribute.textAllCaps = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAllCaps;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceBody1 = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceBody1;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceBody2 = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceBody2;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceButton = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceButton;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceCaption = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceCaption;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceHeadline1 = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceHeadline1;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceHeadline2 = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceHeadline2;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceHeadline3 = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceHeadline3;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceHeadline4 = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceHeadline4;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceHeadline5 = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceHeadline5;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceHeadline6 = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceHeadline6;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceLargePopupMenu = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceListItem = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceListItem;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceListItemSecondary = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceListItemSmall = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceOverline = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceOverline;
+			global::PanCardView.Droid.Resource.Attribute.textAppearancePopupMenuHeader = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceSearchResultTitle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceSmallPopupMenu = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceSubtitle1 = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceSubtitle1;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceSubtitle2 = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textAppearanceSubtitle2;
+			global::PanCardView.Droid.Resource.Attribute.textColorAlertDialogListItem = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::PanCardView.Droid.Resource.Attribute.textColorSearchUrl = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textColorSearchUrl;
+			global::PanCardView.Droid.Resource.Attribute.textEndPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textEndPadding;
+			global::PanCardView.Droid.Resource.Attribute.textInputStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textInputStyle;
+			global::PanCardView.Droid.Resource.Attribute.textStartPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.textStartPadding;
+			global::PanCardView.Droid.Resource.Attribute.theme = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.theme;
+			global::PanCardView.Droid.Resource.Attribute.thickness = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.thickness;
+			global::PanCardView.Droid.Resource.Attribute.thumbTextPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.thumbTextPadding;
+			global::PanCardView.Droid.Resource.Attribute.thumbTint = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.thumbTint;
+			global::PanCardView.Droid.Resource.Attribute.thumbTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.thumbTintMode;
+			global::PanCardView.Droid.Resource.Attribute.tickMark = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tickMark;
+			global::PanCardView.Droid.Resource.Attribute.tickMarkTint = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tickMarkTint;
+			global::PanCardView.Droid.Resource.Attribute.tickMarkTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tickMarkTintMode;
+			global::PanCardView.Droid.Resource.Attribute.tint = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tint;
+			global::PanCardView.Droid.Resource.Attribute.tintMode = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tintMode;
+			global::PanCardView.Droid.Resource.Attribute.title = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.title;
+			global::PanCardView.Droid.Resource.Attribute.titleEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.titleEnabled;
+			global::PanCardView.Droid.Resource.Attribute.titleMargin = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.titleMargin;
+			global::PanCardView.Droid.Resource.Attribute.titleMarginBottom = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.titleMarginBottom;
+			global::PanCardView.Droid.Resource.Attribute.titleMarginEnd = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.titleMarginEnd;
+			global::PanCardView.Droid.Resource.Attribute.titleMargins = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.titleMargins;
+			global::PanCardView.Droid.Resource.Attribute.titleMarginStart = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.titleMarginStart;
+			global::PanCardView.Droid.Resource.Attribute.titleMarginTop = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.titleMarginTop;
+			global::PanCardView.Droid.Resource.Attribute.titleTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.titleTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.titleTextColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.titleTextColor;
+			global::PanCardView.Droid.Resource.Attribute.titleTextStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.titleTextStyle;
+			global::PanCardView.Droid.Resource.Attribute.toolbarId = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.toolbarId;
+			global::PanCardView.Droid.Resource.Attribute.toolbarNavigationButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.toolbarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.toolbarStyle;
+			global::PanCardView.Droid.Resource.Attribute.tooltipForegroundColor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::PanCardView.Droid.Resource.Attribute.tooltipFrameBackground = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::PanCardView.Droid.Resource.Attribute.tooltipText = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.tooltipText;
+			global::PanCardView.Droid.Resource.Attribute.track = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.track;
+			global::PanCardView.Droid.Resource.Attribute.trackTint = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.trackTint;
+			global::PanCardView.Droid.Resource.Attribute.trackTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.trackTintMode;
+			global::PanCardView.Droid.Resource.Attribute.ttcIndex = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.ttcIndex;
+			global::PanCardView.Droid.Resource.Attribute.useCompatPadding = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.useCompatPadding;
+			global::PanCardView.Droid.Resource.Attribute.viewInflaterClass = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.viewInflaterClass;
+			global::PanCardView.Droid.Resource.Attribute.voiceIcon = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.voiceIcon;
+			global::PanCardView.Droid.Resource.Attribute.windowActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.windowActionBar;
+			global::PanCardView.Droid.Resource.Attribute.windowActionBarOverlay = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::PanCardView.Droid.Resource.Attribute.windowActionModeOverlay = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::PanCardView.Droid.Resource.Attribute.windowFixedHeightMajor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::PanCardView.Droid.Resource.Attribute.windowFixedHeightMinor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::PanCardView.Droid.Resource.Attribute.windowFixedWidthMajor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::PanCardView.Droid.Resource.Attribute.windowFixedWidthMinor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::PanCardView.Droid.Resource.Attribute.windowMinWidthMajor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::PanCardView.Droid.Resource.Attribute.windowMinWidthMinor = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::PanCardView.Droid.Resource.Attribute.windowNoTitle = global::XF_Prism_MarvelCards.Droid.Resource.Attribute.windowNoTitle;
+			global::PanCardView.Droid.Resource.Boolean.abc_action_bar_embed_tabs = global::XF_Prism_MarvelCards.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::PanCardView.Droid.Resource.Boolean.abc_allow_stacked_button_bar = global::XF_Prism_MarvelCards.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::PanCardView.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::XF_Prism_MarvelCards.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::PanCardView.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::XF_Prism_MarvelCards.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::PanCardView.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::PanCardView.Droid.Resource.Color.abc_background_cache_hint_selector_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::PanCardView.Droid.Resource.Color.abc_btn_colored_borderless_text_material = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::PanCardView.Droid.Resource.Color.abc_btn_colored_text_material = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::PanCardView.Droid.Resource.Color.abc_color_highlight_material = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_color_highlight_material;
+			global::PanCardView.Droid.Resource.Color.abc_hint_foreground_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::PanCardView.Droid.Resource.Color.abc_hint_foreground_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::PanCardView.Droid.Resource.Color.abc_input_method_navigation_guard = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::PanCardView.Droid.Resource.Color.abc_primary_text_disable_only_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::PanCardView.Droid.Resource.Color.abc_primary_text_disable_only_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::PanCardView.Droid.Resource.Color.abc_primary_text_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::PanCardView.Droid.Resource.Color.abc_primary_text_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_primary_text_material_light;
+			global::PanCardView.Droid.Resource.Color.abc_search_url_text = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_search_url_text;
+			global::PanCardView.Droid.Resource.Color.abc_search_url_text_normal = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_search_url_text_normal;
+			global::PanCardView.Droid.Resource.Color.abc_search_url_text_pressed = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::PanCardView.Droid.Resource.Color.abc_search_url_text_selected = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_search_url_text_selected;
+			global::PanCardView.Droid.Resource.Color.abc_secondary_text_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::PanCardView.Droid.Resource.Color.abc_secondary_text_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::PanCardView.Droid.Resource.Color.abc_tint_btn_checkable = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::PanCardView.Droid.Resource.Color.abc_tint_default = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_tint_default;
+			global::PanCardView.Droid.Resource.Color.abc_tint_edittext = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_tint_edittext;
+			global::PanCardView.Droid.Resource.Color.abc_tint_seek_thumb = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::PanCardView.Droid.Resource.Color.abc_tint_spinner = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_tint_spinner;
+			global::PanCardView.Droid.Resource.Color.abc_tint_switch_track = global::XF_Prism_MarvelCards.Droid.Resource.Color.abc_tint_switch_track;
+			global::PanCardView.Droid.Resource.Color.accent_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.accent_material_dark;
+			global::PanCardView.Droid.Resource.Color.accent_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.accent_material_light;
+			global::PanCardView.Droid.Resource.Color.background_floating_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.background_floating_material_dark;
+			global::PanCardView.Droid.Resource.Color.background_floating_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.background_floating_material_light;
+			global::PanCardView.Droid.Resource.Color.background_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.background_material_dark;
+			global::PanCardView.Droid.Resource.Color.background_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.background_material_light;
+			global::PanCardView.Droid.Resource.Color.bright_foreground_disabled_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::PanCardView.Droid.Resource.Color.bright_foreground_disabled_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::PanCardView.Droid.Resource.Color.bright_foreground_inverse_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::PanCardView.Droid.Resource.Color.bright_foreground_inverse_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::PanCardView.Droid.Resource.Color.bright_foreground_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.bright_foreground_material_dark;
+			global::PanCardView.Droid.Resource.Color.bright_foreground_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.bright_foreground_material_light;
+			global::PanCardView.Droid.Resource.Color.browser_actions_bg_grey = global::XF_Prism_MarvelCards.Droid.Resource.Color.browser_actions_bg_grey;
+			global::PanCardView.Droid.Resource.Color.browser_actions_divider_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.browser_actions_divider_color;
+			global::PanCardView.Droid.Resource.Color.browser_actions_text_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.browser_actions_text_color;
+			global::PanCardView.Droid.Resource.Color.browser_actions_title_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.browser_actions_title_color;
+			global::PanCardView.Droid.Resource.Color.button_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.button_material_dark;
+			global::PanCardView.Droid.Resource.Color.button_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.button_material_light;
+			global::PanCardView.Droid.Resource.Color.cardview_dark_background = global::XF_Prism_MarvelCards.Droid.Resource.Color.cardview_dark_background;
+			global::PanCardView.Droid.Resource.Color.cardview_light_background = global::XF_Prism_MarvelCards.Droid.Resource.Color.cardview_light_background;
+			global::PanCardView.Droid.Resource.Color.cardview_shadow_end_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.cardview_shadow_end_color;
+			global::PanCardView.Droid.Resource.Color.cardview_shadow_start_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.cardview_shadow_start_color;
+			global::PanCardView.Droid.Resource.Color.design_bottom_navigation_shadow_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::PanCardView.Droid.Resource.Color.design_default_color_primary = global::XF_Prism_MarvelCards.Droid.Resource.Color.design_default_color_primary;
+			global::PanCardView.Droid.Resource.Color.design_default_color_primary_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.design_default_color_primary_dark;
+			global::PanCardView.Droid.Resource.Color.design_error = global::XF_Prism_MarvelCards.Droid.Resource.Color.design_error;
+			global::PanCardView.Droid.Resource.Color.design_fab_shadow_end_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::PanCardView.Droid.Resource.Color.design_fab_shadow_mid_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::PanCardView.Droid.Resource.Color.design_fab_shadow_start_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::PanCardView.Droid.Resource.Color.design_fab_stroke_end_inner_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::PanCardView.Droid.Resource.Color.design_fab_stroke_end_outer_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::PanCardView.Droid.Resource.Color.design_fab_stroke_top_inner_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::PanCardView.Droid.Resource.Color.design_fab_stroke_top_outer_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::PanCardView.Droid.Resource.Color.design_snackbar_background_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.design_snackbar_background_color;
+			global::PanCardView.Droid.Resource.Color.design_tint_password_toggle = global::XF_Prism_MarvelCards.Droid.Resource.Color.design_tint_password_toggle;
+			global::PanCardView.Droid.Resource.Color.dim_foreground_disabled_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::PanCardView.Droid.Resource.Color.dim_foreground_disabled_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::PanCardView.Droid.Resource.Color.dim_foreground_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.dim_foreground_material_dark;
+			global::PanCardView.Droid.Resource.Color.dim_foreground_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.dim_foreground_material_light;
+			global::PanCardView.Droid.Resource.Color.error_color_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.error_color_material_dark;
+			global::PanCardView.Droid.Resource.Color.error_color_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.error_color_material_light;
+			global::PanCardView.Droid.Resource.Color.foreground_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.foreground_material_dark;
+			global::PanCardView.Droid.Resource.Color.foreground_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.foreground_material_light;
+			global::PanCardView.Droid.Resource.Color.highlighted_text_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.highlighted_text_material_dark;
+			global::PanCardView.Droid.Resource.Color.highlighted_text_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.highlighted_text_material_light;
+			global::PanCardView.Droid.Resource.Color.material_blue_grey_800 = global::XF_Prism_MarvelCards.Droid.Resource.Color.material_blue_grey_800;
+			global::PanCardView.Droid.Resource.Color.material_blue_grey_900 = global::XF_Prism_MarvelCards.Droid.Resource.Color.material_blue_grey_900;
+			global::PanCardView.Droid.Resource.Color.material_blue_grey_950 = global::XF_Prism_MarvelCards.Droid.Resource.Color.material_blue_grey_950;
+			global::PanCardView.Droid.Resource.Color.material_deep_teal_200 = global::XF_Prism_MarvelCards.Droid.Resource.Color.material_deep_teal_200;
+			global::PanCardView.Droid.Resource.Color.material_deep_teal_500 = global::XF_Prism_MarvelCards.Droid.Resource.Color.material_deep_teal_500;
+			global::PanCardView.Droid.Resource.Color.material_grey_100 = global::XF_Prism_MarvelCards.Droid.Resource.Color.material_grey_100;
+			global::PanCardView.Droid.Resource.Color.material_grey_300 = global::XF_Prism_MarvelCards.Droid.Resource.Color.material_grey_300;
+			global::PanCardView.Droid.Resource.Color.material_grey_50 = global::XF_Prism_MarvelCards.Droid.Resource.Color.material_grey_50;
+			global::PanCardView.Droid.Resource.Color.material_grey_600 = global::XF_Prism_MarvelCards.Droid.Resource.Color.material_grey_600;
+			global::PanCardView.Droid.Resource.Color.material_grey_800 = global::XF_Prism_MarvelCards.Droid.Resource.Color.material_grey_800;
+			global::PanCardView.Droid.Resource.Color.material_grey_850 = global::XF_Prism_MarvelCards.Droid.Resource.Color.material_grey_850;
+			global::PanCardView.Droid.Resource.Color.material_grey_900 = global::XF_Prism_MarvelCards.Droid.Resource.Color.material_grey_900;
+			global::PanCardView.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::PanCardView.Droid.Resource.Color.mtrl_bottom_nav_item_tint = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::PanCardView.Droid.Resource.Color.mtrl_btn_bg_color_disabled = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_btn_bg_color_disabled;
+			global::PanCardView.Droid.Resource.Color.mtrl_btn_bg_color_selector = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_btn_bg_color_selector;
+			global::PanCardView.Droid.Resource.Color.mtrl_btn_ripple_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_btn_ripple_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_btn_stroke_color_selector = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::PanCardView.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_btn_text_color_disabled = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_btn_text_color_disabled;
+			global::PanCardView.Droid.Resource.Color.mtrl_btn_text_color_selector = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_btn_text_color_selector;
+			global::PanCardView.Droid.Resource.Color.mtrl_btn_transparent_bg_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_chip_background_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_chip_background_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_chip_close_icon_tint = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_chip_close_icon_tint;
+			global::PanCardView.Droid.Resource.Color.mtrl_chip_ripple_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_chip_ripple_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_chip_text_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_chip_text_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_fab_ripple_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_fab_ripple_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_scrim_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_scrim_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_tabs_colored_ripple_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_tabs_icon_color_selector = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::PanCardView.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::PanCardView.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::PanCardView.Droid.Resource.Color.mtrl_tabs_ripple_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_textinput_disabled_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_textinput_disabled_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_text_btn_text_color_selector = global::XF_Prism_MarvelCards.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::PanCardView.Droid.Resource.Color.notification_action_color_filter = global::XF_Prism_MarvelCards.Droid.Resource.Color.notification_action_color_filter;
+			global::PanCardView.Droid.Resource.Color.notification_icon_bg_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.notification_icon_bg_color;
+			global::PanCardView.Droid.Resource.Color.notification_material_background_media_default_color = global::XF_Prism_MarvelCards.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::PanCardView.Droid.Resource.Color.primary_dark_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.primary_dark_material_dark;
+			global::PanCardView.Droid.Resource.Color.primary_dark_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.primary_dark_material_light;
+			global::PanCardView.Droid.Resource.Color.primary_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.primary_material_dark;
+			global::PanCardView.Droid.Resource.Color.primary_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.primary_material_light;
+			global::PanCardView.Droid.Resource.Color.primary_text_default_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.primary_text_default_material_dark;
+			global::PanCardView.Droid.Resource.Color.primary_text_default_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.primary_text_default_material_light;
+			global::PanCardView.Droid.Resource.Color.primary_text_disabled_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::PanCardView.Droid.Resource.Color.primary_text_disabled_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::PanCardView.Droid.Resource.Color.ripple_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.ripple_material_dark;
+			global::PanCardView.Droid.Resource.Color.ripple_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.ripple_material_light;
+			global::PanCardView.Droid.Resource.Color.secondary_text_default_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::PanCardView.Droid.Resource.Color.secondary_text_default_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.secondary_text_default_material_light;
+			global::PanCardView.Droid.Resource.Color.secondary_text_disabled_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::PanCardView.Droid.Resource.Color.secondary_text_disabled_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::PanCardView.Droid.Resource.Color.switch_thumb_disabled_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::PanCardView.Droid.Resource.Color.switch_thumb_disabled_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::PanCardView.Droid.Resource.Color.switch_thumb_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.switch_thumb_material_dark;
+			global::PanCardView.Droid.Resource.Color.switch_thumb_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.switch_thumb_material_light;
+			global::PanCardView.Droid.Resource.Color.switch_thumb_normal_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::PanCardView.Droid.Resource.Color.switch_thumb_normal_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::PanCardView.Droid.Resource.Color.tooltip_background_dark = global::XF_Prism_MarvelCards.Droid.Resource.Color.tooltip_background_dark;
+			global::PanCardView.Droid.Resource.Color.tooltip_background_light = global::XF_Prism_MarvelCards.Droid.Resource.Color.tooltip_background_light;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_content_inset_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_default_height_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_elevation_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_stacked_max_height = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_button_min_height_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_button_min_width_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::PanCardView.Droid.Resource.Dimension.abc_alert_dialog_button_dimen = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::PanCardView.Droid.Resource.Dimension.abc_button_inset_horizontal_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_button_inset_vertical_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_button_padding_horizontal_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_button_padding_vertical_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::PanCardView.Droid.Resource.Dimension.abc_config_prefDialogWidth = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::PanCardView.Droid.Resource.Dimension.abc_control_corner_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_control_corner_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_control_inset_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_control_inset_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_control_padding_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_control_padding_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_corner_radius_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_fixed_height_major = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_fixed_height_minor = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_fixed_width_major = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_fixed_width_minor = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_min_width_major = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_min_width_minor = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_padding_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_padding_top_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_title_divider_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_disabled_alpha_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::PanCardView.Droid.Resource.Dimension.abc_disabled_alpha_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::PanCardView.Droid.Resource.Dimension.abc_dropdownitem_icon_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::PanCardView.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::PanCardView.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::PanCardView.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_edit_text_inset_top_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_floating_window_z = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_floating_window_z;
+			global::PanCardView.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_panel_menu_list_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::PanCardView.Droid.Resource.Dimension.abc_progress_bar_height_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_search_view_preferred_height = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::PanCardView.Droid.Resource.Dimension.abc_search_view_preferred_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::PanCardView.Droid.Resource.Dimension.abc_seekbar_track_background_height_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_select_dialog_padding_start_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_switch_padding = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_switch_padding;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_body_1_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_body_2_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_button_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_caption_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_display_1_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_display_2_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_display_3_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_display_4_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_headline_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_large_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_medium_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_menu_header_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_menu_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_small_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_subhead_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_title_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_title_material_toolbar = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::PanCardView.Droid.Resource.Dimension.browser_actions_context_menu_max_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::PanCardView.Droid.Resource.Dimension.browser_actions_context_menu_min_padding = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::PanCardView.Droid.Resource.Dimension.cardview_compat_inset_shadow = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::PanCardView.Droid.Resource.Dimension.cardview_default_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.cardview_default_elevation;
+			global::PanCardView.Droid.Resource.Dimension.cardview_default_radius = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.cardview_default_radius;
+			global::PanCardView.Droid.Resource.Dimension.compat_button_inset_horizontal_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::PanCardView.Droid.Resource.Dimension.compat_button_inset_vertical_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::PanCardView.Droid.Resource.Dimension.compat_button_padding_horizontal_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::PanCardView.Droid.Resource.Dimension.compat_button_padding_vertical_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::PanCardView.Droid.Resource.Dimension.compat_control_corner_material = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.compat_control_corner_material;
+			global::PanCardView.Droid.Resource.Dimension.compat_notification_large_icon_max_height = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::PanCardView.Droid.Resource.Dimension.compat_notification_large_icon_max_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::PanCardView.Droid.Resource.Dimension.design_appbar_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_appbar_elevation;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_active_text_size = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_height = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_icon_size = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_item_max_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_item_min_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_margin = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_shadow_height = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_text_size = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::PanCardView.Droid.Resource.Dimension.design_fab_border_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_fab_border_width;
+			global::PanCardView.Droid.Resource.Dimension.design_fab_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_fab_elevation;
+			global::PanCardView.Droid.Resource.Dimension.design_fab_image_size = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_fab_image_size;
+			global::PanCardView.Droid.Resource.Dimension.design_fab_size_mini = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_fab_size_mini;
+			global::PanCardView.Droid.Resource.Dimension.design_fab_size_normal = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_fab_size_normal;
+			global::PanCardView.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::PanCardView.Droid.Resource.Dimension.design_fab_translation_z_pressed = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::PanCardView.Droid.Resource.Dimension.design_navigation_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_navigation_elevation;
+			global::PanCardView.Droid.Resource.Dimension.design_navigation_icon_padding = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::PanCardView.Droid.Resource.Dimension.design_navigation_icon_size = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::PanCardView.Droid.Resource.Dimension.design_navigation_item_horizontal_padding = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::PanCardView.Droid.Resource.Dimension.design_navigation_item_icon_padding = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_navigation_item_icon_padding;
+			global::PanCardView.Droid.Resource.Dimension.design_navigation_max_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_navigation_max_width;
+			global::PanCardView.Droid.Resource.Dimension.design_navigation_padding_bottom = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::PanCardView.Droid.Resource.Dimension.design_navigation_separator_vertical_padding = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_action_inline_max_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_background_corner_radius = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_max_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_min_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_padding_horizontal = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_padding_vertical = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_text_size = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::PanCardView.Droid.Resource.Dimension.design_tab_max_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_tab_max_width;
+			global::PanCardView.Droid.Resource.Dimension.design_tab_scrollable_min_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::PanCardView.Droid.Resource.Dimension.design_tab_text_size = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_tab_text_size;
+			global::PanCardView.Droid.Resource.Dimension.design_tab_text_size_2line = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::PanCardView.Droid.Resource.Dimension.design_textinput_caption_translate_y = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.design_textinput_caption_translate_y;
+			global::PanCardView.Droid.Resource.Dimension.disabled_alpha_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::PanCardView.Droid.Resource.Dimension.disabled_alpha_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::PanCardView.Droid.Resource.Dimension.fastscroll_default_thickness = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::PanCardView.Droid.Resource.Dimension.fastscroll_margin = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.fastscroll_margin;
+			global::PanCardView.Droid.Resource.Dimension.fastscroll_minimum_range = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::PanCardView.Droid.Resource.Dimension.highlight_alpha_material_colored = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::PanCardView.Droid.Resource.Dimension.highlight_alpha_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::PanCardView.Droid.Resource.Dimension.highlight_alpha_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::PanCardView.Droid.Resource.Dimension.hint_alpha_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::PanCardView.Droid.Resource.Dimension.hint_alpha_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::PanCardView.Droid.Resource.Dimension.hint_pressed_alpha_material_dark = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::PanCardView.Droid.Resource.Dimension.hint_pressed_alpha_material_light = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::PanCardView.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::PanCardView.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::PanCardView.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::PanCardView.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height;
+			global::PanCardView.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
+			global::PanCardView.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height;
+			global::PanCardView.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top;
+			global::PanCardView.Droid.Resource.Dimension.mr_dialog_fixed_width_major = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mr_dialog_fixed_width_major;
+			global::PanCardView.Droid.Resource.Dimension.mr_dialog_fixed_width_minor = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mr_dialog_fixed_width_minor;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_bottomappbar_height = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_bottomappbar_height;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_corner_radius = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_corner_radius;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_disabled_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_disabled_z = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_disabled_z;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_elevation;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_focused_z = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_focused_z;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_hovered_z = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_hovered_z;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_icon_padding = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_icon_padding;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_inset = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_inset;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_letter_spacing = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_padding_bottom = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_padding_left = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_padding_left;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_padding_right = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_padding_right;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_padding_top = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_padding_top;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_pressed_z = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_pressed_z;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_stroke_size = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_stroke_size;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_text_size = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_text_size;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_z = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_btn_z;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_card_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_card_elevation;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_card_spacing = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_card_spacing;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_chip_text_size = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_chip_text_size;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_fab_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_fab_elevation;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_navigation_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_navigation_elevation;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_snackbar_margin = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_snackbar_margin;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_textinput_box_bottom_offset;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_textinput_box_padding_end = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_textinput_box_padding_end;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_toolbar_default_height = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.mtrl_toolbar_default_height;
+			global::PanCardView.Droid.Resource.Dimension.notification_action_icon_size = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.notification_action_icon_size;
+			global::PanCardView.Droid.Resource.Dimension.notification_action_text_size = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.notification_action_text_size;
+			global::PanCardView.Droid.Resource.Dimension.notification_big_circle_margin = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::PanCardView.Droid.Resource.Dimension.notification_content_margin_start = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.notification_content_margin_start;
+			global::PanCardView.Droid.Resource.Dimension.notification_large_icon_height = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.notification_large_icon_height;
+			global::PanCardView.Droid.Resource.Dimension.notification_large_icon_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.notification_large_icon_width;
+			global::PanCardView.Droid.Resource.Dimension.notification_main_column_padding_top = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::PanCardView.Droid.Resource.Dimension.notification_media_narrow_margin = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::PanCardView.Droid.Resource.Dimension.notification_right_icon_size = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.notification_right_icon_size;
+			global::PanCardView.Droid.Resource.Dimension.notification_right_side_padding_top = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::PanCardView.Droid.Resource.Dimension.notification_small_icon_background_padding = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::PanCardView.Droid.Resource.Dimension.notification_small_icon_size_as_large = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::PanCardView.Droid.Resource.Dimension.notification_subtext_size = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.notification_subtext_size;
+			global::PanCardView.Droid.Resource.Dimension.notification_top_pad = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.notification_top_pad;
+			global::PanCardView.Droid.Resource.Dimension.notification_top_pad_large_text = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::PanCardView.Droid.Resource.Dimension.subtitle_corner_radius = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.subtitle_corner_radius;
+			global::PanCardView.Droid.Resource.Dimension.subtitle_outline_width = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.subtitle_outline_width;
+			global::PanCardView.Droid.Resource.Dimension.subtitle_shadow_offset = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.subtitle_shadow_offset;
+			global::PanCardView.Droid.Resource.Dimension.subtitle_shadow_radius = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.subtitle_shadow_radius;
+			global::PanCardView.Droid.Resource.Dimension.tooltip_corner_radius = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::PanCardView.Droid.Resource.Dimension.tooltip_horizontal_padding = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::PanCardView.Droid.Resource.Dimension.tooltip_margin = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.tooltip_margin;
+			global::PanCardView.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::PanCardView.Droid.Resource.Dimension.tooltip_precise_anchor_threshold = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::PanCardView.Droid.Resource.Dimension.tooltip_vertical_padding = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::PanCardView.Droid.Resource.Dimension.tooltip_y_offset_non_touch = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::PanCardView.Droid.Resource.Dimension.tooltip_y_offset_touch = global::XF_Prism_MarvelCards.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::PanCardView.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_action_bar_item_background_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_borderless_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_check_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_btn_check_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_colored_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_default_mtrl_shape = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_radio_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::PanCardView.Droid.Resource.Drawable.abc_cab_background_internal_bg = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::PanCardView.Droid.Resource.Drawable.abc_cab_background_top_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_control_background_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_control_background_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_dialog_material_background = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::PanCardView.Droid.Resource.Drawable.abc_edit_text_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_edit_text_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_ab_back_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_clear_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_go_search_api_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_menu_overflow_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_search_api_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_star_black_16dp = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_star_black_36dp = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_star_black_48dp = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_star_half_black_16dp = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_star_half_black_36dp = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_star_half_black_48dp = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_voice_search_api_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_item_background_holo_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::PanCardView.Droid.Resource.Drawable.abc_item_background_holo_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_divider_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_list_divider_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_focused_holo = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_longpressed_holo = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_pressed_holo_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_pressed_holo_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_selector_holo_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_selector_holo_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::PanCardView.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::PanCardView.Droid.Resource.Drawable.abc_popup_background_mtrl_mult = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::PanCardView.Droid.Resource.Drawable.abc_ratingbar_indicator_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_ratingbar_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_ratingbar_small_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::PanCardView.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::PanCardView.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_seekbar_thumb_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_seekbar_tick_mark_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_seekbar_track_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_spinner_textfield_background_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_switch_thumb_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_tab_indicator_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_textfield_search_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_text_cursor_material = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::PanCardView.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::PanCardView.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::PanCardView.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::PanCardView.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::PanCardView.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::PanCardView.Droid.Resource.Drawable.abc_vector_test = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.abc_vector_test;
+			global::PanCardView.Droid.Resource.Drawable.avd_hide_password = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.avd_hide_password;
+			global::PanCardView.Droid.Resource.Drawable.avd_show_password = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.avd_show_password;
+			global::PanCardView.Droid.Resource.Drawable.design_bottom_navigation_item_background = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::PanCardView.Droid.Resource.Drawable.design_fab_background = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.design_fab_background;
+			global::PanCardView.Droid.Resource.Drawable.design_ic_visibility = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.design_ic_visibility;
+			global::PanCardView.Droid.Resource.Drawable.design_ic_visibility_off = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::PanCardView.Droid.Resource.Drawable.design_password_eye = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.design_password_eye;
+			global::PanCardView.Droid.Resource.Drawable.design_snackbar_background = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.design_snackbar_background;
+			global::PanCardView.Droid.Resource.Drawable.ic_audiotrack_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_audiotrack_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_audiotrack_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_audiotrack_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_dialog_close_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_dialog_close_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_dialog_close_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_dialog_close_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_collapse_00 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_collapse_00;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_collapse_01 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_collapse_01;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_collapse_02 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_collapse_02;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_collapse_03 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_collapse_03;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_collapse_04 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_collapse_04;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_collapse_05 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_collapse_05;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_collapse_06 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_collapse_06;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_collapse_07 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_collapse_07;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_collapse_08 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_collapse_08;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_collapse_09 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_collapse_09;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_collapse_10 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_collapse_10;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_collapse_11 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_collapse_11;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_collapse_12 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_collapse_12;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_collapse_13 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_collapse_13;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_collapse_14 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_collapse_14;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_collapse_15 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_collapse_15;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_expand_00 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_expand_00;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_expand_01 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_expand_01;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_expand_02 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_expand_02;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_expand_03 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_expand_03;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_expand_04 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_expand_04;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_expand_05 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_expand_05;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_expand_06 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_expand_06;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_expand_07 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_expand_07;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_expand_08 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_expand_08;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_expand_09 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_expand_09;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_expand_10 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_expand_10;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_expand_11 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_expand_11;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_expand_12 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_expand_12;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_expand_13 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_expand_13;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_expand_14 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_expand_14;
+			global::PanCardView.Droid.Resource.Drawable.ic_group_expand_15 = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_group_expand_15;
+			global::PanCardView.Droid.Resource.Drawable.ic_media_pause_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_media_pause_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_media_pause_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_media_pause_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_media_play_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_media_play_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_media_play_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_media_play_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_media_stop_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_media_stop_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_media_stop_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_media_stop_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_00_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_00_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_00_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_00_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_01_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_01_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_01_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_01_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_02_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_02_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_02_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_02_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_03_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_03_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_03_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_03_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_04_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_04_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_04_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_04_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_05_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_05_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_05_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_05_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_06_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_06_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_06_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_06_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_07_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_07_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_07_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_07_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_08_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_08_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_08_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_08_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_09_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_09_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_09_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_09_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_10_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_10_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_10_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_10_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_11_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_11_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_11_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_11_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_12_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_12_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_12_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_12_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_13_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_13_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_13_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_13_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_14_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_14_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_14_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_14_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_15_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_15_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_15_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_15_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_16_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_16_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_16_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_16_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_17_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_17_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_17_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_17_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_18_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_18_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_18_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_18_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_19_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_19_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_19_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_19_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_20_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_20_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_20_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_20_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_21_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_21_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_21_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_21_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_22_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_22_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_22_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_22_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_23_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_23_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_23_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_23_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_24_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_24_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_24_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_24_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_25_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_25_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_25_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_25_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_26_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_26_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_26_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_26_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_27_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_27_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_27_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_27_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_28_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_28_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_28_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_28_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_29_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_29_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_29_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_29_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_30_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_30_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connected_30_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connected_30_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_00_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_00_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_00_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_00_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_01_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_01_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_01_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_01_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_02_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_02_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_02_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_02_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_03_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_03_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_03_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_03_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_04_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_04_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_04_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_04_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_05_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_05_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_05_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_05_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_06_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_06_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_06_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_06_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_07_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_07_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_07_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_07_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_08_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_08_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_08_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_08_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_09_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_09_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_09_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_09_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_10_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_10_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_10_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_10_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_11_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_11_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_11_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_11_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_12_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_12_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_12_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_12_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_13_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_13_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_13_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_13_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_14_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_14_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_14_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_14_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_15_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_15_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_15_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_15_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_16_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_16_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_16_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_16_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_17_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_17_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_17_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_17_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_18_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_18_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_18_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_18_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_19_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_19_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_19_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_19_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_20_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_20_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_20_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_20_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_21_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_21_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_21_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_21_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_22_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_22_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_22_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_22_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_23_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_23_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_23_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_23_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_24_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_24_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_24_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_24_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_25_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_25_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_25_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_25_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_26_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_26_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_26_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_26_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_27_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_27_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_27_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_27_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_28_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_28_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_28_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_28_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_29_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_29_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_29_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_29_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_30_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_30_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_connecting_30_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_connecting_30_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_disabled_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_disabled_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_disabled_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_disabled_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_disconnected_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_disconnected_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_disconnected_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_disconnected_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_mr_button_grey = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mr_button_grey;
+			global::PanCardView.Droid.Resource.Drawable.ic_mtrl_chip_checked_black = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::PanCardView.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::PanCardView.Droid.Resource.Drawable.ic_mtrl_chip_close_circle = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::PanCardView.Droid.Resource.Drawable.ic_vol_type_speaker_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_vol_type_speaker_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_vol_type_speaker_group_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_vol_type_speaker_group_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_vol_type_speaker_group_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_vol_type_speaker_group_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_vol_type_speaker_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_vol_type_speaker_light;
+			global::PanCardView.Droid.Resource.Drawable.ic_vol_type_tv_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_vol_type_tv_dark;
+			global::PanCardView.Droid.Resource.Drawable.ic_vol_type_tv_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.ic_vol_type_tv_light;
+			global::PanCardView.Droid.Resource.Drawable.mr_button_connected_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_button_connected_dark;
+			global::PanCardView.Droid.Resource.Drawable.mr_button_connected_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_button_connected_light;
+			global::PanCardView.Droid.Resource.Drawable.mr_button_connecting_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_button_connecting_dark;
+			global::PanCardView.Droid.Resource.Drawable.mr_button_connecting_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_button_connecting_light;
+			global::PanCardView.Droid.Resource.Drawable.mr_button_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_button_dark;
+			global::PanCardView.Droid.Resource.Drawable.mr_button_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_button_light;
+			global::PanCardView.Droid.Resource.Drawable.mr_dialog_close_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_dialog_close_dark;
+			global::PanCardView.Droid.Resource.Drawable.mr_dialog_close_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_dialog_close_light;
+			global::PanCardView.Droid.Resource.Drawable.mr_dialog_material_background_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_dialog_material_background_dark;
+			global::PanCardView.Droid.Resource.Drawable.mr_dialog_material_background_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_dialog_material_background_light;
+			global::PanCardView.Droid.Resource.Drawable.mr_group_collapse = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_group_collapse;
+			global::PanCardView.Droid.Resource.Drawable.mr_group_expand = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_group_expand;
+			global::PanCardView.Droid.Resource.Drawable.mr_media_pause_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_media_pause_dark;
+			global::PanCardView.Droid.Resource.Drawable.mr_media_pause_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_media_pause_light;
+			global::PanCardView.Droid.Resource.Drawable.mr_media_play_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_media_play_dark;
+			global::PanCardView.Droid.Resource.Drawable.mr_media_play_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_media_play_light;
+			global::PanCardView.Droid.Resource.Drawable.mr_media_stop_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_media_stop_dark;
+			global::PanCardView.Droid.Resource.Drawable.mr_media_stop_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_media_stop_light;
+			global::PanCardView.Droid.Resource.Drawable.mr_vol_type_audiotrack_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_vol_type_audiotrack_dark;
+			global::PanCardView.Droid.Resource.Drawable.mr_vol_type_audiotrack_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mr_vol_type_audiotrack_light;
+			global::PanCardView.Droid.Resource.Drawable.mtrl_snackbar_background = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mtrl_snackbar_background;
+			global::PanCardView.Droid.Resource.Drawable.mtrl_tabs_default_indicator = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::PanCardView.Droid.Resource.Drawable.navigation_empty_icon = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.navigation_empty_icon;
+			global::PanCardView.Droid.Resource.Drawable.notification_action_background = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.notification_action_background;
+			global::PanCardView.Droid.Resource.Drawable.notification_bg = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.notification_bg;
+			global::PanCardView.Droid.Resource.Drawable.notification_bg_low = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.notification_bg_low;
+			global::PanCardView.Droid.Resource.Drawable.notification_bg_low_normal = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::PanCardView.Droid.Resource.Drawable.notification_bg_low_pressed = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::PanCardView.Droid.Resource.Drawable.notification_bg_normal = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.notification_bg_normal;
+			global::PanCardView.Droid.Resource.Drawable.notification_bg_normal_pressed = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::PanCardView.Droid.Resource.Drawable.notification_icon_background = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.notification_icon_background;
+			global::PanCardView.Droid.Resource.Drawable.notification_template_icon_bg = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::PanCardView.Droid.Resource.Drawable.notification_template_icon_low_bg = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::PanCardView.Droid.Resource.Drawable.notification_tile_bg = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.notification_tile_bg;
+			global::PanCardView.Droid.Resource.Drawable.notify_panel_notification_icon_bg = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::PanCardView.Droid.Resource.Drawable.tooltip_frame_dark = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::PanCardView.Droid.Resource.Drawable.tooltip_frame_light = global::XF_Prism_MarvelCards.Droid.Resource.Drawable.tooltip_frame_light;
+			global::PanCardView.Droid.Resource.Id.action0 = global::XF_Prism_MarvelCards.Droid.Resource.Id.action0;
+			global::PanCardView.Droid.Resource.Id.actions = global::XF_Prism_MarvelCards.Droid.Resource.Id.actions;
+			global::PanCardView.Droid.Resource.Id.action_bar = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_bar;
+			global::PanCardView.Droid.Resource.Id.action_bar_activity_content = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_bar_activity_content;
+			global::PanCardView.Droid.Resource.Id.action_bar_container = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_bar_container;
+			global::PanCardView.Droid.Resource.Id.action_bar_root = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_bar_root;
+			global::PanCardView.Droid.Resource.Id.action_bar_spinner = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_bar_spinner;
+			global::PanCardView.Droid.Resource.Id.action_bar_subtitle = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_bar_subtitle;
+			global::PanCardView.Droid.Resource.Id.action_bar_title = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_bar_title;
+			global::PanCardView.Droid.Resource.Id.action_container = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_container;
+			global::PanCardView.Droid.Resource.Id.action_context_bar = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_context_bar;
+			global::PanCardView.Droid.Resource.Id.action_divider = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_divider;
+			global::PanCardView.Droid.Resource.Id.action_image = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_image;
+			global::PanCardView.Droid.Resource.Id.action_menu_divider = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_menu_divider;
+			global::PanCardView.Droid.Resource.Id.action_menu_presenter = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_menu_presenter;
+			global::PanCardView.Droid.Resource.Id.action_mode_bar = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_mode_bar;
+			global::PanCardView.Droid.Resource.Id.action_mode_bar_stub = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_mode_bar_stub;
+			global::PanCardView.Droid.Resource.Id.action_mode_close_button = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_mode_close_button;
+			global::PanCardView.Droid.Resource.Id.action_text = global::XF_Prism_MarvelCards.Droid.Resource.Id.action_text;
+			global::PanCardView.Droid.Resource.Id.activity_chooser_view_content = global::XF_Prism_MarvelCards.Droid.Resource.Id.activity_chooser_view_content;
+			global::PanCardView.Droid.Resource.Id.add = global::XF_Prism_MarvelCards.Droid.Resource.Id.add;
+			global::PanCardView.Droid.Resource.Id.alertTitle = global::XF_Prism_MarvelCards.Droid.Resource.Id.alertTitle;
+			global::PanCardView.Droid.Resource.Id.all = global::XF_Prism_MarvelCards.Droid.Resource.Id.all;
+			global::PanCardView.Droid.Resource.Id.ALT = global::XF_Prism_MarvelCards.Droid.Resource.Id.ALT;
+			global::PanCardView.Droid.Resource.Id.always = global::XF_Prism_MarvelCards.Droid.Resource.Id.always;
+			global::PanCardView.Droid.Resource.Id.async = global::XF_Prism_MarvelCards.Droid.Resource.Id.async;
+			global::PanCardView.Droid.Resource.Id.auto = global::XF_Prism_MarvelCards.Droid.Resource.Id.auto;
+			global::PanCardView.Droid.Resource.Id.beginning = global::XF_Prism_MarvelCards.Droid.Resource.Id.beginning;
+			global::PanCardView.Droid.Resource.Id.blocking = global::XF_Prism_MarvelCards.Droid.Resource.Id.blocking;
+			global::PanCardView.Droid.Resource.Id.bottom = global::XF_Prism_MarvelCards.Droid.Resource.Id.bottom;
+			global::PanCardView.Droid.Resource.Id.bottomtab_navarea = global::XF_Prism_MarvelCards.Droid.Resource.Id.bottomtab_navarea;
+			global::PanCardView.Droid.Resource.Id.bottomtab_tabbar = global::XF_Prism_MarvelCards.Droid.Resource.Id.bottomtab_tabbar;
+			global::PanCardView.Droid.Resource.Id.browser_actions_header_text = global::XF_Prism_MarvelCards.Droid.Resource.Id.browser_actions_header_text;
+			global::PanCardView.Droid.Resource.Id.browser_actions_menu_items = global::XF_Prism_MarvelCards.Droid.Resource.Id.browser_actions_menu_items;
+			global::PanCardView.Droid.Resource.Id.browser_actions_menu_item_icon = global::XF_Prism_MarvelCards.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::PanCardView.Droid.Resource.Id.browser_actions_menu_item_text = global::XF_Prism_MarvelCards.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::PanCardView.Droid.Resource.Id.browser_actions_menu_view = global::XF_Prism_MarvelCards.Droid.Resource.Id.browser_actions_menu_view;
+			global::PanCardView.Droid.Resource.Id.buttonPanel = global::XF_Prism_MarvelCards.Droid.Resource.Id.buttonPanel;
+			global::PanCardView.Droid.Resource.Id.cancel_action = global::XF_Prism_MarvelCards.Droid.Resource.Id.cancel_action;
+			global::PanCardView.Droid.Resource.Id.center = global::XF_Prism_MarvelCards.Droid.Resource.Id.center;
+			global::PanCardView.Droid.Resource.Id.center_horizontal = global::XF_Prism_MarvelCards.Droid.Resource.Id.center_horizontal;
+			global::PanCardView.Droid.Resource.Id.center_vertical = global::XF_Prism_MarvelCards.Droid.Resource.Id.center_vertical;
+			global::PanCardView.Droid.Resource.Id.checkbox = global::XF_Prism_MarvelCards.Droid.Resource.Id.checkbox;
+			global::PanCardView.Droid.Resource.Id.chronometer = global::XF_Prism_MarvelCards.Droid.Resource.Id.chronometer;
+			global::PanCardView.Droid.Resource.Id.clip_horizontal = global::XF_Prism_MarvelCards.Droid.Resource.Id.clip_horizontal;
+			global::PanCardView.Droid.Resource.Id.clip_vertical = global::XF_Prism_MarvelCards.Droid.Resource.Id.clip_vertical;
+			global::PanCardView.Droid.Resource.Id.collapseActionView = global::XF_Prism_MarvelCards.Droid.Resource.Id.collapseActionView;
+			global::PanCardView.Droid.Resource.Id.container = global::XF_Prism_MarvelCards.Droid.Resource.Id.container;
+			global::PanCardView.Droid.Resource.Id.content = global::XF_Prism_MarvelCards.Droid.Resource.Id.content;
+			global::PanCardView.Droid.Resource.Id.contentPanel = global::XF_Prism_MarvelCards.Droid.Resource.Id.contentPanel;
+			global::PanCardView.Droid.Resource.Id.coordinator = global::XF_Prism_MarvelCards.Droid.Resource.Id.coordinator;
+			global::PanCardView.Droid.Resource.Id.CTRL = global::XF_Prism_MarvelCards.Droid.Resource.Id.CTRL;
+			global::PanCardView.Droid.Resource.Id.custom = global::XF_Prism_MarvelCards.Droid.Resource.Id.custom;
+			global::PanCardView.Droid.Resource.Id.customPanel = global::XF_Prism_MarvelCards.Droid.Resource.Id.customPanel;
+			global::PanCardView.Droid.Resource.Id.decor_content_parent = global::XF_Prism_MarvelCards.Droid.Resource.Id.decor_content_parent;
+			global::PanCardView.Droid.Resource.Id.default_activity_button = global::XF_Prism_MarvelCards.Droid.Resource.Id.default_activity_button;
+			global::PanCardView.Droid.Resource.Id.design_bottom_sheet = global::XF_Prism_MarvelCards.Droid.Resource.Id.design_bottom_sheet;
+			global::PanCardView.Droid.Resource.Id.design_menu_item_action_area = global::XF_Prism_MarvelCards.Droid.Resource.Id.design_menu_item_action_area;
+			global::PanCardView.Droid.Resource.Id.design_menu_item_action_area_stub = global::XF_Prism_MarvelCards.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::PanCardView.Droid.Resource.Id.design_menu_item_text = global::XF_Prism_MarvelCards.Droid.Resource.Id.design_menu_item_text;
+			global::PanCardView.Droid.Resource.Id.design_navigation_view = global::XF_Prism_MarvelCards.Droid.Resource.Id.design_navigation_view;
+			global::PanCardView.Droid.Resource.Id.disableHome = global::XF_Prism_MarvelCards.Droid.Resource.Id.disableHome;
+			global::PanCardView.Droid.Resource.Id.edit_query = global::XF_Prism_MarvelCards.Droid.Resource.Id.edit_query;
+			global::PanCardView.Droid.Resource.Id.end = global::XF_Prism_MarvelCards.Droid.Resource.Id.end;
+			global::PanCardView.Droid.Resource.Id.end_padder = global::XF_Prism_MarvelCards.Droid.Resource.Id.end_padder;
+			global::PanCardView.Droid.Resource.Id.enterAlways = global::XF_Prism_MarvelCards.Droid.Resource.Id.enterAlways;
+			global::PanCardView.Droid.Resource.Id.enterAlwaysCollapsed = global::XF_Prism_MarvelCards.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::PanCardView.Droid.Resource.Id.exitUntilCollapsed = global::XF_Prism_MarvelCards.Droid.Resource.Id.exitUntilCollapsed;
+			global::PanCardView.Droid.Resource.Id.expanded_menu = global::XF_Prism_MarvelCards.Droid.Resource.Id.expanded_menu;
+			global::PanCardView.Droid.Resource.Id.expand_activities_button = global::XF_Prism_MarvelCards.Droid.Resource.Id.expand_activities_button;
+			global::PanCardView.Droid.Resource.Id.fill = global::XF_Prism_MarvelCards.Droid.Resource.Id.fill;
+			global::PanCardView.Droid.Resource.Id.filled = global::XF_Prism_MarvelCards.Droid.Resource.Id.filled;
+			global::PanCardView.Droid.Resource.Id.fill_horizontal = global::XF_Prism_MarvelCards.Droid.Resource.Id.fill_horizontal;
+			global::PanCardView.Droid.Resource.Id.fill_vertical = global::XF_Prism_MarvelCards.Droid.Resource.Id.fill_vertical;
+			global::PanCardView.Droid.Resource.Id.@fixed = global::XF_Prism_MarvelCards.Droid.Resource.Id.@fixed;
+			global::PanCardView.Droid.Resource.Id.flyoutcontent_appbar = global::XF_Prism_MarvelCards.Droid.Resource.Id.flyoutcontent_appbar;
+			global::PanCardView.Droid.Resource.Id.flyoutcontent_recycler = global::XF_Prism_MarvelCards.Droid.Resource.Id.flyoutcontent_recycler;
+			global::PanCardView.Droid.Resource.Id.forever = global::XF_Prism_MarvelCards.Droid.Resource.Id.forever;
+			global::PanCardView.Droid.Resource.Id.FUNCTION = global::XF_Prism_MarvelCards.Droid.Resource.Id.FUNCTION;
+			global::PanCardView.Droid.Resource.Id.ghost_view = global::XF_Prism_MarvelCards.Droid.Resource.Id.ghost_view;
+			global::PanCardView.Droid.Resource.Id.group_divider = global::XF_Prism_MarvelCards.Droid.Resource.Id.group_divider;
+			global::PanCardView.Droid.Resource.Id.home = global::XF_Prism_MarvelCards.Droid.Resource.Id.home;
+			global::PanCardView.Droid.Resource.Id.homeAsUp = global::XF_Prism_MarvelCards.Droid.Resource.Id.homeAsUp;
+			global::PanCardView.Droid.Resource.Id.icon = global::XF_Prism_MarvelCards.Droid.Resource.Id.icon;
+			global::PanCardView.Droid.Resource.Id.icon_group = global::XF_Prism_MarvelCards.Droid.Resource.Id.icon_group;
+			global::PanCardView.Droid.Resource.Id.ifRoom = global::XF_Prism_MarvelCards.Droid.Resource.Id.ifRoom;
+			global::PanCardView.Droid.Resource.Id.image = global::XF_Prism_MarvelCards.Droid.Resource.Id.image;
+			global::PanCardView.Droid.Resource.Id.info = global::XF_Prism_MarvelCards.Droid.Resource.Id.info;
+			global::PanCardView.Droid.Resource.Id.italic = global::XF_Prism_MarvelCards.Droid.Resource.Id.italic;
+			global::PanCardView.Droid.Resource.Id.item_touch_helper_previous_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::PanCardView.Droid.Resource.Id.labeled = global::XF_Prism_MarvelCards.Droid.Resource.Id.labeled;
+			global::PanCardView.Droid.Resource.Id.largeLabel = global::XF_Prism_MarvelCards.Droid.Resource.Id.largeLabel;
+			global::PanCardView.Droid.Resource.Id.left = global::XF_Prism_MarvelCards.Droid.Resource.Id.left;
+			global::PanCardView.Droid.Resource.Id.line1 = global::XF_Prism_MarvelCards.Droid.Resource.Id.line1;
+			global::PanCardView.Droid.Resource.Id.line3 = global::XF_Prism_MarvelCards.Droid.Resource.Id.line3;
+			global::PanCardView.Droid.Resource.Id.listMode = global::XF_Prism_MarvelCards.Droid.Resource.Id.listMode;
+			global::PanCardView.Droid.Resource.Id.list_item = global::XF_Prism_MarvelCards.Droid.Resource.Id.list_item;
+			global::PanCardView.Droid.Resource.Id.main_appbar = global::XF_Prism_MarvelCards.Droid.Resource.Id.main_appbar;
+			global::PanCardView.Droid.Resource.Id.main_tablayout = global::XF_Prism_MarvelCards.Droid.Resource.Id.main_tablayout;
+			global::PanCardView.Droid.Resource.Id.main_toolbar = global::XF_Prism_MarvelCards.Droid.Resource.Id.main_toolbar;
+			global::PanCardView.Droid.Resource.Id.main_viewpager = global::XF_Prism_MarvelCards.Droid.Resource.Id.main_viewpager;
+			global::PanCardView.Droid.Resource.Id.masked = global::XF_Prism_MarvelCards.Droid.Resource.Id.masked;
+			global::PanCardView.Droid.Resource.Id.media_actions = global::XF_Prism_MarvelCards.Droid.Resource.Id.media_actions;
+			global::PanCardView.Droid.Resource.Id.message = global::XF_Prism_MarvelCards.Droid.Resource.Id.message;
+			global::PanCardView.Droid.Resource.Id.META = global::XF_Prism_MarvelCards.Droid.Resource.Id.META;
+			global::PanCardView.Droid.Resource.Id.middle = global::XF_Prism_MarvelCards.Droid.Resource.Id.middle;
+			global::PanCardView.Droid.Resource.Id.mini = global::XF_Prism_MarvelCards.Droid.Resource.Id.mini;
+			global::PanCardView.Droid.Resource.Id.mr_art = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_art;
+			global::PanCardView.Droid.Resource.Id.mr_cast_checkbox = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_cast_checkbox;
+			global::PanCardView.Droid.Resource.Id.mr_cast_close_button = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_cast_close_button;
+			global::PanCardView.Droid.Resource.Id.mr_cast_group_icon = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_cast_group_icon;
+			global::PanCardView.Droid.Resource.Id.mr_cast_group_name = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_cast_group_name;
+			global::PanCardView.Droid.Resource.Id.mr_cast_list = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_cast_list;
+			global::PanCardView.Droid.Resource.Id.mr_cast_meta = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_cast_meta;
+			global::PanCardView.Droid.Resource.Id.mr_cast_meta_art = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_cast_meta_art;
+			global::PanCardView.Droid.Resource.Id.mr_cast_meta_subtitle = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_cast_meta_subtitle;
+			global::PanCardView.Droid.Resource.Id.mr_cast_meta_title = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_cast_meta_title;
+			global::PanCardView.Droid.Resource.Id.mr_cast_route_icon = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_cast_route_icon;
+			global::PanCardView.Droid.Resource.Id.mr_cast_route_name = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_cast_route_name;
+			global::PanCardView.Droid.Resource.Id.mr_cast_stop_button = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_cast_stop_button;
+			global::PanCardView.Droid.Resource.Id.mr_cast_volume_layout = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_cast_volume_layout;
+			global::PanCardView.Droid.Resource.Id.mr_cast_volume_slider = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_cast_volume_slider;
+			global::PanCardView.Droid.Resource.Id.mr_chooser_list = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_chooser_list;
+			global::PanCardView.Droid.Resource.Id.mr_chooser_route_desc = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_chooser_route_desc;
+			global::PanCardView.Droid.Resource.Id.mr_chooser_route_icon = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_chooser_route_icon;
+			global::PanCardView.Droid.Resource.Id.mr_chooser_route_name = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_chooser_route_name;
+			global::PanCardView.Droid.Resource.Id.mr_chooser_title = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_chooser_title;
+			global::PanCardView.Droid.Resource.Id.mr_close = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_close;
+			global::PanCardView.Droid.Resource.Id.mr_control_divider = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_control_divider;
+			global::PanCardView.Droid.Resource.Id.mr_control_playback_ctrl = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_control_playback_ctrl;
+			global::PanCardView.Droid.Resource.Id.mr_control_subtitle = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_control_subtitle;
+			global::PanCardView.Droid.Resource.Id.mr_control_title = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_control_title;
+			global::PanCardView.Droid.Resource.Id.mr_control_title_container = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_control_title_container;
+			global::PanCardView.Droid.Resource.Id.mr_custom_control = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_custom_control;
+			global::PanCardView.Droid.Resource.Id.mr_default_control = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_default_control;
+			global::PanCardView.Droid.Resource.Id.mr_dialog_area = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_dialog_area;
+			global::PanCardView.Droid.Resource.Id.mr_dialog_header_name = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_dialog_header_name;
+			global::PanCardView.Droid.Resource.Id.mr_expandable_area = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_expandable_area;
+			global::PanCardView.Droid.Resource.Id.mr_group_expand_collapse = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_group_expand_collapse;
+			global::PanCardView.Droid.Resource.Id.mr_group_volume_route_name = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_group_volume_route_name;
+			global::PanCardView.Droid.Resource.Id.mr_group_volume_slider = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_group_volume_slider;
+			global::PanCardView.Droid.Resource.Id.mr_media_main_control = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_media_main_control;
+			global::PanCardView.Droid.Resource.Id.mr_name = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_name;
+			global::PanCardView.Droid.Resource.Id.mr_picker_close_button = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_picker_close_button;
+			global::PanCardView.Droid.Resource.Id.mr_picker_list = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_picker_list;
+			global::PanCardView.Droid.Resource.Id.mr_picker_route_icon = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_picker_route_icon;
+			global::PanCardView.Droid.Resource.Id.mr_picker_route_name = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_picker_route_name;
+			global::PanCardView.Droid.Resource.Id.mr_playback_control = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_playback_control;
+			global::PanCardView.Droid.Resource.Id.mr_title_bar = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_title_bar;
+			global::PanCardView.Droid.Resource.Id.mr_volume_control = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_volume_control;
+			global::PanCardView.Droid.Resource.Id.mr_volume_group_list = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_volume_group_list;
+			global::PanCardView.Droid.Resource.Id.mr_volume_item_icon = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_volume_item_icon;
+			global::PanCardView.Droid.Resource.Id.mr_volume_slider = global::XF_Prism_MarvelCards.Droid.Resource.Id.mr_volume_slider;
+			global::PanCardView.Droid.Resource.Id.mtrl_child_content_container = global::XF_Prism_MarvelCards.Droid.Resource.Id.mtrl_child_content_container;
+			global::PanCardView.Droid.Resource.Id.mtrl_internal_children_alpha_tag = global::XF_Prism_MarvelCards.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::PanCardView.Droid.Resource.Id.multiply = global::XF_Prism_MarvelCards.Droid.Resource.Id.multiply;
+			global::PanCardView.Droid.Resource.Id.navigation_header_container = global::XF_Prism_MarvelCards.Droid.Resource.Id.navigation_header_container;
+			global::PanCardView.Droid.Resource.Id.never = global::XF_Prism_MarvelCards.Droid.Resource.Id.never;
+			global::PanCardView.Droid.Resource.Id.none = global::XF_Prism_MarvelCards.Droid.Resource.Id.none;
+			global::PanCardView.Droid.Resource.Id.normal = global::XF_Prism_MarvelCards.Droid.Resource.Id.normal;
+			global::PanCardView.Droid.Resource.Id.notification_background = global::XF_Prism_MarvelCards.Droid.Resource.Id.notification_background;
+			global::PanCardView.Droid.Resource.Id.notification_main_column = global::XF_Prism_MarvelCards.Droid.Resource.Id.notification_main_column;
+			global::PanCardView.Droid.Resource.Id.notification_main_column_container = global::XF_Prism_MarvelCards.Droid.Resource.Id.notification_main_column_container;
+			global::PanCardView.Droid.Resource.Id.outline = global::XF_Prism_MarvelCards.Droid.Resource.Id.outline;
+			global::PanCardView.Droid.Resource.Id.parallax = global::XF_Prism_MarvelCards.Droid.Resource.Id.parallax;
+			global::PanCardView.Droid.Resource.Id.parentPanel = global::XF_Prism_MarvelCards.Droid.Resource.Id.parentPanel;
+			global::PanCardView.Droid.Resource.Id.parent_matrix = global::XF_Prism_MarvelCards.Droid.Resource.Id.parent_matrix;
+			global::PanCardView.Droid.Resource.Id.pin = global::XF_Prism_MarvelCards.Droid.Resource.Id.pin;
+			global::PanCardView.Droid.Resource.Id.progress_circular = global::XF_Prism_MarvelCards.Droid.Resource.Id.progress_circular;
+			global::PanCardView.Droid.Resource.Id.progress_horizontal = global::XF_Prism_MarvelCards.Droid.Resource.Id.progress_horizontal;
+			global::PanCardView.Droid.Resource.Id.radio = global::XF_Prism_MarvelCards.Droid.Resource.Id.radio;
+			global::PanCardView.Droid.Resource.Id.right = global::XF_Prism_MarvelCards.Droid.Resource.Id.right;
+			global::PanCardView.Droid.Resource.Id.right_icon = global::XF_Prism_MarvelCards.Droid.Resource.Id.right_icon;
+			global::PanCardView.Droid.Resource.Id.right_side = global::XF_Prism_MarvelCards.Droid.Resource.Id.right_side;
+			global::PanCardView.Droid.Resource.Id.save_image_matrix = global::XF_Prism_MarvelCards.Droid.Resource.Id.save_image_matrix;
+			global::PanCardView.Droid.Resource.Id.save_non_transition_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Id.save_non_transition_alpha;
+			global::PanCardView.Droid.Resource.Id.save_scale_type = global::XF_Prism_MarvelCards.Droid.Resource.Id.save_scale_type;
+			global::PanCardView.Droid.Resource.Id.screen = global::XF_Prism_MarvelCards.Droid.Resource.Id.screen;
+			global::PanCardView.Droid.Resource.Id.scroll = global::XF_Prism_MarvelCards.Droid.Resource.Id.scroll;
+			global::PanCardView.Droid.Resource.Id.scrollable = global::XF_Prism_MarvelCards.Droid.Resource.Id.scrollable;
+			global::PanCardView.Droid.Resource.Id.scrollIndicatorDown = global::XF_Prism_MarvelCards.Droid.Resource.Id.scrollIndicatorDown;
+			global::PanCardView.Droid.Resource.Id.scrollIndicatorUp = global::XF_Prism_MarvelCards.Droid.Resource.Id.scrollIndicatorUp;
+			global::PanCardView.Droid.Resource.Id.scrollView = global::XF_Prism_MarvelCards.Droid.Resource.Id.scrollView;
+			global::PanCardView.Droid.Resource.Id.search_badge = global::XF_Prism_MarvelCards.Droid.Resource.Id.search_badge;
+			global::PanCardView.Droid.Resource.Id.search_bar = global::XF_Prism_MarvelCards.Droid.Resource.Id.search_bar;
+			global::PanCardView.Droid.Resource.Id.search_button = global::XF_Prism_MarvelCards.Droid.Resource.Id.search_button;
+			global::PanCardView.Droid.Resource.Id.search_close_btn = global::XF_Prism_MarvelCards.Droid.Resource.Id.search_close_btn;
+			global::PanCardView.Droid.Resource.Id.search_edit_frame = global::XF_Prism_MarvelCards.Droid.Resource.Id.search_edit_frame;
+			global::PanCardView.Droid.Resource.Id.search_go_btn = global::XF_Prism_MarvelCards.Droid.Resource.Id.search_go_btn;
+			global::PanCardView.Droid.Resource.Id.search_mag_icon = global::XF_Prism_MarvelCards.Droid.Resource.Id.search_mag_icon;
+			global::PanCardView.Droid.Resource.Id.search_plate = global::XF_Prism_MarvelCards.Droid.Resource.Id.search_plate;
+			global::PanCardView.Droid.Resource.Id.search_src_text = global::XF_Prism_MarvelCards.Droid.Resource.Id.search_src_text;
+			global::PanCardView.Droid.Resource.Id.search_voice_btn = global::XF_Prism_MarvelCards.Droid.Resource.Id.search_voice_btn;
+			global::PanCardView.Droid.Resource.Id.selected = global::XF_Prism_MarvelCards.Droid.Resource.Id.selected;
+			global::PanCardView.Droid.Resource.Id.select_dialog_listview = global::XF_Prism_MarvelCards.Droid.Resource.Id.select_dialog_listview;
+			global::PanCardView.Droid.Resource.Id.shellcontent_appbar = global::XF_Prism_MarvelCards.Droid.Resource.Id.shellcontent_appbar;
+			global::PanCardView.Droid.Resource.Id.shellcontent_toolbar = global::XF_Prism_MarvelCards.Droid.Resource.Id.shellcontent_toolbar;
+			global::PanCardView.Droid.Resource.Id.SHIFT = global::XF_Prism_MarvelCards.Droid.Resource.Id.SHIFT;
+			global::PanCardView.Droid.Resource.Id.shortcut = global::XF_Prism_MarvelCards.Droid.Resource.Id.shortcut;
+			global::PanCardView.Droid.Resource.Id.showCustom = global::XF_Prism_MarvelCards.Droid.Resource.Id.showCustom;
+			global::PanCardView.Droid.Resource.Id.showHome = global::XF_Prism_MarvelCards.Droid.Resource.Id.showHome;
+			global::PanCardView.Droid.Resource.Id.showTitle = global::XF_Prism_MarvelCards.Droid.Resource.Id.showTitle;
+			global::PanCardView.Droid.Resource.Id.smallLabel = global::XF_Prism_MarvelCards.Droid.Resource.Id.smallLabel;
+			global::PanCardView.Droid.Resource.Id.snackbar_action = global::XF_Prism_MarvelCards.Droid.Resource.Id.snackbar_action;
+			global::PanCardView.Droid.Resource.Id.snackbar_text = global::XF_Prism_MarvelCards.Droid.Resource.Id.snackbar_text;
+			global::PanCardView.Droid.Resource.Id.snap = global::XF_Prism_MarvelCards.Droid.Resource.Id.snap;
+			global::PanCardView.Droid.Resource.Id.snapMargins = global::XF_Prism_MarvelCards.Droid.Resource.Id.snapMargins;
+			global::PanCardView.Droid.Resource.Id.spacer = global::XF_Prism_MarvelCards.Droid.Resource.Id.spacer;
+			global::PanCardView.Droid.Resource.Id.split_action_bar = global::XF_Prism_MarvelCards.Droid.Resource.Id.split_action_bar;
+			global::PanCardView.Droid.Resource.Id.src_atop = global::XF_Prism_MarvelCards.Droid.Resource.Id.src_atop;
+			global::PanCardView.Droid.Resource.Id.src_in = global::XF_Prism_MarvelCards.Droid.Resource.Id.src_in;
+			global::PanCardView.Droid.Resource.Id.src_over = global::XF_Prism_MarvelCards.Droid.Resource.Id.src_over;
+			global::PanCardView.Droid.Resource.Id.start = global::XF_Prism_MarvelCards.Droid.Resource.Id.start;
+			global::PanCardView.Droid.Resource.Id.status_bar_latest_event_content = global::XF_Prism_MarvelCards.Droid.Resource.Id.status_bar_latest_event_content;
+			global::PanCardView.Droid.Resource.Id.stretch = global::XF_Prism_MarvelCards.Droid.Resource.Id.stretch;
+			global::PanCardView.Droid.Resource.Id.submenuarrow = global::XF_Prism_MarvelCards.Droid.Resource.Id.submenuarrow;
+			global::PanCardView.Droid.Resource.Id.submit_area = global::XF_Prism_MarvelCards.Droid.Resource.Id.submit_area;
+			global::PanCardView.Droid.Resource.Id.SYM = global::XF_Prism_MarvelCards.Droid.Resource.Id.SYM;
+			global::PanCardView.Droid.Resource.Id.tabMode = global::XF_Prism_MarvelCards.Droid.Resource.Id.tabMode;
+			global::PanCardView.Droid.Resource.Id.tag_transition_group = global::XF_Prism_MarvelCards.Droid.Resource.Id.tag_transition_group;
+			global::PanCardView.Droid.Resource.Id.tag_unhandled_key_event_manager = global::XF_Prism_MarvelCards.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::PanCardView.Droid.Resource.Id.tag_unhandled_key_listeners = global::XF_Prism_MarvelCards.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::PanCardView.Droid.Resource.Id.text = global::XF_Prism_MarvelCards.Droid.Resource.Id.text;
+			global::PanCardView.Droid.Resource.Id.text2 = global::XF_Prism_MarvelCards.Droid.Resource.Id.text2;
+			global::PanCardView.Droid.Resource.Id.textinput_counter = global::XF_Prism_MarvelCards.Droid.Resource.Id.textinput_counter;
+			global::PanCardView.Droid.Resource.Id.textinput_error = global::XF_Prism_MarvelCards.Droid.Resource.Id.textinput_error;
+			global::PanCardView.Droid.Resource.Id.textinput_helper_text = global::XF_Prism_MarvelCards.Droid.Resource.Id.textinput_helper_text;
+			global::PanCardView.Droid.Resource.Id.textSpacerNoButtons = global::XF_Prism_MarvelCards.Droid.Resource.Id.textSpacerNoButtons;
+			global::PanCardView.Droid.Resource.Id.textSpacerNoTitle = global::XF_Prism_MarvelCards.Droid.Resource.Id.textSpacerNoTitle;
+			global::PanCardView.Droid.Resource.Id.textStart = global::XF_Prism_MarvelCards.Droid.Resource.Id.textStart;
+			global::PanCardView.Droid.Resource.Id.text_input_password_toggle = global::XF_Prism_MarvelCards.Droid.Resource.Id.text_input_password_toggle;
+			global::PanCardView.Droid.Resource.Id.time = global::XF_Prism_MarvelCards.Droid.Resource.Id.time;
+			global::PanCardView.Droid.Resource.Id.title = global::XF_Prism_MarvelCards.Droid.Resource.Id.title;
+			global::PanCardView.Droid.Resource.Id.titleDividerNoCustom = global::XF_Prism_MarvelCards.Droid.Resource.Id.titleDividerNoCustom;
+			global::PanCardView.Droid.Resource.Id.title_template = global::XF_Prism_MarvelCards.Droid.Resource.Id.title_template;
+			global::PanCardView.Droid.Resource.Id.top = global::XF_Prism_MarvelCards.Droid.Resource.Id.top;
+			global::PanCardView.Droid.Resource.Id.topPanel = global::XF_Prism_MarvelCards.Droid.Resource.Id.topPanel;
+			global::PanCardView.Droid.Resource.Id.touch_outside = global::XF_Prism_MarvelCards.Droid.Resource.Id.touch_outside;
+			global::PanCardView.Droid.Resource.Id.transition_current_scene = global::XF_Prism_MarvelCards.Droid.Resource.Id.transition_current_scene;
+			global::PanCardView.Droid.Resource.Id.transition_layout_save = global::XF_Prism_MarvelCards.Droid.Resource.Id.transition_layout_save;
+			global::PanCardView.Droid.Resource.Id.transition_position = global::XF_Prism_MarvelCards.Droid.Resource.Id.transition_position;
+			global::PanCardView.Droid.Resource.Id.transition_scene_layoutid_cache = global::XF_Prism_MarvelCards.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::PanCardView.Droid.Resource.Id.transition_transform = global::XF_Prism_MarvelCards.Droid.Resource.Id.transition_transform;
+			global::PanCardView.Droid.Resource.Id.uniform = global::XF_Prism_MarvelCards.Droid.Resource.Id.uniform;
+			global::PanCardView.Droid.Resource.Id.unlabeled = global::XF_Prism_MarvelCards.Droid.Resource.Id.unlabeled;
+			global::PanCardView.Droid.Resource.Id.up = global::XF_Prism_MarvelCards.Droid.Resource.Id.up;
+			global::PanCardView.Droid.Resource.Id.useLogo = global::XF_Prism_MarvelCards.Droid.Resource.Id.useLogo;
+			global::PanCardView.Droid.Resource.Id.view_offset_helper = global::XF_Prism_MarvelCards.Droid.Resource.Id.view_offset_helper;
+			global::PanCardView.Droid.Resource.Id.visible = global::XF_Prism_MarvelCards.Droid.Resource.Id.visible;
+			global::PanCardView.Droid.Resource.Id.volume_item_container = global::XF_Prism_MarvelCards.Droid.Resource.Id.volume_item_container;
+			global::PanCardView.Droid.Resource.Id.withText = global::XF_Prism_MarvelCards.Droid.Resource.Id.withText;
+			global::PanCardView.Droid.Resource.Id.wrap_content = global::XF_Prism_MarvelCards.Droid.Resource.Id.wrap_content;
+			global::PanCardView.Droid.Resource.Integer.abc_config_activityDefaultDur = global::XF_Prism_MarvelCards.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::PanCardView.Droid.Resource.Integer.abc_config_activityShortDur = global::XF_Prism_MarvelCards.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::PanCardView.Droid.Resource.Integer.app_bar_elevation_anim_duration = global::XF_Prism_MarvelCards.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::PanCardView.Droid.Resource.Integer.bottom_sheet_slide_duration = global::XF_Prism_MarvelCards.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::PanCardView.Droid.Resource.Integer.cancel_button_image_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::PanCardView.Droid.Resource.Integer.config_tooltipAnimTime = global::XF_Prism_MarvelCards.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::PanCardView.Droid.Resource.Integer.design_snackbar_text_max_lines = global::XF_Prism_MarvelCards.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::PanCardView.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms = global::XF_Prism_MarvelCards.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::PanCardView.Droid.Resource.Integer.hide_password_duration = global::XF_Prism_MarvelCards.Droid.Resource.Integer.hide_password_duration;
+			global::PanCardView.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::XF_Prism_MarvelCards.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
+			global::PanCardView.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::XF_Prism_MarvelCards.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
+			global::PanCardView.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::XF_Prism_MarvelCards.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
+			global::PanCardView.Droid.Resource.Integer.mr_update_routes_delay_ms = global::XF_Prism_MarvelCards.Droid.Resource.Integer.mr_update_routes_delay_ms;
+			global::PanCardView.Droid.Resource.Integer.mtrl_btn_anim_delay_ms = global::XF_Prism_MarvelCards.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::PanCardView.Droid.Resource.Integer.mtrl_btn_anim_duration_ms = global::XF_Prism_MarvelCards.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::PanCardView.Droid.Resource.Integer.mtrl_chip_anim_duration = global::XF_Prism_MarvelCards.Droid.Resource.Integer.mtrl_chip_anim_duration;
+			global::PanCardView.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::XF_Prism_MarvelCards.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::PanCardView.Droid.Resource.Integer.show_password_duration = global::XF_Prism_MarvelCards.Droid.Resource.Integer.show_password_duration;
+			global::PanCardView.Droid.Resource.Integer.status_bar_notification_info_maxnum = global::XF_Prism_MarvelCards.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::PanCardView.Droid.Resource.Interpolator.mr_fast_out_slow_in = global::XF_Prism_MarvelCards.Droid.Resource.Interpolator.mr_fast_out_slow_in;
+			global::PanCardView.Droid.Resource.Interpolator.mr_linear_out_slow_in = global::XF_Prism_MarvelCards.Droid.Resource.Interpolator.mr_linear_out_slow_in;
+			global::PanCardView.Droid.Resource.Interpolator.mtrl_fast_out_linear_in = global::XF_Prism_MarvelCards.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::PanCardView.Droid.Resource.Interpolator.mtrl_fast_out_slow_in = global::XF_Prism_MarvelCards.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::PanCardView.Droid.Resource.Interpolator.mtrl_linear = global::XF_Prism_MarvelCards.Droid.Resource.Interpolator.mtrl_linear;
+			global::PanCardView.Droid.Resource.Interpolator.mtrl_linear_out_slow_in = global::XF_Prism_MarvelCards.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::PanCardView.Droid.Resource.Layout.abc_action_bar_title_item = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::PanCardView.Droid.Resource.Layout.abc_action_bar_up_container = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::PanCardView.Droid.Resource.Layout.abc_action_menu_item_layout = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::PanCardView.Droid.Resource.Layout.abc_action_menu_layout = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_action_menu_layout;
+			global::PanCardView.Droid.Resource.Layout.abc_action_mode_bar = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_action_mode_bar;
+			global::PanCardView.Droid.Resource.Layout.abc_action_mode_close_item_material = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::PanCardView.Droid.Resource.Layout.abc_activity_chooser_view = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::PanCardView.Droid.Resource.Layout.abc_activity_chooser_view_list_item = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::PanCardView.Droid.Resource.Layout.abc_alert_dialog_button_bar_material = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::PanCardView.Droid.Resource.Layout.abc_alert_dialog_material = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::PanCardView.Droid.Resource.Layout.abc_alert_dialog_title_material = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::PanCardView.Droid.Resource.Layout.abc_cascading_menu_item_layout = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+			global::PanCardView.Droid.Resource.Layout.abc_dialog_title_material = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_dialog_title_material;
+			global::PanCardView.Droid.Resource.Layout.abc_expanded_menu_layout = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::PanCardView.Droid.Resource.Layout.abc_list_menu_item_checkbox = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::PanCardView.Droid.Resource.Layout.abc_list_menu_item_icon = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::PanCardView.Droid.Resource.Layout.abc_list_menu_item_layout = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::PanCardView.Droid.Resource.Layout.abc_list_menu_item_radio = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::PanCardView.Droid.Resource.Layout.abc_popup_menu_header_item_layout = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::PanCardView.Droid.Resource.Layout.abc_popup_menu_item_layout = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::PanCardView.Droid.Resource.Layout.abc_screen_content_include = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_screen_content_include;
+			global::PanCardView.Droid.Resource.Layout.abc_screen_simple = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_screen_simple;
+			global::PanCardView.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::PanCardView.Droid.Resource.Layout.abc_screen_toolbar = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_screen_toolbar;
+			global::PanCardView.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::PanCardView.Droid.Resource.Layout.abc_search_view = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_search_view;
+			global::PanCardView.Droid.Resource.Layout.abc_select_dialog_material = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_select_dialog_material;
+			global::PanCardView.Droid.Resource.Layout.abc_tooltip = global::XF_Prism_MarvelCards.Droid.Resource.Layout.abc_tooltip;
+			global::PanCardView.Droid.Resource.Layout.BottomTabLayout = global::XF_Prism_MarvelCards.Droid.Resource.Layout.BottomTabLayout;
+			global::PanCardView.Droid.Resource.Layout.browser_actions_context_menu_page = global::XF_Prism_MarvelCards.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::PanCardView.Droid.Resource.Layout.browser_actions_context_menu_row = global::XF_Prism_MarvelCards.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::PanCardView.Droid.Resource.Layout.design_bottom_navigation_item = global::XF_Prism_MarvelCards.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::PanCardView.Droid.Resource.Layout.design_bottom_sheet_dialog = global::XF_Prism_MarvelCards.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::PanCardView.Droid.Resource.Layout.design_layout_snackbar = global::XF_Prism_MarvelCards.Droid.Resource.Layout.design_layout_snackbar;
+			global::PanCardView.Droid.Resource.Layout.design_layout_snackbar_include = global::XF_Prism_MarvelCards.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::PanCardView.Droid.Resource.Layout.design_layout_tab_icon = global::XF_Prism_MarvelCards.Droid.Resource.Layout.design_layout_tab_icon;
+			global::PanCardView.Droid.Resource.Layout.design_layout_tab_text = global::XF_Prism_MarvelCards.Droid.Resource.Layout.design_layout_tab_text;
+			global::PanCardView.Droid.Resource.Layout.design_menu_item_action_area = global::XF_Prism_MarvelCards.Droid.Resource.Layout.design_menu_item_action_area;
+			global::PanCardView.Droid.Resource.Layout.design_navigation_item = global::XF_Prism_MarvelCards.Droid.Resource.Layout.design_navigation_item;
+			global::PanCardView.Droid.Resource.Layout.design_navigation_item_header = global::XF_Prism_MarvelCards.Droid.Resource.Layout.design_navigation_item_header;
+			global::PanCardView.Droid.Resource.Layout.design_navigation_item_separator = global::XF_Prism_MarvelCards.Droid.Resource.Layout.design_navigation_item_separator;
+			global::PanCardView.Droid.Resource.Layout.design_navigation_item_subheader = global::XF_Prism_MarvelCards.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::PanCardView.Droid.Resource.Layout.design_navigation_menu = global::XF_Prism_MarvelCards.Droid.Resource.Layout.design_navigation_menu;
+			global::PanCardView.Droid.Resource.Layout.design_navigation_menu_item = global::XF_Prism_MarvelCards.Droid.Resource.Layout.design_navigation_menu_item;
+			global::PanCardView.Droid.Resource.Layout.design_text_input_password_icon = global::XF_Prism_MarvelCards.Droid.Resource.Layout.design_text_input_password_icon;
+			global::PanCardView.Droid.Resource.Layout.FlyoutContent = global::XF_Prism_MarvelCards.Droid.Resource.Layout.FlyoutContent;
+			global::PanCardView.Droid.Resource.Layout.mr_cast_dialog = global::XF_Prism_MarvelCards.Droid.Resource.Layout.mr_cast_dialog;
+			global::PanCardView.Droid.Resource.Layout.mr_cast_group_item = global::XF_Prism_MarvelCards.Droid.Resource.Layout.mr_cast_group_item;
+			global::PanCardView.Droid.Resource.Layout.mr_cast_group_volume_item = global::XF_Prism_MarvelCards.Droid.Resource.Layout.mr_cast_group_volume_item;
+			global::PanCardView.Droid.Resource.Layout.mr_cast_media_metadata = global::XF_Prism_MarvelCards.Droid.Resource.Layout.mr_cast_media_metadata;
+			global::PanCardView.Droid.Resource.Layout.mr_cast_route_item = global::XF_Prism_MarvelCards.Droid.Resource.Layout.mr_cast_route_item;
+			global::PanCardView.Droid.Resource.Layout.mr_chooser_dialog = global::XF_Prism_MarvelCards.Droid.Resource.Layout.mr_chooser_dialog;
+			global::PanCardView.Droid.Resource.Layout.mr_chooser_list_item = global::XF_Prism_MarvelCards.Droid.Resource.Layout.mr_chooser_list_item;
+			global::PanCardView.Droid.Resource.Layout.mr_controller_material_dialog_b = global::XF_Prism_MarvelCards.Droid.Resource.Layout.mr_controller_material_dialog_b;
+			global::PanCardView.Droid.Resource.Layout.mr_controller_volume_item = global::XF_Prism_MarvelCards.Droid.Resource.Layout.mr_controller_volume_item;
+			global::PanCardView.Droid.Resource.Layout.mr_dialog_header_item = global::XF_Prism_MarvelCards.Droid.Resource.Layout.mr_dialog_header_item;
+			global::PanCardView.Droid.Resource.Layout.mr_picker_dialog = global::XF_Prism_MarvelCards.Droid.Resource.Layout.mr_picker_dialog;
+			global::PanCardView.Droid.Resource.Layout.mr_picker_route_item = global::XF_Prism_MarvelCards.Droid.Resource.Layout.mr_picker_route_item;
+			global::PanCardView.Droid.Resource.Layout.mr_playback_control = global::XF_Prism_MarvelCards.Droid.Resource.Layout.mr_playback_control;
+			global::PanCardView.Droid.Resource.Layout.mr_volume_control = global::XF_Prism_MarvelCards.Droid.Resource.Layout.mr_volume_control;
+			global::PanCardView.Droid.Resource.Layout.mtrl_layout_snackbar = global::XF_Prism_MarvelCards.Droid.Resource.Layout.mtrl_layout_snackbar;
+			global::PanCardView.Droid.Resource.Layout.mtrl_layout_snackbar_include = global::XF_Prism_MarvelCards.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+			global::PanCardView.Droid.Resource.Layout.notification_action = global::XF_Prism_MarvelCards.Droid.Resource.Layout.notification_action;
+			global::PanCardView.Droid.Resource.Layout.notification_action_tombstone = global::XF_Prism_MarvelCards.Droid.Resource.Layout.notification_action_tombstone;
+			global::PanCardView.Droid.Resource.Layout.notification_media_action = global::XF_Prism_MarvelCards.Droid.Resource.Layout.notification_media_action;
+			global::PanCardView.Droid.Resource.Layout.notification_media_cancel_action = global::XF_Prism_MarvelCards.Droid.Resource.Layout.notification_media_cancel_action;
+			global::PanCardView.Droid.Resource.Layout.notification_template_big_media = global::XF_Prism_MarvelCards.Droid.Resource.Layout.notification_template_big_media;
+			global::PanCardView.Droid.Resource.Layout.notification_template_big_media_custom = global::XF_Prism_MarvelCards.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::PanCardView.Droid.Resource.Layout.notification_template_big_media_narrow = global::XF_Prism_MarvelCards.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::PanCardView.Droid.Resource.Layout.notification_template_big_media_narrow_custom = global::XF_Prism_MarvelCards.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::PanCardView.Droid.Resource.Layout.notification_template_custom_big = global::XF_Prism_MarvelCards.Droid.Resource.Layout.notification_template_custom_big;
+			global::PanCardView.Droid.Resource.Layout.notification_template_icon_group = global::XF_Prism_MarvelCards.Droid.Resource.Layout.notification_template_icon_group;
+			global::PanCardView.Droid.Resource.Layout.notification_template_lines_media = global::XF_Prism_MarvelCards.Droid.Resource.Layout.notification_template_lines_media;
+			global::PanCardView.Droid.Resource.Layout.notification_template_media = global::XF_Prism_MarvelCards.Droid.Resource.Layout.notification_template_media;
+			global::PanCardView.Droid.Resource.Layout.notification_template_media_custom = global::XF_Prism_MarvelCards.Droid.Resource.Layout.notification_template_media_custom;
+			global::PanCardView.Droid.Resource.Layout.notification_template_part_chronometer = global::XF_Prism_MarvelCards.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::PanCardView.Droid.Resource.Layout.notification_template_part_time = global::XF_Prism_MarvelCards.Droid.Resource.Layout.notification_template_part_time;
+			global::PanCardView.Droid.Resource.Layout.RootLayout = global::XF_Prism_MarvelCards.Droid.Resource.Layout.RootLayout;
+			global::PanCardView.Droid.Resource.Layout.select_dialog_item_material = global::XF_Prism_MarvelCards.Droid.Resource.Layout.select_dialog_item_material;
+			global::PanCardView.Droid.Resource.Layout.select_dialog_multichoice_material = global::XF_Prism_MarvelCards.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::PanCardView.Droid.Resource.Layout.select_dialog_singlechoice_material = global::XF_Prism_MarvelCards.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::PanCardView.Droid.Resource.Layout.ShellContent = global::XF_Prism_MarvelCards.Droid.Resource.Layout.ShellContent;
+			global::PanCardView.Droid.Resource.Layout.support_simple_spinner_dropdown_item = global::XF_Prism_MarvelCards.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::PanCardView.Droid.Resource.String.abc_action_bar_home_description = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_action_bar_home_description;
+			global::PanCardView.Droid.Resource.String.abc_action_bar_up_description = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_action_bar_up_description;
+			global::PanCardView.Droid.Resource.String.abc_action_menu_overflow_description = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::PanCardView.Droid.Resource.String.abc_action_mode_done = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_action_mode_done;
+			global::PanCardView.Droid.Resource.String.abc_activitychooserview_choose_application = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::PanCardView.Droid.Resource.String.abc_activity_chooser_view_see_all = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::PanCardView.Droid.Resource.String.abc_capital_off = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_capital_off;
+			global::PanCardView.Droid.Resource.String.abc_capital_on = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_capital_on;
+			global::PanCardView.Droid.Resource.String.abc_font_family_body_1_material = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_font_family_body_1_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_body_2_material = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_font_family_body_2_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_button_material = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_font_family_button_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_caption_material = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_font_family_caption_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_display_1_material = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_font_family_display_1_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_display_2_material = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_font_family_display_2_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_display_3_material = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_font_family_display_3_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_display_4_material = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_font_family_display_4_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_headline_material = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_font_family_headline_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_menu_material = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_font_family_menu_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_subhead_material = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_font_family_subhead_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_title_material = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_font_family_title_material;
+			global::PanCardView.Droid.Resource.String.abc_menu_alt_shortcut_label = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_menu_alt_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_menu_ctrl_shortcut_label = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_menu_delete_shortcut_label = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_menu_delete_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_menu_enter_shortcut_label = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_menu_enter_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_menu_function_shortcut_label = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_menu_function_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_menu_meta_shortcut_label = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_menu_meta_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_menu_shift_shortcut_label = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_menu_shift_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_menu_space_shortcut_label = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_menu_space_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_menu_sym_shortcut_label = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_menu_sym_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_prepend_shortcut_label = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_searchview_description_clear = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_searchview_description_clear;
+			global::PanCardView.Droid.Resource.String.abc_searchview_description_query = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_searchview_description_query;
+			global::PanCardView.Droid.Resource.String.abc_searchview_description_search = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_searchview_description_search;
+			global::PanCardView.Droid.Resource.String.abc_searchview_description_submit = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_searchview_description_submit;
+			global::PanCardView.Droid.Resource.String.abc_searchview_description_voice = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_searchview_description_voice;
+			global::PanCardView.Droid.Resource.String.abc_search_hint = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_search_hint;
+			global::PanCardView.Droid.Resource.String.abc_shareactionprovider_share_with = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::PanCardView.Droid.Resource.String.abc_shareactionprovider_share_with_application = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::PanCardView.Droid.Resource.String.abc_toolbar_collapse_description = global::XF_Prism_MarvelCards.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::PanCardView.Droid.Resource.String.appbar_scrolling_view_behavior = global::XF_Prism_MarvelCards.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::PanCardView.Droid.Resource.String.bottom_sheet_behavior = global::XF_Prism_MarvelCards.Droid.Resource.String.bottom_sheet_behavior;
+			global::PanCardView.Droid.Resource.String.character_counter_content_description = global::XF_Prism_MarvelCards.Droid.Resource.String.character_counter_content_description;
+			global::PanCardView.Droid.Resource.String.character_counter_pattern = global::XF_Prism_MarvelCards.Droid.Resource.String.character_counter_pattern;
+			global::PanCardView.Droid.Resource.String.fab_transformation_scrim_behavior = global::XF_Prism_MarvelCards.Droid.Resource.String.fab_transformation_scrim_behavior;
+			global::PanCardView.Droid.Resource.String.fab_transformation_sheet_behavior = global::XF_Prism_MarvelCards.Droid.Resource.String.fab_transformation_sheet_behavior;
+			global::PanCardView.Droid.Resource.String.hide_bottom_view_on_scroll_behavior = global::XF_Prism_MarvelCards.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::PanCardView.Droid.Resource.String.library_name = global::XF_Prism_MarvelCards.Droid.Resource.String.library_name;
+			global::PanCardView.Droid.Resource.String.mr_button_content_description = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_button_content_description;
+			global::PanCardView.Droid.Resource.String.mr_cast_button_connected = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_cast_button_connected;
+			global::PanCardView.Droid.Resource.String.mr_cast_button_connecting = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_cast_button_connecting;
+			global::PanCardView.Droid.Resource.String.mr_cast_button_disconnected = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_cast_button_disconnected;
+			global::PanCardView.Droid.Resource.String.mr_cast_dialog_title_view_placeholder = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_cast_dialog_title_view_placeholder;
+			global::PanCardView.Droid.Resource.String.mr_chooser_searching = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_chooser_searching;
+			global::PanCardView.Droid.Resource.String.mr_chooser_title = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_chooser_title;
+			global::PanCardView.Droid.Resource.String.mr_controller_album_art = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_controller_album_art;
+			global::PanCardView.Droid.Resource.String.mr_controller_casting_screen = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_controller_casting_screen;
+			global::PanCardView.Droid.Resource.String.mr_controller_close_description = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_controller_close_description;
+			global::PanCardView.Droid.Resource.String.mr_controller_collapse_group = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_controller_collapse_group;
+			global::PanCardView.Droid.Resource.String.mr_controller_disconnect = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_controller_disconnect;
+			global::PanCardView.Droid.Resource.String.mr_controller_expand_group = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_controller_expand_group;
+			global::PanCardView.Droid.Resource.String.mr_controller_no_info_available = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_controller_no_info_available;
+			global::PanCardView.Droid.Resource.String.mr_controller_no_media_selected = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_controller_no_media_selected;
+			global::PanCardView.Droid.Resource.String.mr_controller_pause = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_controller_pause;
+			global::PanCardView.Droid.Resource.String.mr_controller_play = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_controller_play;
+			global::PanCardView.Droid.Resource.String.mr_controller_stop = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_controller_stop;
+			global::PanCardView.Droid.Resource.String.mr_controller_stop_casting = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_controller_stop_casting;
+			global::PanCardView.Droid.Resource.String.mr_controller_volume_slider = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_controller_volume_slider;
+			global::PanCardView.Droid.Resource.String.mr_dialog_device_header = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_dialog_device_header;
+			global::PanCardView.Droid.Resource.String.mr_dialog_route_header = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_dialog_route_header;
+			global::PanCardView.Droid.Resource.String.mr_system_route_name = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_system_route_name;
+			global::PanCardView.Droid.Resource.String.mr_user_route_category_name = global::XF_Prism_MarvelCards.Droid.Resource.String.mr_user_route_category_name;
+			global::PanCardView.Droid.Resource.String.mtrl_chip_close_icon_content_description = global::XF_Prism_MarvelCards.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+			global::PanCardView.Droid.Resource.String.password_toggle_content_description = global::XF_Prism_MarvelCards.Droid.Resource.String.password_toggle_content_description;
+			global::PanCardView.Droid.Resource.String.path_password_eye = global::XF_Prism_MarvelCards.Droid.Resource.String.path_password_eye;
+			global::PanCardView.Droid.Resource.String.path_password_eye_mask_strike_through = global::XF_Prism_MarvelCards.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::PanCardView.Droid.Resource.String.path_password_eye_mask_visible = global::XF_Prism_MarvelCards.Droid.Resource.String.path_password_eye_mask_visible;
+			global::PanCardView.Droid.Resource.String.path_password_strike_through = global::XF_Prism_MarvelCards.Droid.Resource.String.path_password_strike_through;
+			global::PanCardView.Droid.Resource.String.search_menu_title = global::XF_Prism_MarvelCards.Droid.Resource.String.search_menu_title;
+			global::PanCardView.Droid.Resource.String.status_bar_notification_info_overflow = global::XF_Prism_MarvelCards.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::PanCardView.Droid.Resource.Style.AlertDialog_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::PanCardView.Droid.Resource.Style.AlertDialog_AppCompat_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Animation_AppCompat_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Animation_AppCompat_DropDownUp = global::XF_Prism_MarvelCards.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::PanCardView.Droid.Resource.Style.Animation_AppCompat_Tooltip = global::XF_Prism_MarvelCards.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::PanCardView.Droid.Resource.Style.Animation_Design_BottomSheetDialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::PanCardView.Droid.Resource.Style.Base_AlertDialog_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_Animation_AppCompat_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::PanCardView.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::PanCardView.Droid.Resource.Style.Base_CardView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_CardView;
+			global::PanCardView.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Base_V14_Theme_MaterialComponents = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::PanCardView.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::PanCardView.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::PanCardView.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::PanCardView.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::PanCardView.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V21_Theme_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V22_Theme_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_V23_Theme_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_V26_Theme_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::PanCardView.Droid.Resource.Style.Base_V28_Theme_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V28_Theme_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V7_Theme_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::PanCardView.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::PanCardView.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Button = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_EditText = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ListView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_SearchView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Spinner = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_Design_TabLayout = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::XF_Prism_MarvelCards.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::PanCardView.Droid.Resource.Style.CardView = global::XF_Prism_MarvelCards.Droid.Resource.Style.CardView;
+			global::PanCardView.Droid.Resource.Style.CardView_Dark = global::XF_Prism_MarvelCards.Droid.Resource.Style.CardView_Dark;
+			global::PanCardView.Droid.Resource.Style.CardView_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.CardView_Light;
+			global::PanCardView.Droid.Resource.Style.collectionViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Style.collectionViewStyle;
+			global::PanCardView.Droid.Resource.Style.NestedScrollBarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Style.NestedScrollBarStyle;
+			global::PanCardView.Droid.Resource.Style.Platform_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Platform_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Platform_AppCompat_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Platform_MaterialComponents = global::XF_Prism_MarvelCards.Droid.Resource.Style.Platform_MaterialComponents;
+			global::PanCardView.Droid.Resource.Style.Platform_MaterialComponents_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::PanCardView.Droid.Resource.Style.Platform_MaterialComponents_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Platform_MaterialComponents_Light;
+			global::PanCardView.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::PanCardView.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::XF_Prism_MarvelCards.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::PanCardView.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Platform_V21_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Platform_V21_AppCompat_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Platform_V25_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Platform_V25_AppCompat_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner = global::XF_Prism_MarvelCards.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::PanCardView.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::PanCardView.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::XF_Prism_MarvelCards.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Body1 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Body2 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Button = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Caption = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Display1 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Display2 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Display3 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Display4 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Headline = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Large = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Medium = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Menu = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Small = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Subhead = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Title = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Info = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Media = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Time = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Title = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Design_Counter = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Design_Error = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Design_HelperText = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Design_HelperText;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Design_Hint = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Design_Tab = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Button = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Tab = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MaterialComponents_Tab;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MediaRouter_PrimaryText = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MediaRouter_PrimaryText;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MediaRouter_SecondaryText = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MediaRouter_SecondaryText;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MediaRouter_Title = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_MediaRouter_Title;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::XF_Prism_MarvelCards.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_AppCompat_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MediaRouter_Dark = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_MediaRouter_Dark;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MediaRouter_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.ThemeOverlay_MediaRouter_Light;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_CompactMenu = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_DayNight = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Light_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_NoActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_Design = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_Design;
+			global::PanCardView.Droid.Resource.Style.Theme_Design_BottomSheetDialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::PanCardView.Droid.Resource.Style.Theme_Design_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_Design_Light;
+			global::PanCardView.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::PanCardView.Droid.Resource.Style.Theme_Design_Light_NoActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_Design_NoActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Bridge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::PanCardView.Droid.Resource.Style.Theme_MediaRouter = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MediaRouter;
+			global::PanCardView.Droid.Resource.Style.Theme_MediaRouter_Light = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MediaRouter_Light;
+			global::PanCardView.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel;
+			global::PanCardView.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::XF_Prism_MarvelCards.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionButton = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionMode = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Button = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ButtonBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Button_Borderless = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Button_Colored = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Button_Small = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_EditText = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ImageButton = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_SearchView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ListMenuView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ListView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ListView_Menu = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_PopupMenu = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_PopupWindow = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ProgressBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_RatingBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_SearchView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_SeekBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Spinner = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Toolbar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::PanCardView.Droid.Resource.Style.Widget_Compat_NotificationActionContainer = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::PanCardView.Droid.Resource.Style.Widget_Compat_NotificationActionText = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_AppBarLayout = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_BottomNavigationView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_BottomSheet_Modal = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_CollapsingToolbar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_FloatingActionButton = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_NavigationView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_Snackbar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_TabLayout = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_TextInputLayout = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Button;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_CardView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_CardView;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_NavigationView = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Snackbar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TabLayout = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Toolbar = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::PanCardView.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
+			global::PanCardView.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton;
+			global::PanCardView.Droid.Resource.Style.Widget_Support_CoordinatorLayout = global::XF_Prism_MarvelCards.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar;
+			global::PanCardView.Droid.Resource.Styleable.ActionBarLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBarLayout;
+			global::PanCardView.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_background = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_background;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_backgroundSplit = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_backgroundStacked = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_contentInsetEnd = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_contentInsetLeft = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_contentInsetRight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_contentInsetStart = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_customNavigationLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_displayOptions = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_divider = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_divider;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_elevation;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_height = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_height;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_hideOnContentScroll = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_homeLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_icon = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_icon;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_itemPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_logo = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_logo;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_navigationMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_popupTheme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_progressBarPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_progressBarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_subtitle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_subtitleTextStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_title = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_title;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_titleTextStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::PanCardView.Droid.Resource.Styleable.ActionMenuItemView = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionMenuItemView;
+			global::PanCardView.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::PanCardView.Droid.Resource.Styleable.ActionMenuView = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionMenuView;
+			global::PanCardView.Droid.Resource.Styleable.ActionMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionMode;
+			global::PanCardView.Droid.Resource.Styleable.ActionMode_background = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionMode_background;
+			global::PanCardView.Droid.Resource.Styleable.ActionMode_backgroundSplit = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::PanCardView.Droid.Resource.Styleable.ActionMode_closeItemLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::PanCardView.Droid.Resource.Styleable.ActionMode_height = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionMode_height;
+			global::PanCardView.Droid.Resource.Styleable.ActionMode_subtitleTextStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::PanCardView.Droid.Resource.Styleable.ActionMode_titleTextStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::PanCardView.Droid.Resource.Styleable.ActivityChooserView = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActivityChooserView;
+			global::PanCardView.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::PanCardView.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AlertDialog;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog_android_layout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog_buttonIconDimen = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog_listItemLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog_listLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog_showTitle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableCompat = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableItem = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableTransition = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppBarLayout;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayoutStates = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_android_background = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_expanded = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_Layout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_liftOnScroll = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatImageView = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatImageView;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatImageView_android_src = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatImageView_srcCompat = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatImageView_tint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatImageView_tintMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatSeekBar = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatSeekBar_tickMark = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextHelper = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextView;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_fontFamily = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_lineHeight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_textAllCaps = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarSize = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_buttonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorAccent = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorError = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorPrimary = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_controlBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_dialogTheme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_dividerVertical = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_editTextBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_editTextColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_editTextStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_panelBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_switchStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowActionBar = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::PanCardView.Droid.Resource.Styleable.BottomAppBar = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomAppBar;
+			global::PanCardView.Droid.Resource.Styleable.BottomAppBar_backgroundTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::PanCardView.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::PanCardView.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::PanCardView.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::PanCardView.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::PanCardView.Droid.Resource.Styleable.BottomAppBar_hideOnScroll = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomNavigationView;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_itemBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_itemIconSize = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_itemIconTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_itemTextColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_menu = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::PanCardView.Droid.Resource.Styleable.BottomSheetBehavior_Layout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::PanCardView.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::PanCardView.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::PanCardView.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::PanCardView.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::PanCardView.Droid.Resource.Styleable.ButtonBarLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ButtonBarLayout;
+			global::PanCardView.Droid.Resource.Styleable.ButtonBarLayout_allowStacking = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::PanCardView.Droid.Resource.Styleable.CardView = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CardView;
+			global::PanCardView.Droid.Resource.Styleable.CardView_android_minHeight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::PanCardView.Droid.Resource.Styleable.CardView_android_minWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::PanCardView.Droid.Resource.Styleable.CardView_cardBackgroundColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::PanCardView.Droid.Resource.Styleable.CardView_cardCornerRadius = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::PanCardView.Droid.Resource.Styleable.CardView_cardElevation = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CardView_cardElevation;
+			global::PanCardView.Droid.Resource.Styleable.CardView_cardMaxElevation = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::PanCardView.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::PanCardView.Droid.Resource.Styleable.CardView_cardUseCompatPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::PanCardView.Droid.Resource.Styleable.CardView_contentPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CardView_contentPadding;
+			global::PanCardView.Droid.Resource.Styleable.CardView_contentPaddingBottom = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::PanCardView.Droid.Resource.Styleable.CardView_contentPaddingLeft = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::PanCardView.Droid.Resource.Styleable.CardView_contentPaddingRight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::PanCardView.Droid.Resource.Styleable.CardView_contentPaddingTop = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::PanCardView.Droid.Resource.Styleable.Chip = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip;
+			global::PanCardView.Droid.Resource.Styleable.ChipGroup = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ChipGroup;
+			global::PanCardView.Droid.Resource.Styleable.ChipGroup_checkedChip = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::PanCardView.Droid.Resource.Styleable.ChipGroup_chipSpacing = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::PanCardView.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::PanCardView.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::PanCardView.Droid.Resource.Styleable.ChipGroup_singleLine = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::PanCardView.Droid.Resource.Styleable.ChipGroup_singleSelection = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ChipGroup_singleSelection;
+			global::PanCardView.Droid.Resource.Styleable.Chip_android_checkable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_android_checkable;
+			global::PanCardView.Droid.Resource.Styleable.Chip_android_ellipsize = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_android_ellipsize;
+			global::PanCardView.Droid.Resource.Styleable.Chip_android_maxWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_android_maxWidth;
+			global::PanCardView.Droid.Resource.Styleable.Chip_android_text = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_android_text;
+			global::PanCardView.Droid.Resource.Styleable.Chip_android_textAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_android_textAppearance;
+			global::PanCardView.Droid.Resource.Styleable.Chip_checkedIcon = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_checkedIcon;
+			global::PanCardView.Droid.Resource.Styleable.Chip_checkedIconEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_checkedIconEnabled;
+			global::PanCardView.Droid.Resource.Styleable.Chip_checkedIconVisible = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_checkedIconVisible;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipBackgroundColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_chipBackgroundColor;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipCornerRadius = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_chipCornerRadius;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipEndPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_chipEndPadding;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipIcon = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_chipIcon;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipIconEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_chipIconEnabled;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipIconSize = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_chipIconSize;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipIconTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_chipIconTint;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipIconVisible = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_chipIconVisible;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipMinHeight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_chipMinHeight;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipStartPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_chipStartPadding;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipStrokeColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_chipStrokeColor;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipStrokeWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_chipStrokeWidth;
+			global::PanCardView.Droid.Resource.Styleable.Chip_closeIcon = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_closeIcon;
+			global::PanCardView.Droid.Resource.Styleable.Chip_closeIconEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_closeIconEnabled;
+			global::PanCardView.Droid.Resource.Styleable.Chip_closeIconEndPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_closeIconEndPadding;
+			global::PanCardView.Droid.Resource.Styleable.Chip_closeIconSize = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_closeIconSize;
+			global::PanCardView.Droid.Resource.Styleable.Chip_closeIconStartPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_closeIconStartPadding;
+			global::PanCardView.Droid.Resource.Styleable.Chip_closeIconTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_closeIconTint;
+			global::PanCardView.Droid.Resource.Styleable.Chip_closeIconVisible = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_closeIconVisible;
+			global::PanCardView.Droid.Resource.Styleable.Chip_hideMotionSpec = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_hideMotionSpec;
+			global::PanCardView.Droid.Resource.Styleable.Chip_iconEndPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_iconEndPadding;
+			global::PanCardView.Droid.Resource.Styleable.Chip_iconStartPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_iconStartPadding;
+			global::PanCardView.Droid.Resource.Styleable.Chip_rippleColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_rippleColor;
+			global::PanCardView.Droid.Resource.Styleable.Chip_showMotionSpec = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_showMotionSpec;
+			global::PanCardView.Droid.Resource.Styleable.Chip_textEndPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_textEndPadding;
+			global::PanCardView.Droid.Resource.Styleable.Chip_textStartPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_title = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::PanCardView.Droid.Resource.Styleable.ColorStateListItem = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ColorStateListItem;
+			global::PanCardView.Droid.Resource.Styleable.ColorStateListItem_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::PanCardView.Droid.Resource.Styleable.ColorStateListItem_android_alpha = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::PanCardView.Droid.Resource.Styleable.ColorStateListItem_android_color = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::PanCardView.Droid.Resource.Styleable.CompoundButton = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CompoundButton;
+			global::PanCardView.Droid.Resource.Styleable.CompoundButton_android_button = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::PanCardView.Droid.Resource.Styleable.CompoundButton_buttonTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::PanCardView.Droid.Resource.Styleable.CompoundButton_buttonTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CoordinatorLayout;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_keylines = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_Layout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::PanCardView.Droid.Resource.Styleable.DesignTheme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.DesignTheme;
+			global::PanCardView.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::PanCardView.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle_barLength = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle_color = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle_spinBars = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle_thickness = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FloatingActionButton;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_backgroundTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_borderWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_fabSize = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_maxImageSize = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_rippleColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::PanCardView.Droid.Resource.Styleable.FlowLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FlowLayout;
+			global::PanCardView.Droid.Resource.Styleable.FlowLayout_itemSpacing = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FlowLayout_itemSpacing;
+			global::PanCardView.Droid.Resource.Styleable.FlowLayout_lineSpacing = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FlowLayout_lineSpacing;
+			global::PanCardView.Droid.Resource.Styleable.FontFamily = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamily;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamilyFont;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_android_font = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_font = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_fontStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_fontWeight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_ttcIndex = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::PanCardView.Droid.Resource.Styleable.FontFamily_fontProviderAuthority = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::PanCardView.Droid.Resource.Styleable.FontFamily_fontProviderCerts = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::PanCardView.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::PanCardView.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::PanCardView.Droid.Resource.Styleable.FontFamily_fontProviderPackage = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::PanCardView.Droid.Resource.Styleable.FontFamily_fontProviderQuery = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::PanCardView.Droid.Resource.Styleable.ForegroundLinearLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::PanCardView.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::PanCardView.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::PanCardView.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.GradientColor;
+			global::PanCardView.Droid.Resource.Styleable.GradientColorItem = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.GradientColorItem;
+			global::PanCardView.Droid.Resource.Styleable.GradientColorItem_android_color = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::PanCardView.Droid.Resource.Styleable.GradientColorItem_android_offset = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_centerColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_centerX = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_centerY = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_endColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_endX = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_endY = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_gradientRadius = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_startColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_startX = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_startY = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_tileMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_type = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.GradientColor_android_type;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_divider = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_Layout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_showDividers = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::PanCardView.Droid.Resource.Styleable.ListPopupWindow = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ListPopupWindow;
+			global::PanCardView.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::PanCardView.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_android_insetBottom = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_android_insetLeft = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_android_insetRight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton_android_insetRight;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_android_insetTop = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton_android_insetTop;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_backgroundTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton_backgroundTint;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_backgroundTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_cornerRadius = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton_cornerRadius;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_icon = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton_icon;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_iconGravity = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton_iconGravity;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_iconPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton_iconPadding;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_iconSize = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton_iconSize;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_iconTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton_iconTint;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_iconTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton_iconTintMode;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_rippleColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton_rippleColor;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_strokeColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton_strokeColor;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_strokeWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialButton_strokeWidth;
+			global::PanCardView.Droid.Resource.Styleable.MaterialCardView = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialCardView;
+			global::PanCardView.Droid.Resource.Styleable.MaterialCardView_strokeColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialCardView_strokeColor;
+			global::PanCardView.Droid.Resource.Styleable.MaterialCardView_strokeWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_chipStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_colorAccent;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_tabStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
+			global::PanCardView.Droid.Resource.Styleable.MediaRouteButton = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MediaRouteButton;
+			global::PanCardView.Droid.Resource.Styleable.MediaRouteButton_android_minHeight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MediaRouteButton_android_minHeight;
+			global::PanCardView.Droid.Resource.Styleable.MediaRouteButton_android_minWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MediaRouteButton_android_minWidth;
+			global::PanCardView.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
+			global::PanCardView.Droid.Resource.Styleable.MediaRouteButton_mediaRouteButtonTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MediaRouteButton_mediaRouteButtonTint;
+			global::PanCardView.Droid.Resource.Styleable.MenuGroup = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuGroup;
+			global::PanCardView.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::PanCardView.Droid.Resource.Styleable.MenuGroup_android_enabled = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::PanCardView.Droid.Resource.Styleable.MenuGroup_android_id = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::PanCardView.Droid.Resource.Styleable.MenuGroup_android_menuCategory = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::PanCardView.Droid.Resource.Styleable.MenuGroup_android_orderInCategory = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::PanCardView.Droid.Resource.Styleable.MenuGroup_android_visible = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_actionLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_actionProviderClass = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_actionViewClass = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_alphabeticModifiers = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_checkable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_checked = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_enabled = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_icon = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_id = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_android_id;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_menuCategory = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_numericShortcut = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_onClick = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_orderInCategory = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_title = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_android_title;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_titleCondensed = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_visible = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_contentDescription = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_iconTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_iconTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_numericModifiers = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_showAsAction = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_tooltipText = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::PanCardView.Droid.Resource.Styleable.MenuView = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuView;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_android_headerBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_android_horizontalDivider = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_android_itemBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_android_itemTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_android_verticalDivider = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_preserveIconSpacing = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_subMenuArrow = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.NavigationView;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_android_background = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.NavigationView_android_background;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_android_maxWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.NavigationView_elevation;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_headerLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_itemBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_itemIconPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_itemIconTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_itemTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_itemTextColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_menu = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.NavigationView_menu;
+			global::PanCardView.Droid.Resource.Styleable.PopupWindow = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.PopupWindow;
+			global::PanCardView.Droid.Resource.Styleable.PopupWindowBackgroundState = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::PanCardView.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::PanCardView.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::PanCardView.Droid.Resource.Styleable.PopupWindow_android_popupBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::PanCardView.Droid.Resource.Styleable.PopupWindow_overlapAnchor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::PanCardView.Droid.Resource.Styleable.RecycleListView = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.RecycleListView;
+			global::PanCardView.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::PanCardView.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.RecyclerView;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_android_orientation = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_layoutManager = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_reverseLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_spanCount = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_stackFromEnd = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::PanCardView.Droid.Resource.Styleable.ScrimInsetsFrameLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::PanCardView.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::PanCardView.Droid.Resource.Styleable.ScrollingViewBehavior_Layout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::PanCardView.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::PanCardView.Droid.Resource.Styleable.SearchView = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_android_focusable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_android_imeOptions = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_android_inputType = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_android_maxWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_closeIcon = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_commitIcon = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_defaultQueryHint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_goIcon = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_goIcon;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_iconifiedByDefault = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_layout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_layout;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_queryBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_queryHint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_queryHint;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_searchHintIcon = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_searchIcon = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_submitBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_suggestionRowLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_voiceIcon = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::PanCardView.Droid.Resource.Styleable.Snackbar = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Snackbar;
+			global::PanCardView.Droid.Resource.Styleable.SnackbarLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SnackbarLayout;
+			global::PanCardView.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::PanCardView.Droid.Resource.Styleable.SnackbarLayout_elevation = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::PanCardView.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::PanCardView.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.Snackbar_snackbarStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Snackbar_snackbarStyle;
+			global::PanCardView.Droid.Resource.Styleable.Spinner = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Spinner;
+			global::PanCardView.Droid.Resource.Styleable.Spinner_android_dropDownWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::PanCardView.Droid.Resource.Styleable.Spinner_android_entries = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Spinner_android_entries;
+			global::PanCardView.Droid.Resource.Styleable.Spinner_android_popupBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::PanCardView.Droid.Resource.Styleable.Spinner_android_prompt = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::PanCardView.Droid.Resource.Styleable.Spinner_popupTheme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.StateListDrawable;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawableItem = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.StateListDrawableItem;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawableItem_android_drawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawable_android_constantSize = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawable_android_dither = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.StateListDrawable_android_dither;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawable_android_variablePadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawable_android_visible = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SwitchCompat;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_android_textOff = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_android_textOn = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_android_thumb = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_showText = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_splitTrack = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_switchMinWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_switchPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_thumbTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_thumbTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_track = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SwitchCompat_track;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_trackTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_trackTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::PanCardView.Droid.Resource.Styleable.TabItem = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabItem;
+			global::PanCardView.Droid.Resource.Styleable.TabItem_android_icon = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabItem_android_icon;
+			global::PanCardView.Droid.Resource.Styleable.TabItem_android_layout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabItem_android_layout;
+			global::PanCardView.Droid.Resource.Styleable.TabItem_android_text = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabItem_android_text;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabBackground = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabContentStart = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabGravity = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabIconTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabIconTint;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabIconTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabIndicator = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabIndicator;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabIndicatorColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabInlineLabel = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabMaxWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabMinWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabPadding = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabPaddingBottom = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabPaddingEnd = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabPaddingStart = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabPaddingTop = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabRippleColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabRippleColor;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabTextColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_fontFamily = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_shadowColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_shadowDx = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_shadowDy = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_shadowRadius = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_textColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_textColorHint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_textColorLink = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_textSize = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_textStyle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_typeface = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_fontFamily = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_textAllCaps = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_android_hint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_android_textColorHint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_counterEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_counterMaxLength = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_errorEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_helperText = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_helperText;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_hintEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::PanCardView.Droid.Resource.Styleable.ThemeEnforcement = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ThemeEnforcement;
+			global::PanCardView.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::PanCardView.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::PanCardView.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_android_gravity = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_android_minHeight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_buttonGravity = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_collapseContentDescription = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_collapseIcon = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_contentInsetEnd = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_contentInsetLeft = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_contentInsetRight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_contentInsetStart = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_logo = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_logo;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_logoDescription = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_maxButtonHeight = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_navigationContentDescription = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_navigationIcon = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_popupTheme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_subtitle = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_subtitleTextColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_title = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_title;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_titleMargin = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_titleMarginBottom = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_titleMarginEnd = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_titleMargins = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_titleMarginStart = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_titleMarginTop = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_titleTextAppearance = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_titleTextColor = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::PanCardView.Droid.Resource.Styleable.View = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.View;
+			global::PanCardView.Droid.Resource.Styleable.ViewBackgroundHelper = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::PanCardView.Droid.Resource.Styleable.ViewBackgroundHelper_android_background = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::PanCardView.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::PanCardView.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::PanCardView.Droid.Resource.Styleable.ViewStubCompat = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ViewStubCompat;
+			global::PanCardView.Droid.Resource.Styleable.ViewStubCompat_android_id = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::PanCardView.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::PanCardView.Droid.Resource.Styleable.ViewStubCompat_android_layout = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::PanCardView.Droid.Resource.Styleable.View_android_focusable = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.View_android_focusable;
+			global::PanCardView.Droid.Resource.Styleable.View_android_theme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.View_android_theme;
+			global::PanCardView.Droid.Resource.Styleable.View_paddingEnd = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.View_paddingEnd;
+			global::PanCardView.Droid.Resource.Styleable.View_paddingStart = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.View_paddingStart;
+			global::PanCardView.Droid.Resource.Styleable.View_theme = global::XF_Prism_MarvelCards.Droid.Resource.Styleable.View_theme;
 			global::Prism.Resource.Animation.abc_fade_in = global::XF_Prism_MarvelCards.Droid.Resource.Animation.abc_fade_in;
 			global::Prism.Resource.Animation.abc_fade_out = global::XF_Prism_MarvelCards.Droid.Resource.Animation.abc_fade_out;
 			global::Prism.Resource.Animation.abc_grow_fade_in_from_bottom = global::XF_Prism_MarvelCards.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
@@ -10398,673 +13299,682 @@ namespace XF_Prism_MarvelCards.Droid
 			public const int avd_show_password = 2131165275;
 			
 			// aapt resource value: 0x7F07005C
-			public const int design_bottom_navigation_item_background = 2131165276;
+			public const int back_arrow = 2131165276;
 			
 			// aapt resource value: 0x7F07005D
-			public const int design_fab_background = 2131165277;
+			public const int design_bottom_navigation_item_background = 2131165277;
 			
 			// aapt resource value: 0x7F07005E
-			public const int design_ic_visibility = 2131165278;
+			public const int design_fab_background = 2131165278;
 			
 			// aapt resource value: 0x7F07005F
-			public const int design_ic_visibility_off = 2131165279;
+			public const int design_ic_visibility = 2131165279;
 			
 			// aapt resource value: 0x7F070060
-			public const int design_password_eye = 2131165280;
+			public const int design_ic_visibility_off = 2131165280;
 			
 			// aapt resource value: 0x7F070061
-			public const int design_snackbar_background = 2131165281;
+			public const int design_password_eye = 2131165281;
 			
 			// aapt resource value: 0x7F070062
-			public const int ic_audiotrack_dark = 2131165282;
+			public const int design_snackbar_background = 2131165282;
 			
 			// aapt resource value: 0x7F070063
-			public const int ic_audiotrack_light = 2131165283;
+			public const int ic_audiotrack_dark = 2131165283;
 			
 			// aapt resource value: 0x7F070064
-			public const int ic_dialog_close_dark = 2131165284;
+			public const int ic_audiotrack_light = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int ic_dialog_close_light = 2131165285;
+			public const int ic_dialog_close_dark = 2131165285;
 			
 			// aapt resource value: 0x7F070066
-			public const int ic_group_collapse_00 = 2131165286;
+			public const int ic_dialog_close_light = 2131165286;
 			
 			// aapt resource value: 0x7F070067
-			public const int ic_group_collapse_01 = 2131165287;
+			public const int ic_group_collapse_00 = 2131165287;
 			
 			// aapt resource value: 0x7F070068
-			public const int ic_group_collapse_02 = 2131165288;
+			public const int ic_group_collapse_01 = 2131165288;
 			
 			// aapt resource value: 0x7F070069
-			public const int ic_group_collapse_03 = 2131165289;
+			public const int ic_group_collapse_02 = 2131165289;
 			
 			// aapt resource value: 0x7F07006A
-			public const int ic_group_collapse_04 = 2131165290;
+			public const int ic_group_collapse_03 = 2131165290;
 			
 			// aapt resource value: 0x7F07006B
-			public const int ic_group_collapse_05 = 2131165291;
+			public const int ic_group_collapse_04 = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int ic_group_collapse_06 = 2131165292;
+			public const int ic_group_collapse_05 = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int ic_group_collapse_07 = 2131165293;
+			public const int ic_group_collapse_06 = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int ic_group_collapse_08 = 2131165294;
+			public const int ic_group_collapse_07 = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int ic_group_collapse_09 = 2131165295;
+			public const int ic_group_collapse_08 = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int ic_group_collapse_10 = 2131165296;
+			public const int ic_group_collapse_09 = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int ic_group_collapse_11 = 2131165297;
+			public const int ic_group_collapse_10 = 2131165297;
 			
 			// aapt resource value: 0x7F070072
-			public const int ic_group_collapse_12 = 2131165298;
+			public const int ic_group_collapse_11 = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int ic_group_collapse_13 = 2131165299;
+			public const int ic_group_collapse_12 = 2131165299;
 			
 			// aapt resource value: 0x7F070074
-			public const int ic_group_collapse_14 = 2131165300;
+			public const int ic_group_collapse_13 = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int ic_group_collapse_15 = 2131165301;
+			public const int ic_group_collapse_14 = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int ic_group_expand_00 = 2131165302;
+			public const int ic_group_collapse_15 = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int ic_group_expand_01 = 2131165303;
+			public const int ic_group_expand_00 = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int ic_group_expand_02 = 2131165304;
+			public const int ic_group_expand_01 = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int ic_group_expand_03 = 2131165305;
+			public const int ic_group_expand_02 = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int ic_group_expand_04 = 2131165306;
+			public const int ic_group_expand_03 = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
-			public const int ic_group_expand_05 = 2131165307;
+			public const int ic_group_expand_04 = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
-			public const int ic_group_expand_06 = 2131165308;
+			public const int ic_group_expand_05 = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
-			public const int ic_group_expand_07 = 2131165309;
+			public const int ic_group_expand_06 = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
-			public const int ic_group_expand_08 = 2131165310;
+			public const int ic_group_expand_07 = 2131165310;
 			
 			// aapt resource value: 0x7F07007F
-			public const int ic_group_expand_09 = 2131165311;
+			public const int ic_group_expand_08 = 2131165311;
 			
 			// aapt resource value: 0x7F070080
-			public const int ic_group_expand_10 = 2131165312;
+			public const int ic_group_expand_09 = 2131165312;
 			
 			// aapt resource value: 0x7F070081
-			public const int ic_group_expand_11 = 2131165313;
+			public const int ic_group_expand_10 = 2131165313;
 			
 			// aapt resource value: 0x7F070082
-			public const int ic_group_expand_12 = 2131165314;
+			public const int ic_group_expand_11 = 2131165314;
 			
 			// aapt resource value: 0x7F070083
-			public const int ic_group_expand_13 = 2131165315;
+			public const int ic_group_expand_12 = 2131165315;
 			
 			// aapt resource value: 0x7F070084
-			public const int ic_group_expand_14 = 2131165316;
+			public const int ic_group_expand_13 = 2131165316;
 			
 			// aapt resource value: 0x7F070085
-			public const int ic_group_expand_15 = 2131165317;
+			public const int ic_group_expand_14 = 2131165317;
 			
 			// aapt resource value: 0x7F070086
-			public const int ic_media_pause_dark = 2131165318;
+			public const int ic_group_expand_15 = 2131165318;
 			
 			// aapt resource value: 0x7F070087
-			public const int ic_media_pause_light = 2131165319;
+			public const int ic_media_pause_dark = 2131165319;
 			
 			// aapt resource value: 0x7F070088
-			public const int ic_media_play_dark = 2131165320;
+			public const int ic_media_pause_light = 2131165320;
 			
 			// aapt resource value: 0x7F070089
-			public const int ic_media_play_light = 2131165321;
+			public const int ic_media_play_dark = 2131165321;
 			
 			// aapt resource value: 0x7F07008A
-			public const int ic_media_stop_dark = 2131165322;
+			public const int ic_media_play_light = 2131165322;
 			
 			// aapt resource value: 0x7F07008B
-			public const int ic_media_stop_light = 2131165323;
+			public const int ic_media_stop_dark = 2131165323;
 			
 			// aapt resource value: 0x7F07008C
-			public const int ic_mr_button_connected_00_dark = 2131165324;
+			public const int ic_media_stop_light = 2131165324;
 			
 			// aapt resource value: 0x7F07008D
-			public const int ic_mr_button_connected_00_light = 2131165325;
+			public const int ic_mr_button_connected_00_dark = 2131165325;
 			
 			// aapt resource value: 0x7F07008E
-			public const int ic_mr_button_connected_01_dark = 2131165326;
+			public const int ic_mr_button_connected_00_light = 2131165326;
 			
 			// aapt resource value: 0x7F07008F
-			public const int ic_mr_button_connected_01_light = 2131165327;
+			public const int ic_mr_button_connected_01_dark = 2131165327;
 			
 			// aapt resource value: 0x7F070090
-			public const int ic_mr_button_connected_02_dark = 2131165328;
+			public const int ic_mr_button_connected_01_light = 2131165328;
 			
 			// aapt resource value: 0x7F070091
-			public const int ic_mr_button_connected_02_light = 2131165329;
+			public const int ic_mr_button_connected_02_dark = 2131165329;
 			
 			// aapt resource value: 0x7F070092
-			public const int ic_mr_button_connected_03_dark = 2131165330;
+			public const int ic_mr_button_connected_02_light = 2131165330;
 			
 			// aapt resource value: 0x7F070093
-			public const int ic_mr_button_connected_03_light = 2131165331;
+			public const int ic_mr_button_connected_03_dark = 2131165331;
 			
 			// aapt resource value: 0x7F070094
-			public const int ic_mr_button_connected_04_dark = 2131165332;
+			public const int ic_mr_button_connected_03_light = 2131165332;
 			
 			// aapt resource value: 0x7F070095
-			public const int ic_mr_button_connected_04_light = 2131165333;
+			public const int ic_mr_button_connected_04_dark = 2131165333;
 			
 			// aapt resource value: 0x7F070096
-			public const int ic_mr_button_connected_05_dark = 2131165334;
+			public const int ic_mr_button_connected_04_light = 2131165334;
 			
 			// aapt resource value: 0x7F070097
-			public const int ic_mr_button_connected_05_light = 2131165335;
+			public const int ic_mr_button_connected_05_dark = 2131165335;
 			
 			// aapt resource value: 0x7F070098
-			public const int ic_mr_button_connected_06_dark = 2131165336;
+			public const int ic_mr_button_connected_05_light = 2131165336;
 			
 			// aapt resource value: 0x7F070099
-			public const int ic_mr_button_connected_06_light = 2131165337;
+			public const int ic_mr_button_connected_06_dark = 2131165337;
 			
 			// aapt resource value: 0x7F07009A
-			public const int ic_mr_button_connected_07_dark = 2131165338;
+			public const int ic_mr_button_connected_06_light = 2131165338;
 			
 			// aapt resource value: 0x7F07009B
-			public const int ic_mr_button_connected_07_light = 2131165339;
+			public const int ic_mr_button_connected_07_dark = 2131165339;
 			
 			// aapt resource value: 0x7F07009C
-			public const int ic_mr_button_connected_08_dark = 2131165340;
+			public const int ic_mr_button_connected_07_light = 2131165340;
 			
 			// aapt resource value: 0x7F07009D
-			public const int ic_mr_button_connected_08_light = 2131165341;
+			public const int ic_mr_button_connected_08_dark = 2131165341;
 			
 			// aapt resource value: 0x7F07009E
-			public const int ic_mr_button_connected_09_dark = 2131165342;
+			public const int ic_mr_button_connected_08_light = 2131165342;
 			
 			// aapt resource value: 0x7F07009F
-			public const int ic_mr_button_connected_09_light = 2131165343;
+			public const int ic_mr_button_connected_09_dark = 2131165343;
 			
 			// aapt resource value: 0x7F0700A0
-			public const int ic_mr_button_connected_10_dark = 2131165344;
+			public const int ic_mr_button_connected_09_light = 2131165344;
 			
 			// aapt resource value: 0x7F0700A1
-			public const int ic_mr_button_connected_10_light = 2131165345;
+			public const int ic_mr_button_connected_10_dark = 2131165345;
 			
 			// aapt resource value: 0x7F0700A2
-			public const int ic_mr_button_connected_11_dark = 2131165346;
+			public const int ic_mr_button_connected_10_light = 2131165346;
 			
 			// aapt resource value: 0x7F0700A3
-			public const int ic_mr_button_connected_11_light = 2131165347;
+			public const int ic_mr_button_connected_11_dark = 2131165347;
 			
 			// aapt resource value: 0x7F0700A4
-			public const int ic_mr_button_connected_12_dark = 2131165348;
+			public const int ic_mr_button_connected_11_light = 2131165348;
 			
 			// aapt resource value: 0x7F0700A5
-			public const int ic_mr_button_connected_12_light = 2131165349;
+			public const int ic_mr_button_connected_12_dark = 2131165349;
 			
 			// aapt resource value: 0x7F0700A6
-			public const int ic_mr_button_connected_13_dark = 2131165350;
+			public const int ic_mr_button_connected_12_light = 2131165350;
 			
 			// aapt resource value: 0x7F0700A7
-			public const int ic_mr_button_connected_13_light = 2131165351;
+			public const int ic_mr_button_connected_13_dark = 2131165351;
 			
 			// aapt resource value: 0x7F0700A8
-			public const int ic_mr_button_connected_14_dark = 2131165352;
+			public const int ic_mr_button_connected_13_light = 2131165352;
 			
 			// aapt resource value: 0x7F0700A9
-			public const int ic_mr_button_connected_14_light = 2131165353;
+			public const int ic_mr_button_connected_14_dark = 2131165353;
 			
 			// aapt resource value: 0x7F0700AA
-			public const int ic_mr_button_connected_15_dark = 2131165354;
+			public const int ic_mr_button_connected_14_light = 2131165354;
 			
 			// aapt resource value: 0x7F0700AB
-			public const int ic_mr_button_connected_15_light = 2131165355;
+			public const int ic_mr_button_connected_15_dark = 2131165355;
 			
 			// aapt resource value: 0x7F0700AC
-			public const int ic_mr_button_connected_16_dark = 2131165356;
+			public const int ic_mr_button_connected_15_light = 2131165356;
 			
 			// aapt resource value: 0x7F0700AD
-			public const int ic_mr_button_connected_16_light = 2131165357;
+			public const int ic_mr_button_connected_16_dark = 2131165357;
 			
 			// aapt resource value: 0x7F0700AE
-			public const int ic_mr_button_connected_17_dark = 2131165358;
+			public const int ic_mr_button_connected_16_light = 2131165358;
 			
 			// aapt resource value: 0x7F0700AF
-			public const int ic_mr_button_connected_17_light = 2131165359;
+			public const int ic_mr_button_connected_17_dark = 2131165359;
 			
 			// aapt resource value: 0x7F0700B0
-			public const int ic_mr_button_connected_18_dark = 2131165360;
+			public const int ic_mr_button_connected_17_light = 2131165360;
 			
 			// aapt resource value: 0x7F0700B1
-			public const int ic_mr_button_connected_18_light = 2131165361;
+			public const int ic_mr_button_connected_18_dark = 2131165361;
 			
 			// aapt resource value: 0x7F0700B2
-			public const int ic_mr_button_connected_19_dark = 2131165362;
+			public const int ic_mr_button_connected_18_light = 2131165362;
 			
 			// aapt resource value: 0x7F0700B3
-			public const int ic_mr_button_connected_19_light = 2131165363;
+			public const int ic_mr_button_connected_19_dark = 2131165363;
 			
 			// aapt resource value: 0x7F0700B4
-			public const int ic_mr_button_connected_20_dark = 2131165364;
+			public const int ic_mr_button_connected_19_light = 2131165364;
 			
 			// aapt resource value: 0x7F0700B5
-			public const int ic_mr_button_connected_20_light = 2131165365;
+			public const int ic_mr_button_connected_20_dark = 2131165365;
 			
 			// aapt resource value: 0x7F0700B6
-			public const int ic_mr_button_connected_21_dark = 2131165366;
+			public const int ic_mr_button_connected_20_light = 2131165366;
 			
 			// aapt resource value: 0x7F0700B7
-			public const int ic_mr_button_connected_21_light = 2131165367;
+			public const int ic_mr_button_connected_21_dark = 2131165367;
 			
 			// aapt resource value: 0x7F0700B8
-			public const int ic_mr_button_connected_22_dark = 2131165368;
+			public const int ic_mr_button_connected_21_light = 2131165368;
 			
 			// aapt resource value: 0x7F0700B9
-			public const int ic_mr_button_connected_22_light = 2131165369;
+			public const int ic_mr_button_connected_22_dark = 2131165369;
 			
 			// aapt resource value: 0x7F0700BA
-			public const int ic_mr_button_connected_23_dark = 2131165370;
+			public const int ic_mr_button_connected_22_light = 2131165370;
 			
 			// aapt resource value: 0x7F0700BB
-			public const int ic_mr_button_connected_23_light = 2131165371;
+			public const int ic_mr_button_connected_23_dark = 2131165371;
 			
 			// aapt resource value: 0x7F0700BC
-			public const int ic_mr_button_connected_24_dark = 2131165372;
+			public const int ic_mr_button_connected_23_light = 2131165372;
 			
 			// aapt resource value: 0x7F0700BD
-			public const int ic_mr_button_connected_24_light = 2131165373;
+			public const int ic_mr_button_connected_24_dark = 2131165373;
 			
 			// aapt resource value: 0x7F0700BE
-			public const int ic_mr_button_connected_25_dark = 2131165374;
+			public const int ic_mr_button_connected_24_light = 2131165374;
 			
 			// aapt resource value: 0x7F0700BF
-			public const int ic_mr_button_connected_25_light = 2131165375;
+			public const int ic_mr_button_connected_25_dark = 2131165375;
 			
 			// aapt resource value: 0x7F0700C0
-			public const int ic_mr_button_connected_26_dark = 2131165376;
+			public const int ic_mr_button_connected_25_light = 2131165376;
 			
 			// aapt resource value: 0x7F0700C1
-			public const int ic_mr_button_connected_26_light = 2131165377;
+			public const int ic_mr_button_connected_26_dark = 2131165377;
 			
 			// aapt resource value: 0x7F0700C2
-			public const int ic_mr_button_connected_27_dark = 2131165378;
+			public const int ic_mr_button_connected_26_light = 2131165378;
 			
 			// aapt resource value: 0x7F0700C3
-			public const int ic_mr_button_connected_27_light = 2131165379;
+			public const int ic_mr_button_connected_27_dark = 2131165379;
 			
 			// aapt resource value: 0x7F0700C4
-			public const int ic_mr_button_connected_28_dark = 2131165380;
+			public const int ic_mr_button_connected_27_light = 2131165380;
 			
 			// aapt resource value: 0x7F0700C5
-			public const int ic_mr_button_connected_28_light = 2131165381;
+			public const int ic_mr_button_connected_28_dark = 2131165381;
 			
 			// aapt resource value: 0x7F0700C6
-			public const int ic_mr_button_connected_29_dark = 2131165382;
+			public const int ic_mr_button_connected_28_light = 2131165382;
 			
 			// aapt resource value: 0x7F0700C7
-			public const int ic_mr_button_connected_29_light = 2131165383;
+			public const int ic_mr_button_connected_29_dark = 2131165383;
 			
 			// aapt resource value: 0x7F0700C8
-			public const int ic_mr_button_connected_30_dark = 2131165384;
+			public const int ic_mr_button_connected_29_light = 2131165384;
 			
 			// aapt resource value: 0x7F0700C9
-			public const int ic_mr_button_connected_30_light = 2131165385;
+			public const int ic_mr_button_connected_30_dark = 2131165385;
 			
 			// aapt resource value: 0x7F0700CA
-			public const int ic_mr_button_connecting_00_dark = 2131165386;
+			public const int ic_mr_button_connected_30_light = 2131165386;
 			
 			// aapt resource value: 0x7F0700CB
-			public const int ic_mr_button_connecting_00_light = 2131165387;
+			public const int ic_mr_button_connecting_00_dark = 2131165387;
 			
 			// aapt resource value: 0x7F0700CC
-			public const int ic_mr_button_connecting_01_dark = 2131165388;
+			public const int ic_mr_button_connecting_00_light = 2131165388;
 			
 			// aapt resource value: 0x7F0700CD
-			public const int ic_mr_button_connecting_01_light = 2131165389;
+			public const int ic_mr_button_connecting_01_dark = 2131165389;
 			
 			// aapt resource value: 0x7F0700CE
-			public const int ic_mr_button_connecting_02_dark = 2131165390;
+			public const int ic_mr_button_connecting_01_light = 2131165390;
 			
 			// aapt resource value: 0x7F0700CF
-			public const int ic_mr_button_connecting_02_light = 2131165391;
+			public const int ic_mr_button_connecting_02_dark = 2131165391;
 			
 			// aapt resource value: 0x7F0700D0
-			public const int ic_mr_button_connecting_03_dark = 2131165392;
+			public const int ic_mr_button_connecting_02_light = 2131165392;
 			
 			// aapt resource value: 0x7F0700D1
-			public const int ic_mr_button_connecting_03_light = 2131165393;
+			public const int ic_mr_button_connecting_03_dark = 2131165393;
 			
 			// aapt resource value: 0x7F0700D2
-			public const int ic_mr_button_connecting_04_dark = 2131165394;
+			public const int ic_mr_button_connecting_03_light = 2131165394;
 			
 			// aapt resource value: 0x7F0700D3
-			public const int ic_mr_button_connecting_04_light = 2131165395;
+			public const int ic_mr_button_connecting_04_dark = 2131165395;
 			
 			// aapt resource value: 0x7F0700D4
-			public const int ic_mr_button_connecting_05_dark = 2131165396;
+			public const int ic_mr_button_connecting_04_light = 2131165396;
 			
 			// aapt resource value: 0x7F0700D5
-			public const int ic_mr_button_connecting_05_light = 2131165397;
+			public const int ic_mr_button_connecting_05_dark = 2131165397;
 			
 			// aapt resource value: 0x7F0700D6
-			public const int ic_mr_button_connecting_06_dark = 2131165398;
+			public const int ic_mr_button_connecting_05_light = 2131165398;
 			
 			// aapt resource value: 0x7F0700D7
-			public const int ic_mr_button_connecting_06_light = 2131165399;
+			public const int ic_mr_button_connecting_06_dark = 2131165399;
 			
 			// aapt resource value: 0x7F0700D8
-			public const int ic_mr_button_connecting_07_dark = 2131165400;
+			public const int ic_mr_button_connecting_06_light = 2131165400;
 			
 			// aapt resource value: 0x7F0700D9
-			public const int ic_mr_button_connecting_07_light = 2131165401;
+			public const int ic_mr_button_connecting_07_dark = 2131165401;
 			
 			// aapt resource value: 0x7F0700DA
-			public const int ic_mr_button_connecting_08_dark = 2131165402;
+			public const int ic_mr_button_connecting_07_light = 2131165402;
 			
 			// aapt resource value: 0x7F0700DB
-			public const int ic_mr_button_connecting_08_light = 2131165403;
+			public const int ic_mr_button_connecting_08_dark = 2131165403;
 			
 			// aapt resource value: 0x7F0700DC
-			public const int ic_mr_button_connecting_09_dark = 2131165404;
+			public const int ic_mr_button_connecting_08_light = 2131165404;
 			
 			// aapt resource value: 0x7F0700DD
-			public const int ic_mr_button_connecting_09_light = 2131165405;
+			public const int ic_mr_button_connecting_09_dark = 2131165405;
 			
 			// aapt resource value: 0x7F0700DE
-			public const int ic_mr_button_connecting_10_dark = 2131165406;
+			public const int ic_mr_button_connecting_09_light = 2131165406;
 			
 			// aapt resource value: 0x7F0700DF
-			public const int ic_mr_button_connecting_10_light = 2131165407;
+			public const int ic_mr_button_connecting_10_dark = 2131165407;
 			
 			// aapt resource value: 0x7F0700E0
-			public const int ic_mr_button_connecting_11_dark = 2131165408;
+			public const int ic_mr_button_connecting_10_light = 2131165408;
 			
 			// aapt resource value: 0x7F0700E1
-			public const int ic_mr_button_connecting_11_light = 2131165409;
+			public const int ic_mr_button_connecting_11_dark = 2131165409;
 			
 			// aapt resource value: 0x7F0700E2
-			public const int ic_mr_button_connecting_12_dark = 2131165410;
+			public const int ic_mr_button_connecting_11_light = 2131165410;
 			
 			// aapt resource value: 0x7F0700E3
-			public const int ic_mr_button_connecting_12_light = 2131165411;
+			public const int ic_mr_button_connecting_12_dark = 2131165411;
 			
 			// aapt resource value: 0x7F0700E4
-			public const int ic_mr_button_connecting_13_dark = 2131165412;
+			public const int ic_mr_button_connecting_12_light = 2131165412;
 			
 			// aapt resource value: 0x7F0700E5
-			public const int ic_mr_button_connecting_13_light = 2131165413;
+			public const int ic_mr_button_connecting_13_dark = 2131165413;
 			
 			// aapt resource value: 0x7F0700E6
-			public const int ic_mr_button_connecting_14_dark = 2131165414;
+			public const int ic_mr_button_connecting_13_light = 2131165414;
 			
 			// aapt resource value: 0x7F0700E7
-			public const int ic_mr_button_connecting_14_light = 2131165415;
+			public const int ic_mr_button_connecting_14_dark = 2131165415;
 			
 			// aapt resource value: 0x7F0700E8
-			public const int ic_mr_button_connecting_15_dark = 2131165416;
+			public const int ic_mr_button_connecting_14_light = 2131165416;
 			
 			// aapt resource value: 0x7F0700E9
-			public const int ic_mr_button_connecting_15_light = 2131165417;
+			public const int ic_mr_button_connecting_15_dark = 2131165417;
 			
 			// aapt resource value: 0x7F0700EA
-			public const int ic_mr_button_connecting_16_dark = 2131165418;
+			public const int ic_mr_button_connecting_15_light = 2131165418;
 			
 			// aapt resource value: 0x7F0700EB
-			public const int ic_mr_button_connecting_16_light = 2131165419;
+			public const int ic_mr_button_connecting_16_dark = 2131165419;
 			
 			// aapt resource value: 0x7F0700EC
-			public const int ic_mr_button_connecting_17_dark = 2131165420;
+			public const int ic_mr_button_connecting_16_light = 2131165420;
 			
 			// aapt resource value: 0x7F0700ED
-			public const int ic_mr_button_connecting_17_light = 2131165421;
+			public const int ic_mr_button_connecting_17_dark = 2131165421;
 			
 			// aapt resource value: 0x7F0700EE
-			public const int ic_mr_button_connecting_18_dark = 2131165422;
+			public const int ic_mr_button_connecting_17_light = 2131165422;
 			
 			// aapt resource value: 0x7F0700EF
-			public const int ic_mr_button_connecting_18_light = 2131165423;
+			public const int ic_mr_button_connecting_18_dark = 2131165423;
 			
 			// aapt resource value: 0x7F0700F0
-			public const int ic_mr_button_connecting_19_dark = 2131165424;
+			public const int ic_mr_button_connecting_18_light = 2131165424;
 			
 			// aapt resource value: 0x7F0700F1
-			public const int ic_mr_button_connecting_19_light = 2131165425;
+			public const int ic_mr_button_connecting_19_dark = 2131165425;
 			
 			// aapt resource value: 0x7F0700F2
-			public const int ic_mr_button_connecting_20_dark = 2131165426;
+			public const int ic_mr_button_connecting_19_light = 2131165426;
 			
 			// aapt resource value: 0x7F0700F3
-			public const int ic_mr_button_connecting_20_light = 2131165427;
+			public const int ic_mr_button_connecting_20_dark = 2131165427;
 			
 			// aapt resource value: 0x7F0700F4
-			public const int ic_mr_button_connecting_21_dark = 2131165428;
+			public const int ic_mr_button_connecting_20_light = 2131165428;
 			
 			// aapt resource value: 0x7F0700F5
-			public const int ic_mr_button_connecting_21_light = 2131165429;
+			public const int ic_mr_button_connecting_21_dark = 2131165429;
 			
 			// aapt resource value: 0x7F0700F6
-			public const int ic_mr_button_connecting_22_dark = 2131165430;
+			public const int ic_mr_button_connecting_21_light = 2131165430;
 			
 			// aapt resource value: 0x7F0700F7
-			public const int ic_mr_button_connecting_22_light = 2131165431;
+			public const int ic_mr_button_connecting_22_dark = 2131165431;
 			
 			// aapt resource value: 0x7F0700F8
-			public const int ic_mr_button_connecting_23_dark = 2131165432;
+			public const int ic_mr_button_connecting_22_light = 2131165432;
 			
 			// aapt resource value: 0x7F0700F9
-			public const int ic_mr_button_connecting_23_light = 2131165433;
+			public const int ic_mr_button_connecting_23_dark = 2131165433;
 			
 			// aapt resource value: 0x7F0700FA
-			public const int ic_mr_button_connecting_24_dark = 2131165434;
+			public const int ic_mr_button_connecting_23_light = 2131165434;
 			
 			// aapt resource value: 0x7F0700FB
-			public const int ic_mr_button_connecting_24_light = 2131165435;
+			public const int ic_mr_button_connecting_24_dark = 2131165435;
 			
 			// aapt resource value: 0x7F0700FC
-			public const int ic_mr_button_connecting_25_dark = 2131165436;
+			public const int ic_mr_button_connecting_24_light = 2131165436;
 			
 			// aapt resource value: 0x7F0700FD
-			public const int ic_mr_button_connecting_25_light = 2131165437;
+			public const int ic_mr_button_connecting_25_dark = 2131165437;
 			
 			// aapt resource value: 0x7F0700FE
-			public const int ic_mr_button_connecting_26_dark = 2131165438;
+			public const int ic_mr_button_connecting_25_light = 2131165438;
 			
 			// aapt resource value: 0x7F0700FF
-			public const int ic_mr_button_connecting_26_light = 2131165439;
+			public const int ic_mr_button_connecting_26_dark = 2131165439;
 			
 			// aapt resource value: 0x7F070100
-			public const int ic_mr_button_connecting_27_dark = 2131165440;
+			public const int ic_mr_button_connecting_26_light = 2131165440;
 			
 			// aapt resource value: 0x7F070101
-			public const int ic_mr_button_connecting_27_light = 2131165441;
+			public const int ic_mr_button_connecting_27_dark = 2131165441;
 			
 			// aapt resource value: 0x7F070102
-			public const int ic_mr_button_connecting_28_dark = 2131165442;
+			public const int ic_mr_button_connecting_27_light = 2131165442;
 			
 			// aapt resource value: 0x7F070103
-			public const int ic_mr_button_connecting_28_light = 2131165443;
+			public const int ic_mr_button_connecting_28_dark = 2131165443;
 			
 			// aapt resource value: 0x7F070104
-			public const int ic_mr_button_connecting_29_dark = 2131165444;
+			public const int ic_mr_button_connecting_28_light = 2131165444;
 			
 			// aapt resource value: 0x7F070105
-			public const int ic_mr_button_connecting_29_light = 2131165445;
+			public const int ic_mr_button_connecting_29_dark = 2131165445;
 			
 			// aapt resource value: 0x7F070106
-			public const int ic_mr_button_connecting_30_dark = 2131165446;
+			public const int ic_mr_button_connecting_29_light = 2131165446;
 			
 			// aapt resource value: 0x7F070107
-			public const int ic_mr_button_connecting_30_light = 2131165447;
+			public const int ic_mr_button_connecting_30_dark = 2131165447;
 			
 			// aapt resource value: 0x7F070108
-			public const int ic_mr_button_disabled_dark = 2131165448;
+			public const int ic_mr_button_connecting_30_light = 2131165448;
 			
 			// aapt resource value: 0x7F070109
-			public const int ic_mr_button_disabled_light = 2131165449;
+			public const int ic_mr_button_disabled_dark = 2131165449;
 			
 			// aapt resource value: 0x7F07010A
-			public const int ic_mr_button_disconnected_dark = 2131165450;
+			public const int ic_mr_button_disabled_light = 2131165450;
 			
 			// aapt resource value: 0x7F07010B
-			public const int ic_mr_button_disconnected_light = 2131165451;
+			public const int ic_mr_button_disconnected_dark = 2131165451;
 			
 			// aapt resource value: 0x7F07010C
-			public const int ic_mr_button_grey = 2131165452;
+			public const int ic_mr_button_disconnected_light = 2131165452;
 			
 			// aapt resource value: 0x7F07010D
-			public const int ic_mtrl_chip_checked_black = 2131165453;
+			public const int ic_mr_button_grey = 2131165453;
 			
 			// aapt resource value: 0x7F07010E
-			public const int ic_mtrl_chip_checked_circle = 2131165454;
+			public const int ic_mtrl_chip_checked_black = 2131165454;
 			
 			// aapt resource value: 0x7F07010F
-			public const int ic_mtrl_chip_close_circle = 2131165455;
+			public const int ic_mtrl_chip_checked_circle = 2131165455;
 			
 			// aapt resource value: 0x7F070110
-			public const int ic_vol_type_speaker_dark = 2131165456;
+			public const int ic_mtrl_chip_close_circle = 2131165456;
 			
 			// aapt resource value: 0x7F070111
-			public const int ic_vol_type_speaker_group_dark = 2131165457;
+			public const int ic_vol_type_speaker_dark = 2131165457;
 			
 			// aapt resource value: 0x7F070112
-			public const int ic_vol_type_speaker_group_light = 2131165458;
+			public const int ic_vol_type_speaker_group_dark = 2131165458;
 			
 			// aapt resource value: 0x7F070113
-			public const int ic_vol_type_speaker_light = 2131165459;
+			public const int ic_vol_type_speaker_group_light = 2131165459;
 			
 			// aapt resource value: 0x7F070114
-			public const int ic_vol_type_tv_dark = 2131165460;
+			public const int ic_vol_type_speaker_light = 2131165460;
 			
 			// aapt resource value: 0x7F070115
-			public const int ic_vol_type_tv_light = 2131165461;
+			public const int ic_vol_type_tv_dark = 2131165461;
 			
 			// aapt resource value: 0x7F070116
-			public const int mr_button_connected_dark = 2131165462;
+			public const int ic_vol_type_tv_light = 2131165462;
 			
 			// aapt resource value: 0x7F070117
-			public const int mr_button_connected_light = 2131165463;
+			public const int ironman = 2131165463;
 			
 			// aapt resource value: 0x7F070118
-			public const int mr_button_connecting_dark = 2131165464;
+			public const int mr_button_connected_dark = 2131165464;
 			
 			// aapt resource value: 0x7F070119
-			public const int mr_button_connecting_light = 2131165465;
+			public const int mr_button_connected_light = 2131165465;
 			
 			// aapt resource value: 0x7F07011A
-			public const int mr_button_dark = 2131165466;
+			public const int mr_button_connecting_dark = 2131165466;
 			
 			// aapt resource value: 0x7F07011B
-			public const int mr_button_light = 2131165467;
+			public const int mr_button_connecting_light = 2131165467;
 			
 			// aapt resource value: 0x7F07011C
-			public const int mr_dialog_close_dark = 2131165468;
+			public const int mr_button_dark = 2131165468;
 			
 			// aapt resource value: 0x7F07011D
-			public const int mr_dialog_close_light = 2131165469;
+			public const int mr_button_light = 2131165469;
 			
 			// aapt resource value: 0x7F07011E
-			public const int mr_dialog_material_background_dark = 2131165470;
+			public const int mr_dialog_close_dark = 2131165470;
 			
 			// aapt resource value: 0x7F07011F
-			public const int mr_dialog_material_background_light = 2131165471;
+			public const int mr_dialog_close_light = 2131165471;
 			
 			// aapt resource value: 0x7F070120
-			public const int mr_group_collapse = 2131165472;
+			public const int mr_dialog_material_background_dark = 2131165472;
 			
 			// aapt resource value: 0x7F070121
-			public const int mr_group_expand = 2131165473;
+			public const int mr_dialog_material_background_light = 2131165473;
 			
 			// aapt resource value: 0x7F070122
-			public const int mr_media_pause_dark = 2131165474;
+			public const int mr_group_collapse = 2131165474;
 			
 			// aapt resource value: 0x7F070123
-			public const int mr_media_pause_light = 2131165475;
+			public const int mr_group_expand = 2131165475;
 			
 			// aapt resource value: 0x7F070124
-			public const int mr_media_play_dark = 2131165476;
+			public const int mr_media_pause_dark = 2131165476;
 			
 			// aapt resource value: 0x7F070125
-			public const int mr_media_play_light = 2131165477;
+			public const int mr_media_pause_light = 2131165477;
 			
 			// aapt resource value: 0x7F070126
-			public const int mr_media_stop_dark = 2131165478;
+			public const int mr_media_play_dark = 2131165478;
 			
 			// aapt resource value: 0x7F070127
-			public const int mr_media_stop_light = 2131165479;
+			public const int mr_media_play_light = 2131165479;
 			
 			// aapt resource value: 0x7F070128
-			public const int mr_vol_type_audiotrack_dark = 2131165480;
+			public const int mr_media_stop_dark = 2131165480;
 			
 			// aapt resource value: 0x7F070129
-			public const int mr_vol_type_audiotrack_light = 2131165481;
+			public const int mr_media_stop_light = 2131165481;
 			
 			// aapt resource value: 0x7F07012A
-			public const int mtrl_snackbar_background = 2131165482;
+			public const int mr_vol_type_audiotrack_dark = 2131165482;
 			
 			// aapt resource value: 0x7F07012B
-			public const int mtrl_tabs_default_indicator = 2131165483;
+			public const int mr_vol_type_audiotrack_light = 2131165483;
 			
 			// aapt resource value: 0x7F07012C
-			public const int navigation_empty_icon = 2131165484;
+			public const int mtrl_snackbar_background = 2131165484;
 			
 			// aapt resource value: 0x7F07012D
-			public const int notification_action_background = 2131165485;
+			public const int mtrl_tabs_default_indicator = 2131165485;
 			
 			// aapt resource value: 0x7F07012E
-			public const int notification_bg = 2131165486;
+			public const int navigation_empty_icon = 2131165486;
 			
 			// aapt resource value: 0x7F07012F
-			public const int notification_bg_low = 2131165487;
+			public const int notification_action_background = 2131165487;
 			
 			// aapt resource value: 0x7F070130
-			public const int notification_bg_low_normal = 2131165488;
+			public const int notification_bg = 2131165488;
 			
 			// aapt resource value: 0x7F070131
-			public const int notification_bg_low_pressed = 2131165489;
+			public const int notification_bg_low = 2131165489;
 			
 			// aapt resource value: 0x7F070132
-			public const int notification_bg_normal = 2131165490;
+			public const int notification_bg_low_normal = 2131165490;
 			
 			// aapt resource value: 0x7F070133
-			public const int notification_bg_normal_pressed = 2131165491;
+			public const int notification_bg_low_pressed = 2131165491;
 			
 			// aapt resource value: 0x7F070134
-			public const int notification_icon_background = 2131165492;
+			public const int notification_bg_normal = 2131165492;
 			
 			// aapt resource value: 0x7F070135
-			public const int notification_template_icon_bg = 2131165493;
+			public const int notification_bg_normal_pressed = 2131165493;
 			
 			// aapt resource value: 0x7F070136
-			public const int notification_template_icon_low_bg = 2131165494;
+			public const int notification_icon_background = 2131165494;
 			
 			// aapt resource value: 0x7F070137
-			public const int notification_tile_bg = 2131165495;
+			public const int notification_template_icon_bg = 2131165495;
 			
 			// aapt resource value: 0x7F070138
-			public const int notify_panel_notification_icon_bg = 2131165496;
+			public const int notification_template_icon_low_bg = 2131165496;
 			
 			// aapt resource value: 0x7F070139
-			public const int tooltip_frame_dark = 2131165497;
+			public const int notification_tile_bg = 2131165497;
 			
 			// aapt resource value: 0x7F07013A
-			public const int tooltip_frame_light = 2131165498;
+			public const int notify_panel_notification_icon_bg = 2131165498;
+			
+			// aapt resource value: 0x7F07013B
+			public const int spiderman = 2131165499;
+			
+			// aapt resource value: 0x7F07013C
+			public const int tooltip_frame_dark = 2131165500;
+			
+			// aapt resource value: 0x7F07013D
+			public const int tooltip_frame_light = 2131165501;
 			
 			static Drawable()
 			{
@@ -12378,100 +15288,103 @@ namespace XF_Prism_MarvelCards.Droid
 			public const int hide_bottom_view_on_scroll_behavior = 2131558445;
 			
 			// aapt resource value: 0x7F0D002E
-			public const int mr_button_content_description = 2131558446;
+			public const int library_name = 2131558446;
 			
 			// aapt resource value: 0x7F0D002F
-			public const int mr_cast_button_connected = 2131558447;
+			public const int mr_button_content_description = 2131558447;
 			
 			// aapt resource value: 0x7F0D0030
-			public const int mr_cast_button_connecting = 2131558448;
+			public const int mr_cast_button_connected = 2131558448;
 			
 			// aapt resource value: 0x7F0D0031
-			public const int mr_cast_button_disconnected = 2131558449;
+			public const int mr_cast_button_connecting = 2131558449;
 			
 			// aapt resource value: 0x7F0D0032
-			public const int mr_cast_dialog_title_view_placeholder = 2131558450;
+			public const int mr_cast_button_disconnected = 2131558450;
 			
 			// aapt resource value: 0x7F0D0033
-			public const int mr_chooser_searching = 2131558451;
+			public const int mr_cast_dialog_title_view_placeholder = 2131558451;
 			
 			// aapt resource value: 0x7F0D0034
-			public const int mr_chooser_title = 2131558452;
+			public const int mr_chooser_searching = 2131558452;
 			
 			// aapt resource value: 0x7F0D0035
-			public const int mr_controller_album_art = 2131558453;
+			public const int mr_chooser_title = 2131558453;
 			
 			// aapt resource value: 0x7F0D0036
-			public const int mr_controller_casting_screen = 2131558454;
+			public const int mr_controller_album_art = 2131558454;
 			
 			// aapt resource value: 0x7F0D0037
-			public const int mr_controller_close_description = 2131558455;
+			public const int mr_controller_casting_screen = 2131558455;
 			
 			// aapt resource value: 0x7F0D0038
-			public const int mr_controller_collapse_group = 2131558456;
+			public const int mr_controller_close_description = 2131558456;
 			
 			// aapt resource value: 0x7F0D0039
-			public const int mr_controller_disconnect = 2131558457;
+			public const int mr_controller_collapse_group = 2131558457;
 			
 			// aapt resource value: 0x7F0D003A
-			public const int mr_controller_expand_group = 2131558458;
+			public const int mr_controller_disconnect = 2131558458;
 			
 			// aapt resource value: 0x7F0D003B
-			public const int mr_controller_no_info_available = 2131558459;
+			public const int mr_controller_expand_group = 2131558459;
 			
 			// aapt resource value: 0x7F0D003C
-			public const int mr_controller_no_media_selected = 2131558460;
+			public const int mr_controller_no_info_available = 2131558460;
 			
 			// aapt resource value: 0x7F0D003D
-			public const int mr_controller_pause = 2131558461;
+			public const int mr_controller_no_media_selected = 2131558461;
 			
 			// aapt resource value: 0x7F0D003E
-			public const int mr_controller_play = 2131558462;
+			public const int mr_controller_pause = 2131558462;
 			
 			// aapt resource value: 0x7F0D003F
-			public const int mr_controller_stop = 2131558463;
+			public const int mr_controller_play = 2131558463;
 			
 			// aapt resource value: 0x7F0D0040
-			public const int mr_controller_stop_casting = 2131558464;
+			public const int mr_controller_stop = 2131558464;
 			
 			// aapt resource value: 0x7F0D0041
-			public const int mr_controller_volume_slider = 2131558465;
+			public const int mr_controller_stop_casting = 2131558465;
 			
 			// aapt resource value: 0x7F0D0042
-			public const int mr_dialog_device_header = 2131558466;
+			public const int mr_controller_volume_slider = 2131558466;
 			
 			// aapt resource value: 0x7F0D0043
-			public const int mr_dialog_route_header = 2131558467;
+			public const int mr_dialog_device_header = 2131558467;
 			
 			// aapt resource value: 0x7F0D0044
-			public const int mr_system_route_name = 2131558468;
+			public const int mr_dialog_route_header = 2131558468;
 			
 			// aapt resource value: 0x7F0D0045
-			public const int mr_user_route_category_name = 2131558469;
+			public const int mr_system_route_name = 2131558469;
 			
 			// aapt resource value: 0x7F0D0046
-			public const int mtrl_chip_close_icon_content_description = 2131558470;
+			public const int mr_user_route_category_name = 2131558470;
 			
 			// aapt resource value: 0x7F0D0047
-			public const int password_toggle_content_description = 2131558471;
+			public const int mtrl_chip_close_icon_content_description = 2131558471;
 			
 			// aapt resource value: 0x7F0D0048
-			public const int path_password_eye = 2131558472;
+			public const int password_toggle_content_description = 2131558472;
 			
 			// aapt resource value: 0x7F0D0049
-			public const int path_password_eye_mask_strike_through = 2131558473;
+			public const int path_password_eye = 2131558473;
 			
 			// aapt resource value: 0x7F0D004A
-			public const int path_password_eye_mask_visible = 2131558474;
+			public const int path_password_eye_mask_strike_through = 2131558474;
 			
 			// aapt resource value: 0x7F0D004B
-			public const int path_password_strike_through = 2131558475;
+			public const int path_password_eye_mask_visible = 2131558475;
 			
 			// aapt resource value: 0x7F0D004C
-			public const int search_menu_title = 2131558476;
+			public const int path_password_strike_through = 2131558476;
 			
 			// aapt resource value: 0x7F0D004D
-			public const int status_bar_notification_info_overflow = 2131558477;
+			public const int search_menu_title = 2131558477;
+			
+			// aapt resource value: 0x7F0D004E
+			public const int status_bar_notification_info_overflow = 2131558478;
 			
 			static String()
 			{

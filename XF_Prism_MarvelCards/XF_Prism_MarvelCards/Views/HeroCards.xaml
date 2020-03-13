@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="XF_Prism_MarvelCards.Views.HeroCards"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:cards="clr-namespace:PanCardView;assembly=PanCardView"
+    xmlns:prism="http://prismlibrary.com"
+    Title="{Binding Title}"
+    prism:ViewModelLocator.AutowireViewModel="True">
+    <Grid>
+        <cards:CardsView ItemsSource="{Binding Heros}">
+            <cards:CardsView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <BoxView
+                            BackgroundColor="{Binding HeroColor}"
+                            CornerRadius="30,30,0,0"
+                            HeightRequest="400"
+                            HorizontalOptions="Fill"
+                            VerticalOptions="End" />
+                        <Image Source="{Binding Image}" VerticalOptions="Start" />
+                        <Label Text="{Binding HeroNameLine1}" />
+                        <Label Text="{Binding HeroNameLine2}" />
+                    </Grid>
+
+                </DataTemplate>
+            </cards:CardsView.ItemTemplate>
+        </cards:CardsView>
+    </Grid>
+</ContentPage>
