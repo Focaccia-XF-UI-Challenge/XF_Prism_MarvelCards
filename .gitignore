@@ -3,3 +3,9 @@
 ################################################################################
 
 /XF_Prism_MarvelCards/XF_Prism_MarvelCards/XF_Prism_MarvelCards/bin/Debug/netstandard2.0
+/XF_Prism_MarvelCards/XF_Prism_MarvelCards/XF_Prism_MarvelCards/obj
+/XF_Prism_MarvelCards/XF_Prism_MarvelCards/XF_Prism_MarvelCards.Android/bin/Debug
+/XF_Prism_MarvelCards/XF_Prism_MarvelCards/XF_Prism_MarvelCards.Android/obj
+/XF_Prism_MarvelCards/XF_Prism_MarvelCards/XF_Prism_MarvelCards.UWP/obj
+/.vs
+/XF_Prism_MarvelCards/.vs/XF_Prism_MarvelCards
