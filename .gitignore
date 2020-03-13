@@ -1,0 +1,5 @@
+﻿################################################################################
+# 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
+################################################################################
+
+/XF_Prism_MarvelCards/XF_Prism_MarvelCards/XF_Prism_MarvelCards/bin/Debug/netstandard2.0
