@@ -4,25 +4,54 @@
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:cards="clr-namespace:PanCardView;assembly=PanCardView"
-    xmlns:prism="http://prismlibrary.com"
-    Title="{Binding Title}"
-    prism:ViewModelLocator.AutowireViewModel="True">
+    xmlns:views="clr-namespace:XF_Prism_MarvelCards.Views"
+    Title="{Binding Title}">
     <Grid>
-        <cards:CardsView ItemsSource="{Binding Heros}">
+        <cards:CardsView
+            x:Name="MainCarView"
+            IsCyclical="True"
+            ItemsSource="{Binding Heros}">
             <cards:CardsView.ItemTemplate>
                 <DataTemplate>
                     <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="200" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
                         <BoxView
+                            Grid.Row="1"
                             BackgroundColor="{Binding HeroColor}"
                             CornerRadius="30,30,0,0"
-                            HeightRequest="400"
                             HorizontalOptions="Fill"
-                            VerticalOptions="End" />
-                        <Image Source="{Binding Image}" VerticalOptions="Start" />
-                        <Label Text="{Binding HeroNameLine1}" />
-                        <Label Text="{Binding HeroNameLine2}" />
+                            VerticalOptions="Fill" />
+                        <Image
+                            Grid.Row="1"
+                            HeightRequest="300"
+                            Source="{Binding Image}"
+                            TranslationY="-150"
+                            VerticalOptions="Start"
+                            WidthRequest="300" />
+                        <StackLayout Grid.Row="1" Margin="40,120,40,40">
+                            <Label
+                                HorizontalOptions="Start"
+                                LineHeight=".85"
+                                Style="{StaticResource Header}"
+                                Text="{Binding HeroName}"
+                                VerticalOptions="Start" />
+                            <Label
+                                HorizontalOptions="Start"
+                                Style="{StaticResource SubHeader}"
+                                Text="{Binding RealName}"
+                                VerticalOptions="Start" />
+                            <Label
+                                Margin="0,20,0,0"
+                                HorizontalOptions="Start"
+                                Style="{StaticResource LearnMore}"
+                                Text="know more ⟶ "
+                                VerticalOptions="Start" />
+                        </StackLayout>
                     </Grid>
-
+                    <!--<views:HeroCard />-->
                 </DataTemplate>
             </cards:CardsView.ItemTemplate>
         </cards:CardsView>

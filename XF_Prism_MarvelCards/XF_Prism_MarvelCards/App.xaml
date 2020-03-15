@@ -46,7 +46,7 @@
             <Setter Property="TextColor" Value="#716F6F" />
         </Style>
 
-
+        <!--  通常會去除GridView&StackLayout的預設值  -->
         <Style TargetType="Grid">
             <Setter Property="RowSpacing" Value="0" />
             <Setter Property="ColumnSpacing" Value="0" />

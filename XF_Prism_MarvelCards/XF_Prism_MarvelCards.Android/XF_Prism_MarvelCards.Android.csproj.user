@@ -4,5 +4,6 @@
     <SelectedDevice>pixel_2_nougat_7_1_api_25</SelectedDevice>
     <DefaultDevice>pixel_2_nougat_7_1_api_25</DefaultDevice>
     <ProjectView>ShowAllFiles</ProjectView>
+    <AndroidDesignerPreferredTheme>Theme.AppCompat.Light.NoActionBar</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>

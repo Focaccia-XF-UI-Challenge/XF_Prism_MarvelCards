@@ -20,16 +20,14 @@ namespace XF_Prism_MarvelCards.ViewModels
              {
                 new Hero()
                 {
-                   HeroNameLine1="spider",
-                   HeroNameLine2="man",
+                   HeroName="spider man",
                    RealName="peter parker",
                    HeroColor="#C51925",
                    Image="spiderman.png"
                 },
                 new Hero()
                 {
-                   HeroNameLine1="iron",
-                   HeroNameLine2="man",
+                   HeroName="iron man",
                    RealName="tony stark",
                    HeroColor="#DF8E04",
                    Image="ironman.png"
@@ -41,6 +39,7 @@ namespace XF_Prism_MarvelCards.ViewModels
 
     public class Hero
     {
+        public string HeroName { get; set; }
         public string HeroNameLine1 { get; set; }
         public string HeroNameLine2 { get; set; }
         public string RealName { get; set; }

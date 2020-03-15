@@ -61,6 +61,9 @@
     <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\xamarin.forms\4.5.0.356\lib\uap10.0.16299\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\xamarin.forms.debugrainbows\1.1.4\lib\netstandard2.0\Xamarin.Forms.DebugRainbows.dll">
+      <PackagePath>Xamarin.Forms.DebugRainbows.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\simon\XF_Challenge\XF_Prism_MarvelCards\XF_Prism_MarvelCards\XF_Prism_MarvelCards\bin\Debug\netstandard2.0\XF_Prism_MarvelCards.dll">
       <PackagePath>XF_Prism_MarvelCards.dll</PackagePath>
     </AppxPackagedFile>
@@ -70,8 +73,11 @@
     <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\xamarin.forms\4.5.0.356\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\simon\XF_Challenge\XF_Prism_MarvelCards\XF_Prism_MarvelCards\XF_Prism_MarvelCards.UWP\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    <AppxPackagedFile Include="D:\simon\XF_Challenge\XF_Prism_MarvelCards\XF_Prism_MarvelCards\XF_Prism_MarvelCards.UWP\back_arrow.png">
+      <PackagePath>back_arrow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\simon\XF_Challenge\XF_Prism_MarvelCards\XF_Prism_MarvelCards\XF_Prism_MarvelCards.UWP\ironman.png">
+      <PackagePath>ironman.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\simon\XF_Challenge\XF_Prism_MarvelCards\XF_Prism_MarvelCards\XF_Prism_MarvelCards.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -99,6 +105,12 @@
     <AppxPackagedFile Include="D:\simon\XF_Challenge\XF_Prism_MarvelCards\XF_Prism_MarvelCards\XF_Prism_MarvelCards.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\simon\XF_Challenge\XF_Prism_MarvelCards\XF_Prism_MarvelCards\XF_Prism_MarvelCards.UWP\spiderman.png">
+      <PackagePath>spiderman.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\simon\XF_Challenge\XF_Prism_MarvelCards\XF_Prism_MarvelCards\XF_Prism_MarvelCards.UWP\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\simon\XF_Challenge\XF_Prism_MarvelCards\XF_Prism_MarvelCards\XF_Prism_MarvelCards.UWP\bin\x86\Debug\XF_Prism_MarvelCards.UWP.xr.xml">
       <PackagePath>XF_Prism_MarvelCards.UWP.xr.xml</PackagePath>
