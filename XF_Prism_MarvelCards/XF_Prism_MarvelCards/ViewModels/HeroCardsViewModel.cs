@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
+using XF_Prism_MarvelCards.Model;
 
 namespace XF_Prism_MarvelCards.ViewModels
 {
@@ -35,15 +36,5 @@ namespace XF_Prism_MarvelCards.ViewModels
              };
 
         }
-    }
-
-    public class Hero
-    {
-        public string HeroName { get; set; }
-        public string HeroNameLine1 { get; set; }
-        public string HeroNameLine2 { get; set; }
-        public string RealName { get; set; }
-        public string Image { get; set; }
-        public string HeroColor { get; set; }
     }
 }

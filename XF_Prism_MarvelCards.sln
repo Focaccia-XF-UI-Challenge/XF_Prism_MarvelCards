@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XF_Prism_MarvelCards", "XF_Prism_MarvelCards\XF_Prism_MarvelCards\XF_Prism_MarvelCards.csproj", "{9535545A-407B-4193-9D8B-4094059EE955}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XF_Prism_MarvelCards", "XF_Prism_MarvelCards\XF_Prism_MarvelCards\XF_Prism_MarvelCards.csproj", "{9535545A-407B-4193-9D8B-4094059EE955}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XF_Prism_MarvelCards.Android", "XF_Prism_MarvelCards\XF_Prism_MarvelCards.Android\XF_Prism_MarvelCards.Android.csproj", "{275B61A0-679A-4BA6-94FF-19555C414153}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XF_Prism_MarvelCards.UWP", "XF_Prism_MarvelCards\XF_Prism_MarvelCards.UWP\XF_Prism_MarvelCards.UWP.csproj", "{66C6C562-5531-439F-AEDE-922579334E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarvelCardsWebAPI", "MarvelCardsWebAPI\MarvelCardsWebAPI.csproj", "{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{34D94946-5312-415B-9D41-F4261978B3EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,38 @@ Global
 		{66C6C562-5531-439F-AEDE-922579334E53}.Release|x86.ActiveCfg = Release|x86
 		{66C6C562-5531-439F-AEDE-922579334E53}.Release|x86.Build.0 = Release|x86
 		{66C6C562-5531-439F-AEDE-922579334E53}.Release|x86.Deploy.0 = Release|x86
+		{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}.Debug|ARM.Build.0 = Debug|Any CPU
+		{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}.Debug|x64.Build.0 = Debug|Any CPU
+		{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}.Debug|x86.Build.0 = Debug|Any CPU
+		{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}.Release|ARM.ActiveCfg = Release|Any CPU
+		{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}.Release|ARM.Build.0 = Release|Any CPU
+		{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}.Release|x64.ActiveCfg = Release|Any CPU
+		{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}.Release|x64.Build.0 = Release|Any CPU
+		{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}.Release|x86.ActiveCfg = Release|Any CPU
+		{C3FDD00A-7D79-4515-A7B0-C3163417F6DA}.Release|x86.Build.0 = Release|Any CPU
+		{34D94946-5312-415B-9D41-F4261978B3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D94946-5312-415B-9D41-F4261978B3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D94946-5312-415B-9D41-F4261978B3EB}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{34D94946-5312-415B-9D41-F4261978B3EB}.Debug|ARM.Build.0 = Debug|Any CPU
+		{34D94946-5312-415B-9D41-F4261978B3EB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{34D94946-5312-415B-9D41-F4261978B3EB}.Debug|x64.Build.0 = Debug|Any CPU
+		{34D94946-5312-415B-9D41-F4261978B3EB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{34D94946-5312-415B-9D41-F4261978B3EB}.Debug|x86.Build.0 = Debug|Any CPU
+		{34D94946-5312-415B-9D41-F4261978B3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D94946-5312-415B-9D41-F4261978B3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34D94946-5312-415B-9D41-F4261978B3EB}.Release|ARM.ActiveCfg = Release|Any CPU
+		{34D94946-5312-415B-9D41-F4261978B3EB}.Release|ARM.Build.0 = Release|Any CPU
+		{34D94946-5312-415B-9D41-F4261978B3EB}.Release|x64.ActiveCfg = Release|Any CPU
+		{34D94946-5312-415B-9D41-F4261978B3EB}.Release|x64.Build.0 = Release|Any CPU
+		{34D94946-5312-415B-9D41-F4261978B3EB}.Release|x86.ActiveCfg = Release|Any CPU
+		{34D94946-5312-415B-9D41-F4261978B3EB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

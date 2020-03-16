@@ -5,7 +5,6 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:prism="clr-namespace:Prism.DryIoc;assembly=Prism.DryIoc.Forms">
     <Application.Resources>
-
         <!--  Application resource dictionary  -->
         <OnPlatform x:Key="HeaderFont" x:TypeArguments="x:String">
             <On Platform="Android" Value="MontserratAlternates-Bold.ttf#MontserratAlternates-Bold" />
@@ -24,6 +23,9 @@
             <Setter Property="FontSize" Value="60" />
             <Setter Property="TextColor" Value="White" />
         </Style>
+        <Style x:Key="GradientBox" TargetType="BoxView">
+            <Setter Property="BackgroundColor" Value="#D9D9D9" />
+        </Style>
         <Style x:Key="SubHeader" TargetType="Label">
             <Setter Property="FontFamily" Value="{StaticResource HeaderFont}" />
             <Setter Property="FontSize" Value="24" />
@@ -39,7 +41,6 @@
             <Setter Property="FontSize" Value="26" />
             <Setter Property="TextColor" Value="Black" />
         </Style>
-
         <Style x:Key="BioText" TargetType="Label">
             <Setter Property="FontFamily" Value="{StaticResource BodyFont}" />
             <Setter Property="FontSize" Value="14" />

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentView
+    x:Class="XF_Prism_MarvelCards.Views.HeroCard"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:prism="http://prismlibrary.com"
+    prism:ViewModelLocator.AutowireViewModel="True">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="160" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <BoxView
+            x:Name="GradientBox_1"
+            Grid.Row="1"
+            Margin="80,0,80,0"
+            CornerRadius="30,30,0,0"
+            HorizontalOptions="Fill"
+            Style="{StaticResource GradientBox}"
+            VerticalOptions="Fill" />
+        <BoxView
+            x:Name="GradientBox_2"
+            Grid.Row="2"
+            Margin="40,0,40,0"
+            CornerRadius="30,30,0,0"
+            HorizontalOptions="Fill"
+            Style="{StaticResource GradientBox}"
+            VerticalOptions="Fill" />
+        <BoxView
+            Grid.Row="3"
+            BackgroundColor="{Binding HeroColor}"
+            CornerRadius="30,30,0,0"
+            HorizontalOptions="Fill"
+            VerticalOptions="Fill" />
+        <Image
+            x:Name="HeroImage"
+            Grid.Row="3"
+            HeightRequest="400"
+            Source="{Binding Image}"
+            TranslationY="-150"
+            VerticalOptions="Start"
+            WidthRequest="400" />
+        <StackLayout Grid.Row="3" Margin="40,200,40,40">
+            <Label
+                HorizontalOptions="Start"
+                LineHeight=".85"
+                Style="{StaticResource Header}"
+                Text="{Binding HeroName}"
+                VerticalOptions="Start" />
+            <Label
+                HorizontalOptions="Start"
+                Style="{StaticResource SubHeader}"
+                Text="{Binding RealName}"
+                VerticalOptions="Start" />
+            <Label
+                Margin="0,20,0,0"
+                HorizontalOptions="Start"
+                Style="{StaticResource LearnMore}"
+                Text="know more ⟶ "
+                VerticalOptions="Start" />
+        </StackLayout>
+    </Grid>
+
+</ContentView>

@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage
+﻿<ContentPage
     x:Class="XF_Prism_MarvelCards.Views.HeroCards"
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
@@ -8,52 +7,34 @@
     Title="{Binding Title}">
     <Grid>
         <cards:CardsView
-            x:Name="MainCarView"
+            x:Name="MainCardView"
             IsCyclical="True"
             ItemsSource="{Binding Heros}">
             <cards:CardsView.ItemTemplate>
                 <DataTemplate>
-                    <Grid>
-                        <Grid.RowDefinitions>
-                            <RowDefinition Height="200" />
-                            <RowDefinition Height="*" />
-                        </Grid.RowDefinitions>
-                        <BoxView
-                            Grid.Row="1"
-                            BackgroundColor="{Binding HeroColor}"
-                            CornerRadius="30,30,0,0"
-                            HorizontalOptions="Fill"
-                            VerticalOptions="Fill" />
-                        <Image
-                            Grid.Row="1"
-                            HeightRequest="300"
-                            Source="{Binding Image}"
-                            TranslationY="-150"
-                            VerticalOptions="Start"
-                            WidthRequest="300" />
-                        <StackLayout Grid.Row="1" Margin="40,120,40,40">
-                            <Label
-                                HorizontalOptions="Start"
-                                LineHeight=".85"
-                                Style="{StaticResource Header}"
-                                Text="{Binding HeroName}"
-                                VerticalOptions="Start" />
-                            <Label
-                                HorizontalOptions="Start"
-                                Style="{StaticResource SubHeader}"
-                                Text="{Binding RealName}"
-                                VerticalOptions="Start" />
-                            <Label
-                                Margin="0,20,0,0"
-                                HorizontalOptions="Start"
-                                Style="{StaticResource LearnMore}"
-                                Text="know more ⟶ "
-                                VerticalOptions="Start" />
-                        </StackLayout>
-                    </Grid>
-                    <!--<views:HeroCard />-->
+                    <views:HeroCard />
                 </DataTemplate>
             </cards:CardsView.ItemTemplate>
         </cards:CardsView>
+
+        <Label
+            x:Name="MoviesHeader"
+            Margin="{OnPlatform iOS=30,
+                                Default=10}"
+            HorizontalOptions="Center"
+            Style="{StaticResource TitleHeader}"
+            Text="movies"
+            VerticalOptions="Start" />
+        <Image
+            x:Name="BackArrow"
+            Margin="{OnPlatform iOS='40,33,0,0',
+                                Default='40,15,0,0'}"
+            HorizontalOptions="Start"
+            Source="back_arrow"
+            VerticalOptions="Start">
+            <!--<Image.GestureRecognizers>
+                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
+            </Image.GestureRecognizers>-->
+        </Image>
     </Grid>
 </ContentPage>

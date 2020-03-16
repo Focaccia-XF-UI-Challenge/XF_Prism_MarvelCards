@@ -22,7 +22,7 @@ namespace XF_Prism_MarvelCards
         protected override async void OnInitialized()
         {
             InitializeComponent();
-            await NavigationService.NavigateAsync("NavigationPage/HeroCards");
+            await NavigationService.NavigateAsync("HeroCards");
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
