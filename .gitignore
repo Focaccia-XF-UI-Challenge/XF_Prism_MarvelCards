@@ -19,3 +19,6 @@
 /Common/obj
 /MarvelCardsWebAPI/bin/Debug/netcoreapp3.1
 /MarvelCardsWebAPI/obj
+/Common/bin/Release/netstandard2.0
+/MarvelCardsWebAPI/bin/Release/netcoreapp3.1
+/MarvelCardsWebAPI/Release

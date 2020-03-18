@@ -10,6 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Microsoft.EntityFrameworkCore;
+using MarvelCardsWebAPI.Data;
 
 namespace MarvelCardsWebAPI
 {
@@ -26,6 +28,9 @@ namespace MarvelCardsWebAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            services.AddDbContext<MarvelCardsWebAPIContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("MarvelCardsWebAPIContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -9,6 +9,8 @@ namespace XF_Prism_MarvelCards.ViewModels
 {
     public class ViewModelBase : BindableBase, IInitialize, INavigationAware, IDestructible
     {
+        public string webAPI_Url = "http://localhost:94";
+
         protected INavigationService NavigationService { get; private set; }
 
         private string _title;

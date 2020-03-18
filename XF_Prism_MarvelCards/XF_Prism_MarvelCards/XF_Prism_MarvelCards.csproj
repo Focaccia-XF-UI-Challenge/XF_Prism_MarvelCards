@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="CardsView" Version="2.1.7" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="Xamarin.Forms" Version="4.5.0.356" />
     <PackageReference Include="Prism.DryIoc.Forms" Version="7.2.0.1422" />
     <PackageReference Include="Xamarin.Forms.DebugRainbows" Version="1.1.4" />
