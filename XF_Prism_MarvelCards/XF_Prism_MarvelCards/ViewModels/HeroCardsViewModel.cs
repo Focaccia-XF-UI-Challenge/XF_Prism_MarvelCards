@@ -26,6 +26,7 @@ namespace XF_Prism_MarvelCards.ViewModels
                 SetProperty(ref _heros, value);
             }
         }
+
         public HeroCardsViewModel(INavigationService navigationService)
        : base(navigationService)
         {
@@ -57,7 +58,8 @@ namespace XF_Prism_MarvelCards.ViewModels
         private async Task<ObservableCollection<Hero>> GetHeroList()
         {
             var httpClient = new HttpClient();
-            var json = await httpClient.GetStringAsync($"{webAPI_Url}/api/Heroes");
+            var uri = new Uri(string.Format(Constants.MarvelCardsItemsUrl, "Heroes"));
+            var json = await httpClient.GetStringAsync(uri);
             return JsonConvert.DeserializeObject<ObservableCollection<Hero>>(json);
         }
     }

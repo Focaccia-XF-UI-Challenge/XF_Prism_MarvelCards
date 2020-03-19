@@ -17,6 +17,18 @@ namespace XF_Prism_MarvelCards.Droid
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
+
+#if DEBUG
+            //[Android可以使用模擬器取得WebAPI URL]
+            System.Net.ServicePointManager.ServerCertificateValidationCallback += (sender, certificate, chain, sslPolicyErrors) =>
+            {
+                if (certificate.Issuer.Equals("CN=localhost"))
+                    return true;
+                return sslPolicyErrors == System.Net.Security.SslPolicyErrors.None;
+            };
+#endif
+
+
             LoadApplication(new App(new AndroidInitializer()));
         }
     }
