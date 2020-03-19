@@ -2,12 +2,16 @@
 using System.Diagnostics;
 using System.Linq;
 using Xamarin.Forms;
+using XF_Prism_MarvelCards.Common;
 using XF_Prism_MarvelCards.ViewModels;
 
 namespace XF_Prism_MarvelCards.Views
 {
     public partial class HeroCards : ContentPage
     {
+        private double _heroImageTranslationY = -150;
+        private double _movementFactor = 0;
+
         public HeroCards()
         {
             InitializeComponent();
@@ -18,6 +22,37 @@ namespace XF_Prism_MarvelCards.Views
         {
             base.OnAppearing();
             MainCardView.UserInteracted += MainCarView_UserInteracted;
+            MessagingCenter.Subscribe<CardEvent>(this, CardState.Expanded.ToString(), CardExpand);
+
+        }
+
+        private void CardExpand(CardEvent obj)
+        {
+            //關掉滑動功能
+            MainCardView.IsUserInteractionEnabled = false;
+
+            AnimationTitle(CardState.Expanded);
+        }
+
+
+
+        private void BackArrowTapGestureRecognizer_Tapped(object sender, EventArgs e)
+        {
+            AnimationTitle(CardState.Collapsed);
+            ((HeroCard)MainCardView.CurrentView).GoToState(CardState.Collapsed);
+
+            MainCardView.IsUserInteractionEnabled = true; // 是否可以使用 (不影響UI的寫法)
+        }
+
+        private void AnimationTitle(CardState cardState)
+        {
+            var translationY = cardState == CardState.Expanded ? 0 - (MoviesHeader.Height + MoviesHeader.Margin.Top) : 0; //使用畫面上所設定元件的高度去調整而非寫一個固定的數字
+            var opacity = cardState == CardState.Expanded ? 0 : 1;
+
+            var animation = new Animation();
+            animation.Add(0, 1, new Animation(v => MoviesHeader.TranslationY = v, MoviesHeader.TranslationY, translationY));
+            animation.Add(0, 1, new Animation(v => MoviesHeader.Opacity = v, MoviesHeader.Opacity, opacity));
+            animation.Commit(this, "titleAnimation", 20, 400);
         }
 
 
@@ -25,6 +60,7 @@ namespace XF_Prism_MarvelCards.Views
         {
             base.OnDisappearing();
             MainCardView.UserInteracted -= MainCarView_UserInteracted;
+            MessagingCenter.Unsubscribe<CardEvent>(this, CardState.Expanded.ToString());
         }
 
         private void MainCarView_UserInteracted(PanCardView.CardsView view,
@@ -38,24 +74,12 @@ namespace XF_Prism_MarvelCards.Views
                 var percentFromCenter = Math.Abs(args.Diff / this.Width);
                 //Debug.WriteLine($" 當滑動換面時: {args.Diff}");
                 Debug.WriteLine($" 計算百分比: {percentFromCenter}");
-                //設定滑動時的透明度
-                var opacity = 1 - percentFromCenter;
-                if (opacity > 1) opacity = 1;
+                Debug.WriteLine($" Scale: {Scale}");
 
-                Debug.WriteLine($"透明度: {opacity}");
-                card.MainImage.Opacity = opacity;
-                card.Opacity = opacity;
-                //改變圖檔的大小
-                var scale = (1 - (percentFromCenter) * 1.5);
-                if (scale > 1) scale = 1;
-                //Debug.WriteLine($" 縮小: {scale}");
-                card.MainImage.Scale = scale;
+                if (percentFromCenter > 0 && card.Scale == 1)
+                    card.ScaleTo(.95, 50); //??
 
-                var imageBaseMargin = -150;
-                var movementFactor = 0;
-
-                var translation = imageBaseMargin + (movementFactor * percentFromCenter);
-                card.MainImage.TranslationY = translation;
+                AnimateFrontCardDuringSwipe(card, percentFromCenter);
 
                 //調整後面那張圖的透明度
                 var nectCard = MainCardView.CurrentBackViews.First() as HeroCard;
@@ -66,10 +90,8 @@ namespace XF_Prism_MarvelCards.Views
             if (args.Status == PanCardView.Enums.UserInteractionStatus.Ended ||
                args.Status == PanCardView.Enums.UserInteractionStatus.Ending)
             {
-                card.Opacity = 1;
-                card.MainImage.Scale = 1;
-                card.MainImage.TranslationY = -150;
-                card.MainImage.Opacity = 1;
+                AnimateFrontCardDuringSwipe(card, 0);
+                card.ScaleTo(1, 50);//??
             }
         }
 
@@ -92,8 +114,29 @@ namespace XF_Prism_MarvelCards.Views
             }
             return inclusiveMaximum;
         }
-        //private void TapGestureRecognizer_Tapped(object sender, EventArgs e)
-        //{
-        //}
+
+        /// <summary>
+        /// 當前方的卡片在滑動時要做的事
+        /// </summary>
+        /// <param name="card"></param>
+        /// <param name="percentFromCenter"></param>
+        private void AnimateFrontCardDuringSwipe(HeroCard card, double percentFromCenter)
+        {
+            // 調整整個 HeroCard 的透明度
+            MainCardView.CurrentView.Opacity = LimitToRange((1 - (percentFromCenter)) * 2, 0, 1);
+
+            #region 針對HeroCard 上的圖檔進行微調
+            //大小
+            card.MainImage.Scale = LimitToRange((1 - (percentFromCenter) * 1.5), 0, 1);
+
+            //從上往下移動
+            card.MainImage.TranslationY = _heroImageTranslationY + (_movementFactor * percentFromCenter);
+
+            //透明度
+            card.MainImage.Opacity = LimitToRange((1 - (percentFromCenter)) * 1.5, 0, 1); ;
+            #endregion
+        }
+
+
     }
 }

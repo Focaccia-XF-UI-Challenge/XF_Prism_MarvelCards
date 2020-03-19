@@ -27,8 +27,6 @@ namespace XF_Prism_MarvelCards.Droid
                 return sslPolicyErrors == System.Net.Security.SslPolicyErrors.None;
             };
 #endif
-
-
             LoadApplication(new App(new AndroidInitializer()));
         }
     }
