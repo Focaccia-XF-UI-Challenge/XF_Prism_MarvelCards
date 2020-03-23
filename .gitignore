@@ -1,4 +1,4 @@
-﻿################################################################################
+################################################################################
 # 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
 ################################################################################
 
@@ -22,3 +22,14 @@
 /Common/bin/Release/netstandard2.0
 /MarvelCardsWebAPI/bin/Release/netcoreapp3.1
 /MarvelCardsWebAPI/Release
+XF_Prism_MarvelCards/XF_Prism_MarvelCards.UWP/bin/x86/Debug/App.xbf
+XF_Prism_MarvelCards/XF_Prism_MarvelCards.UWP/bin/x86/Debug/MainPage.xbf
+XF_Prism_MarvelCards/XF_Prism_MarvelCards.UWP/bin/x86/Debug/XF_Prism_MarvelCards.dll
+XF_Prism_MarvelCards/XF_Prism_MarvelCards.UWP/bin/x86/Debug/XF_Prism_MarvelCards.pdb
+XF_Prism_MarvelCards/XF_Prism_MarvelCards.UWP/bin/x86/Debug/XF_Prism_MarvelCards.UWP.exe
+XF_Prism_MarvelCards/XF_Prism_MarvelCards.UWP/bin/x86/Debug/XF_Prism_MarvelCards.UWP.pdb
+XF_Prism_MarvelCards/XF_Prism_MarvelCards.UWP/bin/x86/Debug/AppX/App.xbf
+XF_Prism_MarvelCards/XF_Prism_MarvelCards.UWP/bin/x86/Debug/AppX/MainPage.xbf
+XF_Prism_MarvelCards/XF_Prism_MarvelCards.UWP/bin/x86/Debug/AppX/vs.appxrecipe
+XF_Prism_MarvelCards/XF_Prism_MarvelCards.UWP/bin/x86/Debug/AppX/XF_Prism_MarvelCards.dll
+XF_Prism_MarvelCards/XF_Prism_MarvelCards.UWP/bin/x86/Debug/AppX/entrypoint/XF_Prism_MarvelCards.UWP.exe
