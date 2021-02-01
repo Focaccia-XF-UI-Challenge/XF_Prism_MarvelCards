@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MarvelCardsWebAPI.Data;
 using XF_Prism_MarvelCards.Model;
+using Microsoft.AspNetCore.Authorization;
 
 namespace MarvelCardsWebAPI.Controllers
 {
@@ -23,6 +24,7 @@ namespace MarvelCardsWebAPI.Controllers
 
         // GET: api/Heroes
         [HttpGet]
+        [Authorize]
         public async Task<ActionResult<IEnumerable<Hero>>> GetHero()
         {
             return await _context.Hero.ToListAsync();

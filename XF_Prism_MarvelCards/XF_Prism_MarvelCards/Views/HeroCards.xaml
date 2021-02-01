@@ -20,19 +20,19 @@
         <Label
             x:Name="MoviesHeader"
             Margin="{OnPlatform iOS=30,
-                                Default=10}"
-            HorizontalOptions="Center"
-            Style="{StaticResource TitleHeader}"
+                                Default=20}"
             Text="movies"
-            VerticalOptions="Start" />
+            HorizontalOptions="Center"
+            VerticalOptions="Start"
+            Style="{StaticResource TitleHeader}" />
         <Image
             x:Name="BackArrow"
             Margin="{OnPlatform iOS='40,33,0,0',
                                 UWP='40,10,0,0',
                                 Default='40,15,0,0'}"
             HorizontalOptions="Start"
-            Source="back_arrow.png"
-            VerticalOptions="Start">
+            VerticalOptions="Start"
+            Source="back_arrow.png">
             <Image.GestureRecognizers>
                 <TapGestureRecognizer Tapped="BackArrowTapGestureRecognizer_Tapped" />
             </Image.GestureRecognizers>

@@ -25,7 +25,11 @@ namespace MarvelCardsWebAPI.Data
                     HeroName = "spider man",
                     RealName = "peter parker",
                     HeroColor = "#C51925",
-                    Image = "spiderman.png"
+                    Image = "spiderman.png",
+                    DB_CRDAT = DateTime.Now,
+                    DB_CRUSR = "David",
+                    DB_TRUSR = null,
+                    DB_TRDAT = null
                 },
                 new Hero()
                 {
@@ -33,7 +37,11 @@ namespace MarvelCardsWebAPI.Data
                     HeroName = "iron man",
                     RealName = "tony stark",
                     HeroColor = "#DF8E04",
-                    Image = "ironman.png"
+                    Image = "ironman.png",
+                    DB_CRDAT = DateTime.Now,
+                    DB_CRUSR = "David",
+                    DB_TRUSR = null,
+                    DB_TRDAT = null
                 },
                 new Hero()
                 {
@@ -41,7 +49,11 @@ namespace MarvelCardsWebAPI.Data
                     HeroName = "This is Test Data",
                     RealName = "tony stark",
                     HeroColor = "#5DDF04",
-                    Image = "ironman.png"
+                    Image = "ironman.png",
+                    DB_CRDAT = DateTime.Now,
+                    DB_CRUSR = "David",
+                    DB_TRUSR = null,
+                    DB_TRDAT = null
                 },
                 new Hero()
                 {
@@ -49,7 +61,11 @@ namespace MarvelCardsWebAPI.Data
                     HeroName = "This is Test Data2",
                     RealName = "tony stark",
                     HeroColor = "#040DDF",
-                    Image = "ironman.png"
+                    Image = "ironman.png",
+                    DB_CRDAT = DateTime.Now,
+                    DB_CRUSR = "David",
+                    DB_TRUSR = null,
+                    DB_TRDAT = null
                 }
                  );
         }

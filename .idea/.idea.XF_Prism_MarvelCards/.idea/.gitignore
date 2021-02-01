@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/.idea.XF_Prism_MarvelCards.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../:\simon\XF_Challenge\XF_Prism_MarvelCards\.idea\.idea.XF_Prism_MarvelCards\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

@@ -12,6 +12,9 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
 using MarvelCardsWebAPI.Data;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 namespace MarvelCardsWebAPI
 {
@@ -31,6 +34,28 @@ namespace MarvelCardsWebAPI
 
             services.AddDbContext<MarvelCardsWebAPIContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("MarvelCardsWebAPIContext")));
+
+            #region 設定JWT
+            // STEP1: 設定用哪種方式驗證 HTTP Request 是否合法
+            services
+                // 檢查 HTTP Header 的 Authorization 是否有 JWT Bearer Token
+                .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                // 設定 JWT Bearer Token 的檢查選項
+                .AddJwtBearer(options =>
+                {
+                    options.TokenValidationParameters = new TokenValidationParameters
+                    {
+                        ValidateIssuer = true,
+                        ValidIssuer = Configuration["Jwt:Issuer"],
+                        ValidateAudience = true,
+                        ValidAudience = Configuration["Jwt:Issuer"],
+                        ValidateLifetime = true,
+                        ValidateIssuerSigningKey = true,
+                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]))
+                    };
+                });
+            #endregion
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -40,6 +65,9 @@ namespace MarvelCardsWebAPI
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            // STEP2: 使用驗證權限的 Middleware
+            app.UseAuthentication();
 
             app.UseHttpsRedirection();
 

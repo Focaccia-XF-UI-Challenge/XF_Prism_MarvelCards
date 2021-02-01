@@ -1,6 +1,5 @@
 ﻿using SkiaSharp;
 using SkiaSharp.Views.Forms;
-using System;
 using Xamarin.Forms;
 using XF_Prism_MarvelCards.Common;
 using XF_Prism_MarvelCards.Model;
@@ -15,8 +14,8 @@ namespace XF_Prism_MarvelCards.Views
         private float _cornerRadius = 60f;
         private CardState _cardState = CardState.Collapsed;
         private float _gradientHeight = 200f;
-        SKColor _heroColor;
-        SKPaint _heroPaint;
+        private SKColor _heroColor;
+        private SKPaint _heroPaint;
         private float _cardTopAnimPosition;
         private float _gradientTransitionY;
 
@@ -61,8 +60,8 @@ namespace XF_Prism_MarvelCards.Views
         //        return HeroImage;
         //    }
         //}
-        #endregion
 
+        #endregion MainImage相同寫法簡化
 
         private void KnowMoreTapGestureRecognizer_Tapped(object sender, System.EventArgs e)
         {
@@ -106,7 +105,6 @@ namespace XF_Prism_MarvelCards.Views
                 ShadowBoxViewAnimation(cardState);
             }
             parentAnimation.Commit(this, "CardExpand", 16, 2000);
-
         }
 
         /// <summary>
@@ -218,7 +216,6 @@ namespace XF_Prism_MarvelCards.Views
 
             return imageAnim;
         }
-
 
         private Animation CreateImageAnimation(CardState cardState)
         {

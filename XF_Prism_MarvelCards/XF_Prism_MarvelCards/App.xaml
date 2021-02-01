@@ -41,7 +41,7 @@
             <Setter Property="FontSize" Value="26" />
             <Setter Property="TextColor" Value="Black" />
         </Style>
-        <Style x:Key="BioText" TargetType="Label">
+        <Style x:Key="BodyText" TargetType="Label">
             <Setter Property="FontFamily" Value="{StaticResource BodyFont}" />
             <Setter Property="FontSize" Value="14" />
             <Setter Property="TextColor" Value="#716F6F" />

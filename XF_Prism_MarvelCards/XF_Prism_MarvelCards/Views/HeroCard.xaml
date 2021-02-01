@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
+
 <ContentView
     x:Class="XF_Prism_MarvelCards.Views.HeroCard"
     xmlns="http://xamarin.com/schemas/2014/forms"
@@ -6,7 +7,6 @@
     xmlns:prism="http://prismlibrary.com"
     xmlns:skia="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
     prism:ViewModelLocator.AutowireViewModel="True">
-
 
     <Grid>
         <Grid.RowDefinitions>
@@ -19,27 +19,27 @@
         <skia:SKCanvasView
             x:Name="CardBackground"
             Grid.RowSpan="4"
-            HorizontalOptions="Fill"
             PaintSurface="CardBackground_PaintSurface"
+            HorizontalOptions="Fill"
             VerticalOptions="Fill" />
         <BoxView
             x:Name="ShadowBox_1"
             Grid.Row="1"
             Margin="80,0,80,0"
             CornerRadius="30,30,0,0"
-            HorizontalOptions="Fill"
             Opacity="0.35"
-            Style="{StaticResource GradientBox}"
-            VerticalOptions="Fill" />
+            HorizontalOptions="Fill"
+            VerticalOptions="Fill"
+            Style="{StaticResource GradientBox}" />
         <BoxView
             x:Name="ShadowBox_2"
             Grid.Row="2"
             Margin="40,0,40,0"
             CornerRadius="30,30,0,0"
-            HorizontalOptions="Fill"
             Opacity="0.7"
-            Style="{StaticResource GradientBox}"
-            VerticalOptions="Fill" />
+            HorizontalOptions="Fill"
+            VerticalOptions="Fill"
+            Style="{StaticResource GradientBox}" />
         <!--<BoxView
             Grid.Row="3"
             BackgroundColor="{Binding HeroColor}"
@@ -50,36 +50,35 @@
             x:Name="HeroImage"
             Grid.Row="3"
             HeightRequest="400"
-            Source="{Binding Image}"
             TranslationY="-150"
+            WidthRequest="400"
             VerticalOptions="Start"
-            WidthRequest="400" />
+            Source="{Binding Image}" />
         <StackLayout Grid.Row="3" Margin="40,200,40,40">
             <Label
                 x:Name="HeroNameLabel"
-                HorizontalOptions="Start"
                 LineHeight=".85"
-                Style="{StaticResource Header}"
                 Text="{Binding HeroName}"
-                VerticalOptions="Start" />
+                HorizontalOptions="Start"
+                VerticalOptions="Start"
+                Style="{StaticResource Header}" />
             <Label
                 x:Name="RealNameLabel"
-                HorizontalOptions="Start"
-                Style="{StaticResource SubHeader}"
                 Text="{Binding RealName}"
-                VerticalOptions="Start" />
+                HorizontalOptions="Start"
+                VerticalOptions="Start"
+                Style="{StaticResource SubHeader}" />
             <Label
                 x:Name="knowMoreLabel"
                 Margin="0,10,0,0"
-                HorizontalOptions="Start"
-                Style="{StaticResource LearnMore}"
                 Text="know more ⟶ "
-                VerticalOptions="Start">
+                HorizontalOptions="Start"
+                VerticalOptions="Start"
+                Style="{StaticResource LearnMore}">
                 <Label.GestureRecognizers>
                     <TapGestureRecognizer Tapped="KnowMoreTapGestureRecognizer_Tapped" />
                 </Label.GestureRecognizers>
             </Label>
         </StackLayout>
     </Grid>
-
 </ContentView>
